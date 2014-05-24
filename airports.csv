@@ -3,9 +3,9 @@ UTK,169.86667,MH,1,Utirik Airport,OC,airport,11.233333,small
 FIV,,US,1,Five Finger CG Heliport,NA,heliport,,
 FAK,,US,1,False Island Seaplane Base,NA,seaplanes,,
 BWS,,US,,Blaine Municipal Airport,NA,closed,,
-WKK,-158.61111,US,1,Aleknagik / New Airport,NA,airport,59.27778,medium
+AAF,-84.98333,US,1,Apalachicola Regional Airport,NA,airport,29.733334,small
 TSS,,US,1,East 34th Street Heliport,NA,heliport,,
-FOB,-123.79444,US,1,Fort Bragg Airport,NA,airport,39.474445,small
+ABE,-75.434364,US,1,Lehigh Valley International Airport,NA,airport,40.651573,medium
 ABP,141.1,PG,1,Atkamba Airport,OC,airport,-6.066667,small
 ALV,,AD,1,Andorra la Vella Heliport,EU,heliport,,
 ADC,145.73334,PG,1,Andakombe Airport,OC,airport,-7.133333,small
@@ -49,7 +49,6 @@ AIP,168.81667,MH,1,Ailinglaplap Airport,OC,airport,7.266667,small
 AOS,,US,1,Amook Bay Seaplane Base,NA,seaplanes,,
 AKM,19.816668,TD,1,Zakuoma Airport,AF,airport,10.883333,small
 ALZ,,US,1,Alitak Seaplane Base,NA,seaplanes,,
-AMC,20.283333,MX,1,,NA,airport,11.033333,large
 AME,37.583332,MZ,1,Alto Molocue Airport,AF,airport,-15.833333,small
 AMF,141.66667,PG,1,AMA Airport,OC,airport,-4.166667,small
 AMU,141.15,PG,1,Amanab Airport,OC,airport,-3.516667,small
@@ -66,7 +65,7 @@ NDF,14.833333,AO,1,Ndalatandos Airport,AF,airport,-9.333333,small
 AOB,144.65,PG,1,Annanberg Airport,OC,airport,-4.916667,small
 APP,148.13333,PG,1,Asapa Airport,OC,airport,-8.983333,small
 APR,145,PG,1,April River Airport,OC,airport,-8.5,small
-AQY,-149.11667,US,1,Girdwood Airport,NA,airport,60.966667,small
+ABI,-99.679726,US,1,Abilene Regional Airport,NA,airport,32.409443,medium
 QRF,-60.466667,AR,1,Bragado Airport,SA,airport,-35.13333,small
 CSZ,-61.88333,AR,1,Brigadier Hector Ruiz Airport,SA,airport,-37.433334,small
 CVI,-67.416664,AR,1,Caleta Olivia Airport,SA,airport,-46.416668,small
@@ -226,7 +225,7 @@ BLO,-20.3,IS,1,Hjaltabakki Airport,EU,airport,65.666664,small
 BQD,,IS,1,,EU,airport,,small
 BXV,-14,IS,1,,EU,airport,64.76667,small
 DJU,-14.268333,IS,1,,EU,airport,64.650276,small
-EGS,-14.402778,IS,1,,EU,airport,65.27778,medium
+AES,6.116605,NO,1,"Ålesund Airport, Vigra",EU,airport,62.559643,medium
 FAS,-14.016667,IS,1,,EU,airport,64.95,small
 FAG,-16.65,IS,1,,EU,airport,63.88333,small
 GUU,-23.166668,IS,1,,EU,airport,64.96667,small
@@ -238,7 +237,7 @@ FLI,-23.7,IS,1,Holt Airport,EU,airport,65.98333,small
 HZK,-17.427778,IS,1,Husavik Airport,EU,airport,65.95528,medium
 HVM,-21,IS,1,,EU,airport,65.416664,small
 HLO,15.5,IS,1,,EU,airport,29.5,small
-IFJ,-23.132778,IS,1,,EU,airport,66.05972,medium
+AGH,12.8625,SE,1,Ängelholm-Helsingborg Airport,EU,airport,56.293056,medium
 KEF,-22.624283,IS,1,Keflavik International Airport,EU,airport,63.997765,large
 OPA,-16.483334,IS,1,,EU,airport,66.416664,small
 SAK,-19.65,IS,1,,EU,airport,65.75,small
@@ -259,7 +258,7 @@ VEY,-20.277779,IS,1,Vestmannaeyjar Airport,EU,airport,63.426388,medium
 VPN,-14.846748,IS,1,,EU,airport,65.72167,small
 BJE,,SD,1,Baleela Airport,AF,airport,,small
 BJQ,,OM,1,Bahja Airport,AS,airport,,small
-PRN,21.035557,KS,1,,EU,airport,42.573612,large
+AGP,-4.489616,ES,1,Pablo Ruiz Picasso Airport,EU,airport,36.675182,large
 BLM,-74.01667,MX,1,Bahia De Los Angelos South,NA,airport,40.183334,small
 BMQ,39.833332,KE,1,Bamburi Airport,AF,airport,-4.5,small
 RBQ,-67.55,BO,1,Rurenabaque Airport,SA,airport,-14.45,small
@@ -304,7 +303,7 @@ YWM,-56.01282,CA,1,Williams Harbour Airport,NA,airport,52.335438,small
 YFX,-55.683334,CA,1,St. Lewis (Fox Harbour) Airport,NA,airport,52.36667,small
 YHA,-56.3,CA,1,Port Hope Simpson Airport,NA,airport,52.533333,small
 YRG,-58.416668,CA,1,Rigolet Airport,NA,airport,54.333332,small
-CDK,-83.03333,US,1,George T Lewis Airport,NA,airport,29.133333,small
+ABL,-157.84584,US,1,Ambler Airport,NA,airport,67.0875,medium
 YCK,-126.09047,CA,1,Colville Lake Airport,NA,airport,67.03993,small
 EE7,,CA,1,Edmonton/Cooking Lake Seaplane Base,NA,seaplanes,,
 YLE,-117.24318,CA,1,,NA,airport,63.132942,small
@@ -347,7 +346,7 @@ YAU,-73.31694,CA,1,Donaldson Airport,NA,airport,61.662777,small
 TR7,,CA,1,Ottawa / Rockcliffe Seaplane Base,NA,seaplanes,,
 ZLT,-58.97601,CA,1,,NA,airport,50.828056,small
 PST,-75.666664,CU,1,Preston Airport,NA,airport,20.75,small
-GEC,33.716667,CY,1,,AS,airport,35.233334,medium
+AJA,8.794013,FR,1,Ajaccio - Campo dell'Oro Airport,EU,airport,41.91987,medium
 NIC,,CY,,Nicosia International Airport,AS,closed,,
 YAC,-91.816666,CA,1,Cat Lake Airport,NA,airport,51.716667,medium
 YAG,-93.44722,CA,1,Fort Frances Municipal Airport,NA,airport,48.65278,medium
@@ -426,12 +425,12 @@ YGB,-124.53333,CA,1,Texada Gillies Bay Airport,NA,airport,49.7,medium
 YGD,,CA,1,Goderich Airport,NA,airport,,medium
 YGH,-128.65,CA,1,Fort Good Hope Airport,NA,airport,66.26667,medium
 YGK,-76.59366,CA,1,Kingston Norman Rogers Airport,NA,airport,44.219513,medium
-YGL,-77.70639,CA,1,,NA,airport,53.629723,medium
+ANG,0.216667,FR,1,Angoulême - Brie - Champniers Airport,EU,airport,45.733334,medium
 YGM,-97,CA,1,Gimli Industrial Park Airport,NA,airport,50.666668,medium
 YGO,-94.49117,CA,1,Gods Lake Narrows Airport,NA,airport,54.5577,medium
-YGP,-64.48333,CA,1,,NA,airport,48.766666,medium
+ANX,16.133326,NO,1,"Andøya Airport, Andenes",EU,airport,69.30492,medium
 YGQ,-86.93593,CA,1,Geraldton Greenstone Regional Airport,NA,airport,49.779892,medium
-YGR,-61.9,CA,1,,NA,airport,47.36667,medium
+APS,-48.966667,BR,1,Anápolis Airport,SA,airport,-16.333332,medium
 YGT,-81.816666,CA,1,Igloolik Airport,NA,airport,69.4,medium
 YGV,-63.583332,CA,1,Havre St Pierre Airport,NA,airport,50.25,medium
 YGW,-77.76667,CA,1,Kuujjuarapik Airport,NA,airport,55.279167,medium
@@ -441,7 +440,7 @@ YQC,-69.63333,CA,1,Quaqtaq Airport,NA,airport,61.333332,medium
 CXH,,CA,1,Vancouver Harbour Water Aerodrome,NA,seaplanes,,
 YHD,-92.833336,CA,1,Dryden Regional Airport,NA,airport,49.783333,medium
 YHE,-121.416664,CA,1,Hope Airport,NA,airport,49.416668,medium
-YHF,-83.683334,CA,1,,NA,airport,49.716667,medium
+AQP,-71.56799,PE,1,Rodriguez Ballon International Airport,SA,airport,-16.344812,medium
 YNS,-76.74167,CA,1,Nemiscau Airport,NA,airport,49.74167,medium
 YHI,-117.71667,CA,1,Ulukhaktok Holman Airport,NA,airport,70.71667,medium
 YHK,-95.95,CA,1,Gjoa Haven Airport,NA,airport,68.63333,medium
@@ -450,7 +449,7 @@ YHN,-84.78333,CA,1,Hornepayne Municipal Airport,NA,airport,49.216667,medium
 YHO,-60.229443,CA,1,Hopedale Airport,NA,airport,55.448334,medium
 YHR,-59.5,CA,1,Chevery Airport,NA,airport,50.5,medium
 YHT,-137.5,CA,1,Haines Junction Airport,NA,airport,60.75,medium
-YHU,-73.6,CA,1,,NA,airport,45.5,medium
+ARU,-50.42611,BR,1,Araçatuba Airport,SA,airport,-21.143612,medium
 YHY,-115.778336,CA,1,Hay River / Merlyn Carter Airport,NA,airport,60.845554,medium
 YHZ,-63.51425,CA,1,Halifax / Stanfield International Airport,NA,airport,44.88496,large
 YIB,-91.61667,CA,1,Atikokan Municipal Airport,NA,airport,48.75,medium
@@ -550,12 +549,12 @@ YQY,-60.05,CA,1,Sydney / J.A. Douglas McCurdy Airport,NA,airport,46.166668,mediu
 YQZ,-122.50972,CA,1,Quesnel Airport,NA,airport,53.02667,medium
 YRA,-117.35,CA,1,Rae Lakes Airport,NA,airport,64.11667,medium
 YRB,-94.96667,CA,1,Resolute Bay Airport,NA,airport,74.71667,medium
-YRI,-69.53333,CA,1,,NA,airport,47.833332,medium
+ATF,-78.7,EC,1,Chachoan Airport,SA,airport,-1.083333,medium
 YRJ,-72.26733,CA,1,Roberval Airport,NA,airport,48.522343,medium
 YRL,-93.80006,CA,1,Red Lake Airport,NA,airport,51.068764,medium
 YRO,-75.76459,CA,1,Ottawa / Rockcliffe Airport,NA,airport,45.4592,medium
 YRP,,CA,1,Ottawa / Carp Airport,NA,airport,,medium
-YRQ,-72.683334,CA,1,,NA,airport,46.35,medium
+ATG,72.25,PE,1,Attock Airport,SA,airport,33.9,medium
 YRS,-93.55762,CA,1,Red Sucker Lake Airport,NA,airport,54.16757,medium
 YRT,-92.10019,CA,1,Rankin Inlet Airport,NA,airport,62.80998,medium
 YRV,-118.166664,CA,1,Revelstoke Airport,NA,airport,51,medium
@@ -603,7 +602,7 @@ YVZ,-94.5,CA,1,Deer Lake Airport,NA,airport,52.666668,medium
 YWA,-77.28333,CA,1,Petawawa Airport,NA,airport,45.9,medium
 YWG,-97.23333,CA,1,Winnipeg / James Armstrong Richardson International Airport,NA,airport,49.9,large
 YWH,,CA,1,Victoria Harbour Seaplane Base,NA,seaplanes,,
-YWJ,-123.5,CA,1,,NA,airport,65.166664,medium
+BBT,15.788056,CF,1,,AF,airport,4.219167,medium
 YWK,-66.874,CA,1,Wabush Airport,NA,airport,52.926315,medium
 YWL,-122.04444,CA,1,Williams Lake Airport,NA,airport,52.184723,medium
 YWP,-87.36889,CA,1,Webequie Airport,NA,airport,52.95972,medium
@@ -653,7 +652,7 @@ YZR,-82.31111,CA,1,Chris Hadfield Airport,NA,airport,42.997223,medium
 YZS,-83.36667,CA,1,Coral Harbour Airport,NA,airport,64.2,medium
 YZT,-127.36389,CA,1,Port Hardy Airport,NA,airport,50.680557,medium
 YZU,-115.78333,CA,1,Whitecourt Airport,NA,airport,54.15,medium
-YZV,-66.26404,CA,1,,NA,airport,50.21751,medium
+BJF,29.666668,NO,1,,EU,airport,70.6,medium
 YZW,-132.71666,CA,1,Teslin Airport,NA,airport,60.166668,medium
 YZX,-118.666664,CA,1,CFB Greenwood,NA,airport,49.166668,medium
 YZY,100.660835,CA,1,Mackenzie Airport,NA,airport,38.8075,medium
@@ -700,22 +699,22 @@ DJG,9.488889,DZ,1,Djanet Inedbirene Airport,AF,airport,24.465279,medium
 QFD,,DZ,1,Boufarik Airport,AF,airport,,medium
 VVZ,8.55,DZ,1,Illizi Takhamalt Airport,AF,airport,26.533333,medium
 QSF,5.331111,DZ,1,Ain Arnat Airport,AF,airport,36.18139,medium
-TMR,5.459167,DZ,1,,AF,airport,22.814722,medium
+BJX,-101.479,MX,1,,NA,airport,20.985699,medium
 GJL,5.883333,DZ,1,Jijel Ferhat Abbas Airport,AF,airport,36.8,medium
 MZW,-0.242177,DZ,1,Mecheria Airport,AF,airport,33.5354,medium
 QZN,0.533333,DZ,1,Relizane Airport,AF,airport,35.833332,medium
 AAE,7.811857,DZ,1,Annaba Airport,AF,airport,36.821392,medium
 CZL,6.618425,DZ,1,Mohamed Boudiaf International Airport,AF,airport,36.286476,medium
-TEE,8.124067,DZ,1,,AF,airport,35.428593,medium
+BMY,163.66667,NC,1,,OC,airport,-19.75,medium
 BLJ,6.183333,DZ,1,Batna Airport,AF,airport,35.566666,medium
 HRM,3.2,DZ,1,Hassi R'Mel Airport,AF,airport,33.166668,medium
 TID,1.46946,DZ,1,Bou Chekif Airport,AF,airport,35.343273,medium
 TIN,-8.163246,DZ,1,Tindouf Airport,AF,airport,27.701162,medium
 QAS,,DZ,1,Ech Cheliff Airport,AF,airport,,medium
 TAF,-0.610556,DZ,1,Tafaraoui Airport,AF,airport,35.627777,medium
-TLM,-1.45,DZ,1,,AF,airport,35.016666,medium
+BNN,12.215772,NO,1,,EU,airport,65.4617,medium
 ORN,-0.606108,DZ,1,Es Senia Airport,AF,airport,35.620018,medium
-CBH,-2.259722,DZ,1,,AF,airport,31.647778,medium
+BPG,-52.38333,BR,1,,SA,airport,-15.85,medium
 MUW,0.147669,DZ,1,Ghriss Airport,AF,airport,35.208534,medium
 EBH,1.094105,DZ,1,El Bayadh Airport,AF,airport,33.717804,small
 INF,5.866667,DZ,1,In Guezzam Airport,AF,airport,19.616667,small
@@ -723,7 +722,7 @@ BMW,0.926334,DZ,1,Bordj Badji Mokhtar Airport,AF,airport,21.375816,small
 AZR,-0.283333,DZ,1,Touat Cheikh Sidi Mohamed Belkebir Airport,AF,airport,27.883333,medium
 BSK,5.738056,DZ,1,Biskra Airport,AF,airport,34.79333,medium
 ELG,2.864722,DZ,1,El Golea Airport,AF,airport,30.5675,medium
-GHA,3.800556,DZ,1,,AF,airport,32.38222,medium
+BSC,-77.4,CO,1,,SA,airport,6.183333,medium
 HME,6.145436,DZ,1,Oued Irara Airport,AF,airport,31.675303,medium
 INZ,2.516667,DZ,1,In Salah Airport,AF,airport,27.25,medium
 TGR,6.089239,DZ,1,Touggourt Sidi Madhi Airport,AF,airport,33.066948,medium
@@ -731,7 +730,7 @@ LOO,2.934811,DZ,1,Laghouat Airport,AF,airport,33.76102,medium
 ELU,6.784614,DZ,1,Guemar Airport,AF,airport,33.5095,medium
 TMX,0.284086,DZ,1,Timimoun Airport,AF,airport,29.24174,medium
 OGX,5.4,DZ,1,Ain el Beida Airport,AF,airport,31.916668,medium
-IAM,9.638056,DZ,1,,AF,airport,28.051111,medium
+BUN,-76.995834,CO,1,,SA,airport,3.825,medium
 COO,2.385271,BJ,1,Cadjehoun Airport,AF,airport,6.353097,medium
 KDC,2.916667,BJ,1,Kandi Airport,AF,airport,11.116667,small
 NAE,1.366667,BJ,1,Natitingou Airport,AF,airport,10.383333,small
@@ -774,7 +773,7 @@ DHB,,US,1,Deer Harbor SPB,NA,seaplanes,,
 ABJ,-3.933015,CI,1,Port Bouet Airport,AF,airport,5.254879,medium
 OGO,-3.45,CI,1,Abengourou Airport,AF,airport,6.7,small
 BXI,-6.5,CI,1,Boundiali Airport,AF,airport,8.75,small
-BYK,-5.069167,CI,1,,AF,airport,7.739444,medium
+BVA,2.110815,FR,1,,EU,airport,49.459488,medium
 BQO,-3,CI,1,Bouna Airport,AF,airport,9.266667,small
 BDK,-2.8,CI,1,Soko Airport,AF,airport,8.033333,small
 DIM,-4.766667,CI,1,Dimbokro Airport,AF,airport,6.75,small
@@ -825,19 +824,19 @@ MIR,10.753155,TN,1,Monastir Habib Bourguiba International Airport,AF,airport,35.
 TUN,10.21709,TN,1,Tunis Carthage International Airport,AF,airport,36.847622,large
 OIZ,,TN,1,Sidi Ahmed Air Base,AF,airport,,medium
 GAF,8.816667,TN,1,Gafsa Ksar International Airport,AF,airport,34.416668,medium
-GAE,9.919377,TN,1,,AF,airport,33.73569,medium
+BVG,29,NO,1,,EU,airport,70.86667,medium
 DJE,10.775145,TN,1,Djerba Zarzis International Airport,AF,airport,33.87118,medium
 EBM,9.266667,TN,1,El Borma Airport,AF,airport,31.716667,medium
 SFA,10.683333,TN,1,Sfax Thyna International Airport,AF,airport,34.716667,medium
 TOE,8.133333,TN,1,Tozeur Nefta International Airport,AF,airport,33.916668,medium
 DWR,,AF,1,Dywer Airbase,AS,airport,,small
 LRL,1.133333,TG,1,Niamtougou International Airport,AF,airport,9.833333,medium
-LFW,1.250347,TG,1,,AF,airport,6.167103,medium
+BYK,-5.069167,CI,1,,AF,airport,7.739444,medium
 ANR,4.450672,BE,1,Antwerp International Airport (Deurne),EU,airport,51.18916,medium
 BRU,4.483602,BE,1,Brussels Airport,EU,airport,50.89717,large
 CRL,4.451703,BE,1,Brussels South Charleroi Airport,EU,airport,50.456696,medium
 KJK,3.201667,BE,1,Wevelgem Airport,EU,airport,50.817223,medium
-LGG,5.460149,BE,1,,EU,airport,50.643333,large
+BEL,-48.480003,BR,1,Val de Cães International Airport,SA,airport,-1.389865,large
 QNM,,BE,1,,EU,airport,,small
 OST,2.863611,BE,1,Ostend-Bruges International Airport,EU,airport,51.199722,medium
 QHA,,BE,1,Hasselt Airport,EU,airport,,small
@@ -918,9 +917,9 @@ SPM,6.835917,DE,1,Spangdahlem Air Base,EU,airport,50.06547,medium
 PSH,8.116667,DE,1,St. Peter-Ording Airport,EU,airport,54.5,small
 RBM,12.519722,DE,1,Straubing Airport,EU,airport,48.901943,small
 STR,9.193624,DE,1,Stuttgart Airport,EU,airport,48.69073,large
-KDL,22.8,EE,1,,EU,airport,58.983334,medium
+BZR,3.354444,FR,1,,EU,airport,43.324165,medium
 URE,22.5,EE,1,Kuressaare Airport,EU,airport,58.216667,medium
-EPU,24.472778,EE,1,,EU,airport,58.418888,medium
+CBH,-2.259722,DZ,1,,AF,airport,31.647778,medium
 TLL,24.798702,EE,1,Tallinn Airport,EU,airport,59.416622,large
 TAY,26.733334,EE,1,Tartu Airport,EU,airport,58.333332,medium
 ENF,23.42208,FI,1,Enontekio Airport,EU,airport,68.36018,medium
@@ -949,7 +948,7 @@ OUL,25.375425,FI,1,Oulu Airport,EU,airport,64.93012,medium
 POR,21.791382,FI,1,Pori Airport,EU,airport,61.46866,medium
 RVN,25.829609,FI,1,Rovaniemi Airport,EU,airport,66.559044,medium
 SVL,28.95,FI,1,Savonlinna Airport,EU,airport,61.95,medium
-SJY,22.835285,FI,1,,EU,airport,62.6932,medium
+CBL,-63.534657,VE,1,,SA,airport,8.122381,medium
 SOT,26.616667,FI,1,Sodankyla Airport,EU,airport,67.38333,medium
 TMP,23.617563,FI,1,Tampere-Pirkkala Airport,EU,airport,61.42045,medium
 TKU,22.28098,FI,1,Turku Airport,EU,airport,60.512794,medium
@@ -1121,7 +1120,7 @@ MRW,11.435,DK,1,Lolland Falster Maribo Airport,EU,airport,54.685833,medium
 ODE,10.328611,DK,1,Odense Airport,EU,airport,55.47639,medium
 RKE,12.133333,DK,1,Copenhagen Roskilde Airport,EU,airport,55.583332,medium
 RNN,14.757778,DK,1,Bornholm Airport,EU,airport,55.065556,medium
-SGD,9.790798,DK,1,,EU,airport,54.96476,medium
+CCM,-49.36667,BR,1,,SA,airport,-28.7,medium
 CNL,10.216667,DK,1,Sindal Airport,EU,airport,57.483334,medium
 SKS,9.264722,DK,1,Vojens Skrydstrup Airport,EU,airport,55.221943,medium
 SQW,9.033333,DK,1,Skive Airport,EU,airport,56.566666,medium
@@ -1131,22 +1130,22 @@ FAE,-7.266667,FO,1,Vagar Airport,EU,airport,62.066666,medium
 STA,8.355,DK,1,Stauning Airport,EU,airport,55.990276,medium
 AAL,9.872241,DK,1,Aalborg Airport,EU,airport,57.08655,large
 LUX,6.209539,LU,1,Luxembourg-Findel International Airport,EU,airport,49.63111,large
-AES,6.116605,NO,1,,EU,airport,62.559643,medium
-ANX,16.133326,NO,1,,EU,airport,69.30492,medium
+CCS,-67.00551,VE,1,,SA,airport,10.596942,medium
+CDJ,-49.283333,BR,1,,SA,airport,-8.233333,medium
 ALF,23.355808,NO,1,Alta Airport,EU,airport,69.977165,medium
 FDE,5.762073,NO,1,Bringeland Airport,EU,airport,61.39178,small
-BNN,12.215772,NO,1,,EU,airport,65.4617,medium
-BOO,14.367839,NO,1,,EU,airport,67.27262,large
+CEN,-109.839165,MX,1,,NA,airport,27.391945,medium
+BOD,-0.70217,FR,1,Bordeaux - Mérignac Airport,EU,airport,44.83102,large
 BGO,5.228169,NO,1,"Bergen Airport, Flesland",EU,airport,60.289062,large
-BJF,29.666668,NO,1,,EU,airport,70.6,medium
-BVG,29,NO,1,,EU,airport,70.86667,medium
+CHR,1.728128,FR,1,,EU,airport,46.861954,medium
+CHX,-82.45,PA,1,,NA,airport,9.45,medium
 KRS,8.073732,NO,1,Kristiansand Airport,EU,airport,58.20255,medium
 DLD,8.483333,NO,1,Geilo Airport Dagali,EU,airport,60.466667,small
 BDU,18.54,NO,1,Bardufoss Airport,EU,airport,69.056114,medium
 EVE,16.679722,NO,1,"Harstad/Narvik Airport, Evenes",EU,airport,68.496666,medium
 FBU,,NO,,"Oslo, Fornebu Airport",EU,closed,,
 VDB,9.288056,NO,1,Leirin Airport,EU,airport,61.015556,medium
-FRO,5.024577,NO,1,,EU,airport,61.58643,medium
+CIJ,-68.75278,BO,1,,SA,airport,-11.026389,medium
 OSL,11.100411,NO,1,Oslo Gardermoen Airport,EU,airport,60.19419,large
 HMR,11.116667,NO,1,Stafsberg Airport,EU,airport,60.8,small
 HAU,5.215903,NO,1,Haugesund Airport,EU,airport,59.344765,medium
@@ -1156,37 +1155,37 @@ HVG,25.833332,NO,1,Valan Airport,EU,airport,70.98333,medium
 QKX,,NO,1,Kautokeino Air Base,EU,airport,,small
 KSU,7.844444,NO,1,"Kristiansund Airport, Kvernberget",EU,airport,63.114723,medium
 GLL,8.95,NO,1,Gol Airport,EU,airport,60.7,small
-KKN,29.891184,NO,1,,EU,airport,69.7235,medium
+CJS,-106.4361,MX,1,,NA,airport,31.63593,medium
 FAN,6.625556,NO,1,Lista Airport,EU,airport,58.101665,small
 LKN,13.614864,NO,1,Leknes Airport,EU,airport,68.15421,medium
 MEH,27.833332,NO,1,Mehamn Airport,EU,airport,71.03333,medium
 MOL,7.262118,NO,1,Molde Airport,EU,airport,62.747303,medium
-MJF,13.218328,NO,1,,EU,airport,65.78439,medium
+CKS,-50.001945,BR,1,,SA,airport,-6.114749,medium
 LKL,24.973612,NO,1,Banak Airport,EU,airport,70.06778,medium
 NVK,17.425,NO,1,Narvik Framnes Airport,EU,airport,68.425,medium
 OSY,11.570002,NO,1,,EU,airport,64.47273,small
 NTB,9.215656,NO,1,Notodden Airport,EU,airport,59.56487,medium
-OLA,9.616667,NO,1,,EU,airport,63.7,medium
-HOV,6.078802,NO,1,,EU,airport,62.179787,medium
-MQN,14.302748,NO,1,,EU,airport,66.36465,medium
-RVK,11.233333,NO,1,,EU,airport,64.88333,medium
-RRS,11.345556,NO,1,,EU,airport,62.579166,medium
+CKZ,26.4,TR,1,,AS,airport,40.13333,medium
+CMF,5.88437,FR,1,,EU,airport,45.637993,medium
+CMG,-57.672222,BR,1,,SA,airport,-19.01111,medium
+CNG,-0.333333,FR,1,,EU,airport,45.683334,medium
+CNR,-70.604164,CL,1,,SA,airport,-26.329166,medium
 RET,12.083333,NO,1,,EU,airport,67.48333,small
 RYG,10.800161,NO,1,"Moss Airport, Rygge",EU,airport,59.37903,medium
 LYR,15.8,NO,1,"Svalbard Airport, Longyear",EU,airport,78.208885,medium
 SDN,6.216667,NO,1,"Sandane Airport, Anda",EU,airport,61.766666,small
 SOG,7.136988,NO,1,Sogndal Airport,EU,airport,61.158127,small
-SVJ,14.667774,NO,1,,EU,airport,68.24498,medium
+CPE,-90.509445,MX,1,,NA,airport,19.835,medium
 SKN,15.032921,NO,1,Stokmarknes Skagen Airport,EU,airport,68.57915,medium
 SKE,9.5625,NO,1,Skien Airport,EU,airport,59.182777,medium
 SRP,5.416667,NO,1,Stord Airport,EU,airport,59.833332,medium
-SOJ,20.933332,NO,1,,EU,airport,69.78333,medium
-VAW,31.045555,NO,1,,EU,airport,70.35472,medium
-SSJ,12.476518,NO,1,,EU,airport,65.959946,medium
-TOS,18.907343,NO,1,,EU,airport,69.67983,large
+CPV,-35.9,BR,1,,SA,airport,-7.266667,medium
+CTG,-75.51659,CO,1,,SA,airport,10.445704,medium
+CUA,-111.664444,MX,1,,NA,airport,25.036943,medium
+BOO,14.367839,NO,1,Bodø Airport,EU,airport,67.27262,large
 TRF,10.251807,NO,1,"Sandefjord Airport, Torp",EU,airport,59.178085,medium
-TRD,10.917863,NO,1,,EU,airport,63.454285,large
-VDS,29.845278,NO,1,,EU,airport,70.065,medium
+BTS,17.199799,SK,1,M. R. Štefánik Airport,EU,airport,48.170017,large
+CUM,-64.131744,VE,1,,SA,airport,10.449879,medium
 VRY,,NO,1,,EU,heliport,,
 SVG,5.629197,NO,1,"Stavanger Airport, Sola",EU,airport,58.88215,large
 QYY,,PL,1,Bia?ystok-Krywlany Airport,EU,airport,,small
@@ -1194,71 +1193,71 @@ BZG,17.978611,PL,1,Bydgoszcz Ignacy Jan Paderewski Airport,EU,airport,53.09667,m
 CZW,19.1,PL,1,Cz?stochowa-Rudniki,EU,airport,50.816666,small
 GDN,18.468655,PL,1,Gda?sk Lech Wa??sa Airport,EU,airport,54.380978,large
 QLC,,PL,1,Gliwice Glider Airport,EU,airport,,small
-KRK,19.793743,PL,1,,EU,airport,50.075493,large
+CUN,-86.874435,MX,1,Cancún International Airport,NA,airport,21.040457,large
 OSZ,16.264444,PL,1,Koszalin Zegrze Airport,EU,airport,54.042778,small
 KTW,19.07403,PL,1,Katowice International Airport,EU,airport,50.470833,medium
 QEO,,PL,1,Bielsko-Bialo Kaniow Airfield,EU,airport,,small
-LCJ,19.398333,PL,1,,EU,airport,51.721943,medium
+CUP,-63.2625,VE,1,,SA,airport,10.658889,medium
 QLU,,PL,1,Lublin Radwiec Airport,EU,airport,,small
 QWS,,PL,1,Nowy Targ Airport,EU,airport,,small
 QYD,,PL,1,Gdynia-Babie Do?y Air Base,EU,airport,,medium
 QPM,,PL,1,Opole-Polska Nowa Wie? Airport,EU,airport,,small
 POZ,16.828844,PL,1,Pozna?-?awica Airport,EU,airport,52.414326,medium
-RZE,22.03133,PL,1,,EU,airport,50.11525,medium
-SZZ,14.894611,PL,1,,EU,airport,53.593525,medium
+CVE,-75.73333,CO,1,,SA,airport,9.4,medium
+CZE,-69.681946,VE,1,,SA,airport,11.415833,medium
 OSP,,PL,,Redzikowo Air Base,EU,closed,,
 SZY,,PL,,Szczytno-Szymany International Airport,EU,closed,,
 WAW,20.97329,PL,1,Warsaw Chopin Airport,EU,airport,52.170906,large
 WRO,16.899403,PL,1,Copernicus Wroc?aw Airport,EU,airport,51.10482,medium
-IEG,15.516667,PL,1,,EU,airport,51.933334,medium
+DKR,-17.490194,SN,1,,AF,airport,14.744975,large
 RNB,15.261111,SE,1,Ronneby Airport,EU,airport,56.25833,medium
 XWP,,SE,1,,EU,airport,,small
 GOT,12.294878,SE,1,Gothenburg-Landvetter Airport,EU,airport,57.66664,large
-JKG,14.070497,SE,1,,EU,airport,57.7501,medium
-LDK,13.166667,SE,1,,EU,airport,58.5,medium
+DNZ,29.703333,TR,1,,AS,airport,37.787224,medium
+EBU,4.296944,FR,1,,EU,airport,45.54139,medium
 GSE,11.864513,SE,1,Gothenburg City Airport,EU,airport,57.77775,medium
-KVB,13.966667,SE,1,,EU,airport,58.45,medium
-THN,12.3,SE,1,,EU,airport,58.266666,medium
+EDO,27.033333,TR,1,,AS,airport,39.583332,medium
+EGC,0.483333,FR,1,,EU,airport,44.85,medium
 KSK,14.55,SE,1,Karlskoga Airport,EU,airport,59.316666,medium
 MXX,14.504529,SE,1,Mora Airport,EU,airport,60.95812,medium
 NYO,16.922867,SE,1,Stockholm Skavsta Airport,EU,airport,58.78425,medium
 KID,14.088889,SE,1,Kristianstad Airport,EU,airport,55.919445,medium
 OSK,16.433332,SE,1,Oskarshamn Airport,EU,airport,57.266666,medium
 KLR,16.287222,SE,1,Kalmar Airport,EU,airport,56.685,medium
-MMX,13.363727,SE,1,,EU,airport,55.538757,large
+EGS,-14.402778,IS,1,,EU,airport,65.27778,medium
 HAD,12.815005,SE,1,Halmstad Airport,EU,airport,56.680935,medium
-VXO,14.732046,SE,1,,EU,airport,56.925095,medium
+EJA,-73.799164,CO,1,,SA,airport,7.015833,medium
 EVG,14.35,SE,1,Sveg Airport,EU,airport,62.033333,medium
-GEV,20.816668,SE,1,,EU,airport,67.134445,medium
+EPL,6.069444,FR,1,,EU,airport,48.325832,medium
 HUV,,SE,,Hudiksvall Airport,EU,closed,,
-KRF,17.772778,SE,1,,EU,airport,63.049442,medium
+EPU,24.472778,EE,1,,EU,airport,58.418888,medium
 LYC,18.70967,SE,1,Lycksele Airport,EU,airport,64.55071,medium
-SDL,17.438147,SE,1,,EU,airport,62.52165,medium
-OER,18.992073,SE,1,,EU,airport,63.412582,medium
+ESG,-60.61667,PY,1,,SA,airport,-22.033333,medium
+ESR,-69.76528,CL,1,,SA,airport,-26.315277,medium
 KRN,20.345833,SE,1,Kiruna Airport,EU,airport,67.82222,medium
-SFT,21.068548,SE,1,,EU,airport,64.62251,medium
-UME,20.28954,SE,1,,EU,airport,63.79333,medium
+EVX,1.15,FR,1,,EU,airport,49.016666,medium
+FDF,-60.999947,MQ,1,,NA,airport,14.596061,medium
 VHM,16.65,SE,1,Vilhelmina Airport,EU,airport,64.61667,medium
 AJR,19.285557,SE,1,Arvidsjaur Airport,EU,airport,65.59139,medium
-SOO,17.05,SE,1,,EU,airport,61.3,medium
-OSD,14.494444,SE,1,,EU,airport,63.198612,medium
-ORB,15.047543,SE,1,,EU,airport,59.225758,medium
+FEL,11.266667,DE,1,,EU,airport,48.2,medium
+FEZ,-4.982138,MA,1,,AF,airport,33.93079,medium
+FLN,-48.5452,BR,1,,SA,airport,-27.664446,large
 HFS,13.569167,SE,1,Hagfors Airport,EU,airport,60.0175,medium
 KSD,13.472059,SE,1,Karlstad Airport,EU,airport,59.360283,medium
-VST,16.630556,SE,1,,EU,airport,59.58917,medium
-LLA,22.123587,SE,1,,EU,airport,65.54939,large
+FMO,7.694928,DE,1,,EU,airport,52.130054,large
+DUS,6.76558,DE,1,Düsseldorf Airport,EU,airport,51.278328,large
 ARN,17.930365,SE,1,Stockholm-Arlanda Airport,EU,airport,59.64982,large
 BMA,17.94608,SE,1,Stockholm-Bromma Airport,EU,airport,59.35566,medium
 BLE,15.50826,SE,1,Borlange Airport,EU,airport,60.42973,medium
 HLF,15.827778,SE,1,Hultsfred Airport,EU,airport,57.52639,medium
-GVX,16.954721,SE,1,,EU,airport,60.593887,medium
-LPI,15.656944,SE,1,,EU,airport,58.406944,medium
-NRK,16.232393,SE,1,,EU,airport,58.583298,medium
+FNI,4.416667,FR,1,,EU,airport,43.75,medium
+FRL,12.07076,IT,1,,EU,airport,44.19857,medium
+FRO,5.024577,NO,1,,EU,airport,61.58643,medium
 TYF,12.99661,SE,1,Torsby Airport,EU,airport,60.154484,medium
 EKT,16.533333,SE,1,Eskilstuna Airport,EU,airport,59.36667,medium
 VBY,18.338154,SE,1,Visby Airport,EU,airport,57.660446,medium
 VVK,16.633333,SE,1,,EU,airport,57.75,small
-AGH,12.8625,SE,1,,EU,airport,56.293056,medium
+FTU,46.955555,MG,1,,AF,airport,-25.038055,medium
 SQO,17.8,SE,1,Storuman Airport,EU,airport,64.96222,medium
 IDB,12.683333,SE,1,Idre Airport,EU,airport,61.86667,small
 PJA,23.075,SE,1,Pajala Airport,EU,airport,67.246666,medium
@@ -1271,14 +1270,14 @@ GWT,8.343056,DE,1,Westerland Sylt Airport,EU,airport,54.91528,medium
 WIE,8.233333,DE,1,Wiesbaden Army Airfield,EU,airport,50.083332,medium
 WVN,8.116667,DE,1,Wilhelmshaven-Mariensiel Airport,EU,airport,53.533333,small
 ZQV,,DE,1,Worms Airport,EU,airport,,small
-SXF,13.521388,DE,1,,EU,airport,52.370277,large
-FMO,7.694928,DE,1,,EU,airport,52.130054,large
-DUS,6.76558,DE,1,,EU,airport,51.278328,large
-SCN,7.112705,DE,1,,EU,airport,49.22009,medium
-LBC,10.701162,DE,1,,EU,airport,53.80527,medium
+GAE,9.919377,TN,1,,AF,airport,33.73569,medium
+GEA,166.47078,NC,1,,OC,airport,-22.260536,medium
+GEC,33.716667,CY,1,,AS,airport,35.233334,medium
+GEL,-54.168056,BR,1,,SA,airport,-28.28111,medium
+GEV,20.816668,SE,1,,EU,airport,67.134445,medium
 EUM,9.966667,DE,1,,EU,airport,54.066666,small
 AAH,6.133333,DE,1,,EU,airport,50.75,small
-MGL,6.544444,DE,1,,EU,airport,51.35278,medium
+GHA,3.800556,DZ,1,,AF,airport,32.38222,medium
 ZQW,7.399708,DE,1,,EU,airport,49.21516,small
 HEI,8.902778,DE,1,,EU,airport,54.155556,small
 FLF,9.383333,DE,1,,EU,airport,54.77222,small
@@ -1291,8 +1290,8 @@ EXI,,US,1,Excursion Inlet Seaplane Base,NA,seaplanes,,
 KUN,23.916668,LT,1,Kaunas International Airport,EU,airport,54.9,medium
 KLJ,21.216667,LT,1,Klaip?da Airport,EU,airport,55.7,small
 PLQ,21.083332,LT,1,Palanga International Airport,EU,airport,55.95,medium
-PNV,24.383333,LT,1,,EU,airport,55.733334,medium
-SQQ,23.39311,LT,1,,EU,airport,55.89529,medium
+GIG,-43.24651,BR,1,,SA,airport,-22.814653,large
+GJM,-65.36667,BR,1,,SA,airport,-10.783333,medium
 HLJ,,LT,1,Barysiai Airport,EU,airport,,medium
 VNO,25.279606,LT,1,Vilnius International Airport,EU,airport,54.643078,large
 ALJ,16.536388,ZA,1,Alexander Bay Airport,AF,airport,-28.567223,medium
@@ -1425,7 +1424,7 @@ NDL,20.6,CF,1,,AF,airport,8.416667,small
 BOP,15.666667,CF,1,Bouar Airport,AF,airport,6,small
 BIV,21.983334,CF,1,Bria Airport,AF,airport,6.533333,small
 BSN,17.5,CF,1,Bossangoa Airport,AF,airport,6.583333,small
-BBT,15.788056,CF,1,,AF,airport,4.219167,medium
+GNB,5.332019,FR,1,,EU,airport,45.359833,medium
 ODA,22.401667,CF,1,Ouadda Airport,AF,airport,8.003889,small
 AIG,23.25,CF,1,Yalinga Airport,AF,airport,6.516667,small
 IMO,25.083332,CF,1,Zemio Airport,AF,airport,5.033333,small
@@ -1455,15 +1454,15 @@ OUR,14.363611,CM,1,Batouri Airport,AF,airport,4.473056,small
 GXX,15.2375,CM,1,Yagoua Airport,AF,airport,10.358333,small
 MVR,14.256389,CM,1,Salak Airport,AF,airport,10.452222,medium
 FOM,10.833333,CM,1,Foumban Nkounja Airport,AF,airport,5.75,medium
-NGE,13.561389,CM,1,,AF,airport,7.356389,medium
+GRU,-46.481926,BR,1,,SA,airport,-23.425669,large
 BTA,13.7275,CM,1,Bertoua Airport,AF,airport,4.540833,small
 GOU,13.375556,CM,1,Garoua International Airport,AF,airport,9.336111,medium
 DSC,10.091667,CM,1,Dschang Airport,AF,airport,5.833333,small
 BFX,10.4,CM,1,Bafoussam Airport,AF,airport,5.483333,medium
 BPC,10.15,CM,1,Bamenda Airport,AF,airport,5.916667,medium
 EBW,11.166667,CM,1,Ebolowa Airport,AF,airport,2.916667,small
-YAO,11.523611,CM,1,,AF,airport,3.833611,medium
-NSI,11.550278,CM,1,,AF,airport,3.702222,medium
+GSJ,,GT,1,,NA,airport,,medium
+GUJ,-45.216667,BR,1,,SA,airport,-22.816668,medium
 MMQ,31.336111,ZM,1,Mbala Airport,AF,airport,-8.857222,small
 CIP,32.587223,ZM,1,Chipata Airport,AF,airport,-13.556944,small
 ZKP,150.70778,ZM,1,Kasompe Airport,AF,airport,65.738335,medium
@@ -1486,7 +1485,7 @@ SLI,26.366667,ZM,1,Solwesi Airport,AF,airport,-12.172222,small
 BBZ,23.11,ZM,1,Zambezi Airport,AF,airport,-13.537222,small
 ULI,139.8,FM,1,Falalop Island Airport,OC,airport,10.016667,small
 HAH,43.27492,KM,1,Prince Said Ibrahim International Airport,AF,airport,-11.537275,medium
-NWA,43.767155,KM,1,,AF,airport,-12.298664,medium
+GUT,8.383333,DE,1,,EU,airport,51.9,medium
 YVA,43.261112,KM,1,Iconi Airport,AF,airport,-11.531944,small
 AJN,44.430473,KM,1,Ouani Airport,AF,airport,-12.131109,medium
 DZA,45.2821,YT,1,Dzaoudzi Pamandzi International Airport,AF,airport,-12.804901,medium
@@ -1532,7 +1531,7 @@ WAI,47.95,MG,1,Ambalabe Airport,AF,airport,-14.916667,medium
 WMA,48.833332,MG,1,Mandritsara Airport,AF,airport,-15.833333,small
 WBO,45.13333,MG,1,Antsoa Airport,AF,airport,-21.6,small
 WMD,44.95,MG,1,Mandabe Airport,AF,airport,-21.033333,small
-FTU,46.955555,MG,1,,AF,airport,-25.038055,medium
+GVX,16.954721,SE,1,,EU,airport,60.593887,medium
 WFI,47.083332,MG,1,Fianarantsoa Airport,AF,airport,-21.466667,medium
 RVA,47.819443,MG,1,Farafangana Airport,AF,airport,-22.801945,small
 IHO,46.11667,MG,1,Ihosy Airport,AF,airport,-22.416668,small
@@ -1602,7 +1601,7 @@ ZKM,9.75,GA,1,Sette Cama Airport,AF,airport,-2.533333,small
 TCH,11,GA,1,Tchibanga Airport,AF,airport,-2.816667,small
 MYB,10.683333,GA,1,Mayumba Airport,AF,airport,-3.45,small
 PCP,7.416667,ST,1,Principe Airport,AF,airport,1.666667,medium
-TMS,6.725,ST,1,,AF,airport,0.378333,medium
+GYM,-110.93056,MX,1,,NA,airport,27.955557,medium
 ANO,39.936943,MZ,1,Angoche Airport,AF,airport,-16.177778,small
 BEW,34.90192,MZ,1,Beira Airport,AF,airport,-19.798805,medium
 FXO,36.526943,MZ,1,Cuamba Airport,AF,airport,-14.805278,small
@@ -1612,7 +1611,7 @@ INH,35.408333,MZ,1,Inhambane Airport,AF,airport,-23.874443,medium
 VXC,35.25,MZ,1,Lichinga Airport,AF,airport,-13.283333,medium
 MPM,32.57429,MZ,1,Maputo Airport,AF,airport,-25.924389,medium
 MUD,39.516666,MZ,1,Mueda Airport,AF,airport,-11.666667,medium
-MZB,40.356075,MZ,1,,AF,airport,-11.360261,medium
+HAV,-82.40818,CU,1,,NA,airport,22.99845,large
 MNC,40.70861,MZ,1,Nacala Airport,AF,airport,-14.48,small
 APL,39.287224,MZ,1,Nampula Airport,AF,airport,-15.101667,medium
 POL,40.5225,MZ,1,Pemba Airport,AF,airport,-12.988333,medium
@@ -1815,14 +1814,14 @@ AGA,-9.4131,MA,1,Al Massira Airport,AF,airport,30.325,medium
 TTA,-11.083333,MA,1,Tan Tan Airport,AF,airport,28.45,medium
 OZG,-5.852456,MA,1,Zagora Airport,AF,airport,30.267143,small
 UAR,51.538563,MA,1,Bouarfa Airport,AF,airport,51.15371,medium
-FEZ,-4.982138,MA,1,,AF,airport,33.93079,medium
+HOV,6.078802,NO,1,,EU,airport,62.179787,medium
 ERH,-4.4,MA,1,Moulay Ali Cherif Airport,AF,airport,31.95,medium
 MEK,-5.533333,MA,1,Bassatine Airport,AF,airport,33.88333,medium
 OUD,-1.933333,MA,1,Angads Airport,AF,airport,34.783333,medium
 SMW,-11.683333,EH,1,Smara Airport,AF,airport,26.733334,medium
 GMD,,MA,1,Ben Slimane Airport,AF,airport,,small
 CAS,-7.663056,MA,1,Anfa Airport,AF,airport,33.559723,small
-RBA,-6.748619,MA,1,,AF,airport,34.036137,medium
+HUX,-96.23556,MX,1,,NA,airport,15.768333,medium
 SII,-10.2,MA,1,Sidi Ifni Xx Airport,AF,airport,29.4,small
 VIL,-15.935,EH,1,Dakhla Airport,AF,airport,23.713333,medium
 ESU,-9.681667,MA,1,Mogador Airport,AF,airport,31.3975,small
@@ -1836,18 +1835,18 @@ OZZ,-6.916667,MA,1,Ouarzazate Airport,AF,airport,30.916668,medium
 AHU,-3.836944,MA,1,Cherif Al Idrissi Airport,AF,airport,35.17972,medium
 TTU,-5.316667,MA,1,Saniat Rmel Airport,AF,airport,35.583332,medium
 TNG,-5.912898,MA,1,Ibn Batouta Airport,AF,airport,35.726288,medium
-GNU,-161.58055,US,1,Goodnews Airport,NA,airport,59.1125,small
+ABQ,-106.617195,US,1,Albuquerque International Sunport Airport,NA,airport,35.049625,large
 KDA,-14.966667,SN,1,Kolda North Airport,AF,airport,12.883333,small
 ZIG,-16.275833,SN,1,Ziguinchor Airport,AF,airport,12.556111,medium
 CSK,-16.744122,SN,1,Cap Skirring Airport,AF,airport,12.392154,medium
 KLC,-16.5,SN,1,Kaolack Airport,AF,airport,14.083333,medium
-DKR,-17.490194,SN,1,,AF,airport,14.744975,large
+IAM,9.638056,DZ,1,,AF,airport,28.051111,medium
 MAX,-13.323611,SN,1,Ouro Sogui Airport,AF,airport,15.593056,medium
 POD,-14.966667,SN,1,Podor Airport,AF,airport,16.666668,small
 RDT,-15.657222,SN,1,Richard Toll Airport,AF,airport,16.437222,small
 XLS,-16.460278,SN,1,Saint Louis Airport,AF,airport,16.050278,medium
 BXE,-12.467778,SN,1,Bakel Airport,AF,airport,14.841667,medium
-KGG,-12.217222,SN,1,,AF,airport,12.570833,medium
+IDY,-2.388694,FR,1,,EU,airport,46.71787,medium
 SMY,-13.166667,SN,1,Simenti Airport,AF,airport,13.166667,small
 TUD,-13.658333,SN,1,Tambacounda Airport,AF,airport,13.736111,medium
 AEO,-9.635556,MR,1,Aioun el Atrouss Airport,AF,airport,16.709167,small
@@ -1889,16 +1888,16 @@ BKJ,-14.283333,GN,1,Boke Airport,AF,airport,10.966667,small
 SBI,-13.3,GN,1,Sambailo Airport,AF,airport,12.483333,small
 GII,-9.166667,GN,1,Siguiri Airport,AF,airport,11.516667,small
 KNN,-9.305556,GN,1,Kankan Airport,AF,airport,10.3975,small
-SID,-22.943613,CV,1,,AF,airport,16.734695,medium
+IEG,15.516667,PL,1,,EU,airport,51.933334,medium
 NTO,-25.083332,CV,1,Agostinho Neto Airport,AF,airport,17.066668,small
 BVC,-22.833332,CV,1,Rabil Airport,AF,airport,16.083332,medium
 MMO,-23.166668,CV,1,Maio Airport,AF,airport,15.25,medium
 MTI,-24.433332,CV,1,Mosteiros Airport,AF,airport,15,small
 RAI,-23.486567,CV,1,Praia International Airport,AF,airport,14.945321,medium
 SFL,-24.516666,CV,1,,AF,airport,14.9,small
-SNE,-24.28861,CV,1,,AF,airport,16.586945,medium
-VXE,-25.057571,CV,1,,AF,airport,16.835613,medium
-FEL,11.266667,DE,1,,EU,airport,48.2,medium
+IFJ,-23.132778,IS,1,,EU,airport,66.05972,medium
+IGL,27.159445,TR,1,,AS,airport,38.31889,medium
+IGR,-54.47635,AR,1,,SA,airport,-25.731504,medium
 BCG,-58.55,GY,1,Bemichi Airport,SA,airport,6.55,small
 BTO,-55.45,SR,1,Botopasi Airport,SA,airport,4.25,small
 DOE,-55.483334,SR,1,Djumu-Djomoe Airport,SA,airport,4.016667,small
@@ -2159,23 +2158,6 @@ JIC,102.34861,CN,1,Jinchuan Airport,AS,airport,38.541943,small
 JIQ,108.829185,CN,1,Qianjiang Wulingshan Airport,AS,airport,29.517557,medium
 JMC,,US,1,Commodore Center Heliport,NA,heliport,,
 JRA,,US,1,West 30th St. Heliport,NA,heliport,,
-AMK,-107.75,US,1,Animas Air Park,NA,airport,37.15,small
-RLA,-91.77805,US,1,Rolla Downtown Airport,NA,airport,38.127777,small
-FID,-72,US,1,Elizabeth Field,NA,airport,41,small
-AHD,-97.13333,US,1,Ardmore Downtown Executive Airport,NA,airport,34.166668,small
-GCW,-113.815674,US,1,Grand Canyon West Airport,NA,airport,35.988804,small
-RKC,-122.63333,US,1,Montague-Yreka Rohrer Field,NA,airport,41.733334,small
-GNF,-89.93228,US,1,Gansner Field,NA,airport,33.975307,small
-AHF,-99.9,US,1,Arapahoe Municipal Airport,NA,airport,40.3,small
-GTP,-123.388695,US,1,Grants Pass Airport,NA,airport,42.50926,small
-GCD,,US,1,Grand Coulee Dam Airport,NA,airport,,small
-FPY,-83.583336,US,1,Perry Foley Airport,NA,airport,30.116667,small
-FHB,,US,1,Fernandina Beach Municipal Airport,NA,airport,,small
-BLD,-114.85936,US,1,Boulder City Municipal Airport,NA,airport,35.947018,small
-AAF,-84.98333,US,1,Apalachicola Regional Airport,NA,airport,29.733334,small
-ABE,-75.434364,US,1,Lehigh Valley International Airport,NA,airport,40.651573,medium
-ABI,-99.679726,US,1,Abilene Regional Airport,NA,airport,32.409443,medium
-ABQ,-106.617195,US,1,Albuquerque International Sunport Airport,NA,airport,35.049625,large
 ABR,-98.42611,US,1,Aberdeen Regional Airport,NA,airport,45.4525,medium
 ABY,-84.19611,US,1,Southwest Georgia Regional Airport,NA,airport,31.532223,medium
 ACB,-85.21667,US,1,Antrim County Airport,NA,airport,44.983334,small
@@ -2184,15 +2166,18 @@ ACT,-97.22321,US,1,Waco Regional Airport,NA,airport,31.609133,medium
 ACV,-124.106926,US,1,Arcata Airport,NA,airport,40.970913,medium
 ACY,-74.572235,US,1,Atlantic City International Airport,NA,airport,39.450703,medium
 ADG,-84.03333,US,1,Lenawee County Airport,NA,airport,41.9,small
-ADT,-96.666664,US,1,Ada Municipal Airport,NA,airport,34.8,small
+ADK,-176.64473,US,1,Adak Airport,NA,airport,51.88278,medium
 ADM,-97.01945,US,1,Ardmore Municipal Airport,NA,airport,34.303055,small
+ADQ,-152.51297,US,1,Kodiak Airport,NA,airport,57.755276,medium
+ADR,-79.566666,US,1,Robert F Swinnie Airport,NA,airport,33.45,small
 ADS,-97.83639,US,1,Addison Airport,NA,airport,32.968613,small
+ADT,-96.666664,US,1,Ada Municipal Airport,NA,airport,34.8,small
 ADW,-76.86667,US,1,Andrews Air Force Base,NA,airport,38.816666,large
-KAE,,US,1,Kake Seaplane Base,NA,seaplanes,,
 AEL,-93.36667,US,1,Albert Lea Municipal Airport,NA,airport,43.65,small
+AET,-152.65834,US,1,Allakaket Airport,NA,airport,66.56167,small
 AEX,-92.53958,US,1,Alexandria International Airport,NA,airport,31.321268,medium
+AFE,,US,1,Kake Airport,NA,airport,,medium
 AFF,-104.7,US,1,USAF Academy Airfield,NA,airport,38.833332,small
-WSG,-80.25,US,1,Washington County Airport,NA,airport,40.166668,small
 AFN,-72.066666,US,1,Jaffrey Airport Silver Ranch Airport,NA,airport,42.833332,small
 AFO,-110.933334,US,1,Afton Municipal Airport,NA,airport,42.733334,small
 AFW,-97.316666,US,1,Fort Worth Alliance Airport,NA,airport,32.986668,large
@@ -2200,18 +2185,30 @@ AGC,-79.93,US,1,Allegheny County Airport,NA,airport,40.35472,medium
 AGO,-93.23333,US,1,Magnolia Municipal Airport,NA,airport,33.266666,small
 AGS,-81.973434,US,1,Augusta Regional At Bush Field,NA,airport,33.373665,large
 AHC,-120.13333,US,1,Amedee Army Air Field,NA,airport,40.15,small
+AHD,-97.13333,US,1,Ardmore Downtown Executive Airport,NA,airport,34.166668,small
+AHF,-99.9,US,1,Arapahoe Municipal Airport,NA,airport,40.3,small
+KAE,,US,1,Kake Seaplane Base,NA,seaplanes,,
 AHH,-92.35,US,1,Amery Municipal Airport,NA,airport,45.3,small
+AHM,,US,1,Ashland Municipal Sumner Parker Field,NA,airport,,small
 AHN,-83.32472,US,1,Athens Ben Epps Airport,NA,airport,33.95195,medium
 AIA,-102.80666,US,1,Alliance Municipal Airport,NA,airport,42.051666,small
 AID,-85.683334,US,1,Anderson Municipal Darlington Field,NA,airport,40.166668,small
 AIK,-81.68407,US,1,Aiken Municipal Airport,NA,airport,33.649014,small
+AIN,-160.03334,US,1,Wainwright Airport,NA,airport,70.63333,medium
 AIO,-95.01667,US,1,Atlantic Municipal Airport,NA,airport,41.4,small
 AIV,-88.15,US,1,George Downer Airport,NA,airport,33.13333,small
-AIY,,US,,Atlantic City Municipal Bader Field,NA,closed,,
 AIZ,-92.54722,US,1,Lee C Fine Memorial Airport,NA,airport,38.09833,small
-AKO,-103.21667,US,1,Colorado Plains Regional Airport,NA,airport,40.166668,small
+AKB,-174.20084,US,1,Atka Airport,NA,airport,52.21722,small
 AKC,-81.46778,US,1,Akron Fulton International Airport,NA,airport,41.04,medium
+AKI,-161.22333,US,1,Akiak Airport,NA,airport,60.905556,small
+AKK,-154.16667,US,1,Akhiok Airport,NA,airport,56.944443,small
+AKN,-156.66902,US,1,King Salmon Airport,NA,airport,58.68274,medium
+AKO,-103.21667,US,1,Colorado Plains Regional Airport,NA,airport,40.166668,small
+AKP,-151.74,US,1,Anaktuvuk Pass Airport,NA,airport,68.1375,medium
+AKW,49.683334,US,1,Klawock Airport,NA,airport,30.75,medium
+AIY,,US,,Atlantic City Municipal Bader Field,NA,closed,,
 ALB,-73.809555,US,1,Albany International Airport,NA,airport,42.745277,medium
+ALE,-103.75,US,1,Alpine Casparis Municipal Airport,NA,airport,30.416668,small
 ALI,-98.066666,US,1,Alice International Airport,NA,airport,27.75,medium
 ALM,-105.985275,US,1,Alamogordo White Sands Regional Airport,NA,airport,32.845833,medium
 ALN,-90.04833,US,1,St Louis Regional Airport,NA,airport,38.891666,medium
@@ -2220,12 +2217,17 @@ ALS,-105.86667,US,1,San Luis Valley Regional Bergman Field,NA,airport,37.43667,m
 ALW,-118.291115,US,1,Walla Walla Regional Airport,NA,airport,46.094723,medium
 ALX,-85.95,US,1,Thomas C Russell Field,NA,airport,32.933334,small
 AMA,-101.70513,US,1,Rick Husband Amarillo International Airport,NA,airport,35.218273,large
+AMK,-107.75,US,1,Animas Air Park,NA,airport,37.15,small
 AMN,-84.65,US,1,RPD Airport,NA,airport,43.38333,small
 AMW,-93.61833,US,1,Ames Municipal Airport,NA,airport,41.994167,small
 ANB,-85.855835,US,1,Anniston Metropolitan Airport,NA,airport,33.59028,medium
+ANC,-149.99638,US,1,Ted Stevens Anchorage International Airport,NA,airport,61.174442,large
 AND,-82.71,US,1,Anderson Regional Airport,NA,airport,34.49361,medium
+ANI,-159.53697,US,1,Aniak Airport,NA,airport,61.574398,medium
+ANN,-131.57056,US,1,Annette Island Airport,NA,airport,55.036945,medium
 ANP,-76.5,US,1,Lee Airport,NA,airport,38.983334,small
 ANQ,-85,US,1,Tri State Steuben County Airport,NA,airport,41.63333,small
+ANV,-160.18889,US,1,Anvik Airport,NA,airport,62.647778,medium
 ANW,-99.86667,US,1,Ainsworth Municipal Airport,NA,airport,42.55,small
 ANY,-98.03333,US,1,Anthony Municipal Airport,NA,airport,37.15,small
 AOH,-84.1,US,1,Lima Allen County Airport,NA,airport,40.766666,small
@@ -2238,10 +2240,13 @@ APH,-77.35,US,1,A P Hill Aaf (Fort A P Hill) Airport,NA,airport,38.05,small
 APN,-83.55583,US,1,Alpena County Regional Airport,NA,airport,45.08167,medium
 APT,-85.5,US,1,Marion County Brown Field,NA,airport,35.066666,small
 APV,-117.212776,US,1,Apple Valley Airport,NA,airport,34.52639,small
+AQY,-149.11667,US,1,Girdwood Airport,NA,airport,60.966667,small
 ARA,-91.88389,US,1,Acadiana Regional Airport,NA,airport,30.037779,medium
 ARB,-83.75,US,1,Ann Arbor Municipal Airport,NA,airport,42.3,small
+ARC,-145.52444,US,1,Arctic Village Airport,NA,airport,68.1375,medium
 ARG,-90.95,US,1,Walnut Ridge Regional Airport,NA,airport,36.066666,small
 ART,-76.021385,US,1,Watertown International Airport,NA,airport,43.990833,medium
+ATK,-157.33333,US,1,Atqasuk Edward Burnell Sr Memorial Airport,NA,airport,70.5,medium
 ATL,-84.44403,US,1,Hartsfield Jackson Atlanta International Airport,NA,airport,33.640068,large
 ATW,-88.50994,US,1,Outagamie County Regional Airport,NA,airport,44.26011,small
 ATY,-97.15417,US,1,Watertown Regional Airport,NA,airport,44.90889,medium
@@ -2249,14 +2254,15 @@ AUG,-69.79667,US,1,Augusta State Airport,NA,airport,44.318054,medium
 AUS,-97.66706,US,1,Austin Bergstrom International Airport,NA,airport,30.202545,large
 AVL,-82.537315,US,1,Asheville Regional Airport,NA,airport,35.43508,large
 AVO,-81.51667,US,1,Avon Park Executive Airport,NA,airport,27.6,small
+AYE,,US,,Ft Devens Moore Army Air Field,NA,closed,,
 AVP,-75.730644,US,1,Wilkes Barre Scranton International Airport,NA,airport,41.336697,medium
 AWM,-90.183334,US,1,West Memphis Municipal Airport,NA,airport,35.13333,small
 AXN,-95.394165,US,1,Chandler Field,NA,airport,45.86722,medium
 AXS,-99.33806,US,1,Altus Quartz Mountain Regional Airport,NA,airport,34.696667,small
 AXV,-84.2,US,1,Neil Armstrong Airport,NA,airport,40.566666,small
 AXX,-105.28333,US,1,Angel Fire Airport,NA,airport,36.416668,small
-AYE,,US,,Ft Devens Moore Army Air Field,NA,closed,,
 AYS,-82.39667,US,1,Waycross Ware County Airport,NA,airport,31.248611,small
+AZA,-111.655556,US,1,Phoenix-Mesa-Gateway Airport,NA,airport,33.307777,medium
 AZO,-85.55656,US,1,Kalamazoo Battle Creek International Airport,NA,airport,42.239964,medium
 BAB,-121.583336,US,1,Beale Air Force Base,NA,airport,39.15,large
 BAD,-93.666664,US,1,Barksdale Air Force Base,NA,airport,32.5,large
@@ -2264,19 +2270,25 @@ BAF,-72.71562,US,1,Barnes Municipal Airport,NA,airport,42.157955,medium
 BDL,-72.6847,US,1,Bradley International Airport,NA,airport,41.92953,large
 BDR,-73.12444,US,1,Igor I Sikorsky Memorial Airport,NA,airport,41.164165,medium
 BED,-71.29,US,1,Laurence G Hanscom Field,NA,airport,42.470833,medium
+BET,-161.83139,US,1,Bethel Airport,NA,airport,60.784443,medium
 BFD,-78.63944,US,1,Bradford Regional Airport,NA,airport,41.802223,medium
 BFF,-103.60111,US,1,Western Neb. Rgnl/William B. Heilig Airport,NA,airport,41.87528,medium
 BFI,-122.3037,US,1,Boeing Field King County International Airport,NA,airport,47.5371,large
 BFL,-119.04533,US,1,Meadows Field,NA,airport,35.429626,medium
 BGM,-75.98294,US,1,Greater Binghamton/Edwin A Link field,NA,airport,42.208534,medium
 BGR,-68.82102,US,1,Bangor International Airport,NA,airport,44.812298,large
+BGT,-113.1687,US,1,Bagdad Airport,NA,airport,34.59398,small
 BHB,-68.361664,US,1,Hancock County-Bar Harbor Airport,NA,airport,44.44889,medium
 BHM,-86.75219,US,1,Birmingham-Shuttlesworth International Airport,NA,airport,33.560833,large
+BIG,-145.719,US,1,Allen Army Airfield,NA,airport,63.99458,medium
 BIL,-108.53723,US,1,Billings Logan International Airport,NA,airport,45.803417,large
 BIS,-100.75821,US,1,Bismarck Municipal Airport,NA,airport,46.77448,medium
+BKC,-161.12666,US,1,Buckland Airport,NA,airport,65.97889,medium
+BKH,-159.71666,US,1,Barking Sands Airport,NA,airport,21.966667,medium
 BKL,-81.683334,US,1,Burke Lakefront Airport,NA,airport,41.516945,medium
 BKW,-81.12417,US,1,Raleigh County Memorial Airport,NA,airport,37.781944,medium
 BKX,-96.81111,US,1,Brookings Regional Airport,NA,airport,44.303333,small
+BLD,-114.85936,US,1,Boulder City Municipal Airport,NA,airport,35.947018,small
 BLF,-81.20805,US,1,Mercer County Airport,NA,airport,37.295834,medium
 BLI,-122.53267,US,1,Bellingham International Airport,NA,airport,48.795734,medium
 BMG,-86.61472,US,1,Monroe County Airport,NA,airport,39.14,medium
@@ -2289,8 +2301,11 @@ BPT,-94.02,US,1,Southeast Texas Regional Airport,NA,airport,29.950832,medium
 BQK,-81.48333,US,1,Brunswick Golden Isles Airport,NA,airport,31.166668,medium
 BRL,-91.12334,US,1,Southeast Iowa Regional Airport,NA,airport,40.78611,medium
 BRO,-97.42333,US,1,Brownsville South Padre Island International Airport,NA,airport,25.90889,medium
+BRW,-156.77579,US,1,Wiley Post Will Rogers Memorial Airport,NA,airport,71.288574,medium
+BTI,-143.57834,US,1,Barter Island Lrrs Airport,NA,airport,70.13472,medium
 BTM,-112.49389,US,1,Bert Mooney Airport,NA,airport,45.95111,medium
 BTR,-91.156906,US,1,"Baton Rouge Metropolitan, Ryan Field",NA,airport,30.532537,large
+BTT,-151.52638,US,1,Bettles Airport,NA,airport,66.915276,medium
 BTV,-73.15527,US,1,Burlington International Airport,NA,airport,44.469013,medium
 BTY,-116.76667,US,1,Beatty Airport,NA,airport,36.9,small
 BUB,-99.13333,US,1,Cram Field,NA,airport,41.783333,small
@@ -2298,6 +2313,8 @@ BUF,-78.731804,US,1,Buffalo Niagara International Airport,NA,airport,42.933826,l
 BUM,-94.333336,US,1,Butler Memorial Airport,NA,airport,38.266666,small
 BUR,-118.35411,US,1,Bob Hope Airport,NA,airport,34.19619,medium
 BVO,-96.01083,US,1,Bartlesville Municipal Airport,NA,airport,36.7625,small
+BVU,-151.03612,US,1,Beluga Airport,NA,airport,61.169445,small
+CGX,,US,,Chicago Meigs Airport,NA,closed,,
 BVX,-91.65,US,1,Batesville Regional Airport,NA,airport,35.766666,small
 BVY,-70.88333,US,1,Beverly Municipal Airport,NA,airport,42.55,medium
 BWC,-115.51688,US,1,Brawley Municipal Airport,NA,airport,32.992867,small
@@ -2307,23 +2324,26 @@ BWI,-76.66894,US,1,Baltimore/Washington International Thurgood Marshal Airport,N
 BXA,-89.88333,US,1,George R Carr Memorial Air Field,NA,airport,30.933332,small
 BXK,-112.583336,US,1,Buckeye Municipal Airport,NA,airport,33.36667,small
 BYS,-116.566666,US,1,Bicycle Lake Army Air Field,NA,airport,35.266666,medium
+BZF,,US,1,Benton Field,NA,airport,,small
 BZN,-111.16033,US,1,Gallatin Field,NA,airport,45.777687,medium
-CLG,-120.35,US,1,New Coalinga Municipal Airport,NA,airport,36.15,small
 CAE,-81.12501,US,1,Columbia Metropolitan Airport,NA,airport,33.946907,large
 CAK,-81.43583,US,1,Akron Canton Regional Airport,NA,airport,40.914963,medium
+CDB,-162.71774,US,1,Cold Bay Airport,NA,airport,55.20457,medium
 CDC,-113.09611,US,1,Cedar City Regional Airport,NA,airport,37.7025,medium
+CDK,-83.03333,US,1,George T Lewis Airport,NA,airport,29.133333,small
+CDV,-145.47,US,1,Merle K (Mudhole) Smith Airport,NA,airport,60.493057,medium
 CEC,-124.23583,US,1,Jack Mc Namara Field Airport,NA,airport,41.78,medium
 CEF,-72.55383,US,1,Westover ARB/Metropolitan Airport,NA,airport,42.183376,medium
 CGI,-89.57167,US,1,Cape Girardeau Regional Airport,NA,airport,37.22361,medium
-CGX,,US,,Chicago Meigs Airport,NA,closed,,
 CHA,-85.197784,US,1,Lovell Field,NA,airport,35.036926,large
 CHO,-78.44928,US,1,Charlottesville Albemarle Airport,NA,airport,38.139416,medium
 CHS,-80.037155,US,1,Charleston Air Force Base-International Airport,NA,airport,32.884354,large
 CID,-91.7003,US,1,The Eastern Iowa Airport,NA,airport,41.889423,large
 CIU,-84.35,US,1,Chippewa County International Airport,NA,airport,46.5,medium
 CKB,-80.22945,US,1,North Central West Virginia Airport,NA,airport,39.295555,medium
-KCL,-158.53194,US,1,Chignik Lagoon Airport,NA,airport,56.308334,small
 CLE,-81.83821,US,1,Cleveland Hopkins International Airport,NA,airport,41.410854,large
+CLF,-149.2125,US,1,Clear Airport,NA,airport,64.320335,medium
+CLG,-120.35,US,1,New Coalinga Municipal Airport,NA,airport,36.15,small
 CLL,-96.36682,US,1,Easterwood Field,NA,airport,30.593842,medium
 CLM,-123.49511,US,1,William R Fairchild International Airport,NA,airport,48.121883,medium
 CLT,-80.93584,US,1,Charlotte Douglas International Airport,NA,airport,35.219166,large
@@ -2338,10 +2358,21 @@ CRO,-119.55,US,1,Corcoran Airport,NA,airport,36.1,small
 CRP,-97.50249,US,1,Corpus Christi International Airport,NA,airport,27.774813,large
 CRW,-81.596504,US,1,Yeager Airport,NA,airport,38.370342,large
 CSG,-84.94111,US,1,Columbus Metropolitan Airport,NA,airport,32.513332,medium
+JJM,38.183334,KE,1,Mulika Lodge Airport,AF,airport,0.233194,small
+VPG,39.805,KE,1,Vipingo Estate Airport,AF,airport,-3.842778,small
+KRV,36.11667,KE,1,Kerio Valley Airport,AF,airport,2.983333,small
+KIU,41.516666,KE,1,Kiunga Airport,AF,airport,-1.733333,small
+LBK,40.966667,KE,1,Liboi Airport,AF,airport,0.383333,small
+LBN,36.083332,KE,1,Lake Baringo Airport,AF,airport,0.666667,small
+LKU,35.88333,KE,1,Lake Rudolf Airport,AF,airport,3.416667,small
+MRE,35.05885,KE,1,Mara Lodges Airport,AF,airport,-1.300368,small
+MUM,34.483334,KE,1,Mumias Airport,AF,airport,0.333333,small
 CVG,-84.66145,US,1,Cincinnati Northern Kentucky International Airport,NA,airport,39.0555,large
-KIP,-98.5,US,1,Kickapoo Downtown Airport,NA,airport,33.9,small
+CWA,-89.4,US,1,Central Wisconsin Airport,NA,airport,44.4639,small
 CWF,-93.23189,US,1,Chennault International Airport,NA,airport,30.305918,small
+CWX,,US,1,Cochise County Airport,NA,airport,,small
 CYS,-104.816666,US,1,Cheyenne Regional Jerry Olson Field,NA,airport,41.155834,medium
+CZF,-166.03639,US,1,Cape Romanzof Lrrs Airport,NA,airport,61.781113,medium
 DAB,-81.06083,US,1,Daytona Beach International Airport,NA,airport,29.185192,medium
 DAL,-96.85,US,1,Dallas Love Field,NA,airport,32.84391,large
 DAN,-79.335,US,1,Danville Regional Airport,NA,airport,36.573055,medium
@@ -2354,32 +2385,33 @@ DEN,-104.672844,US,1,Denver International Airport,NA,airport,39.84939,large
 DET,-83.005104,US,1,Coleman A. Young Municipal Airport,NA,airport,42.40932,medium
 DFW,-97.036125,US,1,Dallas Fort Worth International Airport,NA,airport,32.89746,large
 DHN,-85.44833,US,1,Dothan Regional Airport,NA,airport,31.32,medium
+DLG,-158.51472,US,1,Dillingham Airport,NA,airport,59.04246,medium
 DLH,-92.18019,US,1,Duluth International Airport,NA,airport,46.838974,large
 DNL,-82.0392,US,1,Daniel Field,NA,airport,33.468098,medium
+DRG,-162.75989,US,1,Deering Airport,NA,airport,66.0712,medium
 DSM,-93.64809,US,1,Des Moines International Airport,NA,airport,41.532433,large
 DTW,-83.35605,US,1,Detroit Metropolitan Wayne County Airport,NA,airport,42.20781,large
 DUJ,-78.89889,US,1,DuBois Regional Airport,NA,airport,41.178333,medium
-JJM,38.183334,KE,1,Mulika Lodge Airport,AF,airport,0.233194,small
-VPG,39.805,KE,1,Vipingo Estate Airport,AF,airport,-3.842778,small
-KRV,36.11667,KE,1,Kerio Valley Airport,AF,airport,2.983333,small
-KIU,41.516666,KE,1,Kiunga Airport,AF,airport,-1.733333,small
-LBK,40.966667,KE,1,Liboi Airport,AF,airport,0.383333,small
-LBN,36.083332,KE,1,Lake Baringo Airport,AF,airport,0.666667,small
-LKU,35.88333,KE,1,Lake Rudolf Airport,AF,airport,3.416667,small
-MRE,35.05885,KE,1,Mara Lodges Airport,AF,airport,-1.300368,small
-MUM,34.483334,KE,1,Mumias Airport,AF,airport,0.333333,small
-ALE,-103.75,US,1,Alpine Casparis Municipal Airport,NA,airport,30.416668,small
-BGT,-113.1687,US,1,Bagdad Airport,NA,airport,34.59398,small
+KFE,119.437225,AU,1,Fortescue - Dave Forrest Aerodrome,OC,airport,-22.291945,small
+DUT,-166.54224,US,1,Unalaska Airport,NA,airport,53.89446,medium
 EAR,-98.998886,US,1,Kearney Regional Airport,NA,airport,40.728333,small
 EAU,-91.48722,US,1,Chippewa Valley Regional Airport,NA,airport,44.864445,medium
 ECP,-85.79892,US,1,Northwest Florida Beaches International Airport,NA,airport,30.357803,small
+EDF,-149.78473,US,1,Elmendorf Air Force Base,NA,airport,61.250557,medium
+FLU,,US,,Flushing Airport,NA,closed,,
+EEK,-162.01666,US,1,Eek Airport,NA,airport,60.216667,small
 EEN,-72.270836,US,1,Dillant Hopkins Airport,NA,airport,42.900833,medium
 EGE,-106.91347,US,1,Eagle County Regional Airport,NA,airport,39.63988,medium
-KEK,-157.4775,US,1,Ekwok Airport,NA,airport,59.355278,small
+EHM,-162.06056,US,1,Cape Newenham Lrrs Airport,NA,airport,58.64722,medium
+EII,-9.433333,US,1,Egegik Airport,NA,airport,53.033333,medium
+EIL,-147.71666,US,1,Eielson Air Force Base,NA,airport,64.85,medium
 EKO,-115.78972,US,1,Elko Regional Airport,NA,airport,40.82389,medium
 ELD,-92.81472,US,1,South Arkansas Regional At Goodwin Field,NA,airport,33.220554,medium
 ELM,-76.89586,US,1,Elmira Corning Regional Airport,NA,airport,42.16304,medium
 ELP,-106.396,US,1,El Paso International Airport,NA,airport,31.798948,medium
+ENA,-151.24644,US,1,Kenai Municipal Airport,NA,airport,60.56521,medium
+ENM,,US,1,Emmonak Airport,NA,airport,,medium
+ENN,-149.11667,US,1,Nenana Municipal Airport,NA,airport,64.566666,medium
 ERI,-80.18203,US,1,Erie International Tom Ridge Field,NA,airport,42.08314,large
 EUG,-123.21197,US,1,Mahlon Sweet Field,NA,airport,44.119198,medium
 EVV,-87.52796,US,1,Evansville Regional Airport,NA,airport,38.046165,medium
@@ -2387,44 +2419,59 @@ EWB,-70.95917,US,1,New Bedford Regional Airport,NA,airport,41.676945,medium
 EWN,-77.03462,US,1,Coastal Carolina Regional Airport,NA,airport,35.078342,medium
 EWR,-74.17876,US,1,Newark Liberty International Airport,NA,airport,40.68907,large
 EYW,-81.75501,US,1,Key West International Airport,NA,airport,24.553574,medium
+FAI,-147.8668,US,1,Fairbanks International Airport,NA,airport,64.818214,large
 FAR,-96.82551,US,1,Hector International Airport,NA,airport,46.91953,medium
 FAT,-119.72024,US,1,Fresno Yosemite International Airport,NA,airport,36.769623,medium
 FAY,-78.88722,US,1,Fayetteville Regional Grannis Field,NA,airport,34.99132,medium
 FBG,-78.936386,US,1,Simmons Army Air Field,NA,airport,35.131943,medium
+FBK,-147.7,US,1,Ladd AAF Airfield,NA,airport,64.833336,medium
+FCA,-114.25315,US,1,Glacier Park International Airport,NA,airport,48.307304,medium
 FCS,-104.816666,US,1,Butts AAF (Fort Carson) Air Field,NA,airport,38.833332,medium
-KFE,119.437225,AU,1,Fortescue - Dave Forrest Aerodrome,OC,airport,-22.291945,small
-FRD,-123.0265,US,1,Friday Harbor Airport,NA,airport,48.524807,small
+FHB,,US,1,Fernandina Beach Municipal Airport,NA,airport,,small
 FHU,-110.343056,US,1,Sierra Vista Municipal Libby Army Air Field,NA,airport,31.588888,medium
+FID,-72,US,1,Elizabeth Field,NA,airport,41,small
+FIL,-112.3625,US,1,Fillmore Municipal Airport,NA,airport,38.958332,small
 FLG,-111.67167,US,1,Flagstaff Pulliam Airport,NA,airport,35.13778,medium
 FLL,-80.144905,US,1,Fort Lauderdale Hollywood International Airport,NA,airport,26.071491,large
 FLO,-79.72444,US,1,Florence Regional Airport,NA,airport,34.18889,medium
-FLU,,US,,Flushing Airport,NA,closed,,
+FMC,-149.84166,US,1,Five Mile Airport,NA,airport,66.916664,small
+GVW,,US,,Richards-Gebaur Air Force Base,NA,closed,,
+FMS,-91.3275,US,1,Fort Madison Municipal Airport,NA,airport,40.65889,small
 FNT,-83.73891,US,1,Bishop International Airport,NA,airport,42.973812,medium
+FOB,-123.79444,US,1,Fort Bragg Airport,NA,airport,39.474445,small
 FOD,-94.18972,US,1,Fort Dodge Regional Airport,NA,airport,42.5525,medium
 FOE,-95.6625,US,1,Forbes Field,NA,airport,38.9525,medium
-FIL,-112.3625,US,1,Fillmore Municipal Airport,NA,airport,38.958332,small
 FPR,-80.333336,US,1,St Lucie County International Airport,NA,airport,27.45,medium
+FPY,-83.583336,US,1,Perry Foley Airport,NA,airport,30.116667,small
+FRD,-123.0265,US,1,Friday Harbor Airport,NA,airport,48.524807,small
 FRH,-86.61667,US,1,French Lick Municipal Airport,NA,airport,38.55,small
 FRI,-96.78333,US,1,Marshall Army Air Field,NA,airport,39.083332,medium
 FRM,-94.423615,US,1,Fairmont Municipal Airport,NA,airport,43.64722,small
+FRN,-149.68333,US,1,Bryant Army Air Force Airport,NA,airport,61.25,small
 FSD,-96.73115,US,1,Joe Foss Field Airport,NA,airport,43.580296,medium
 FSM,-94.3589,US,1,Fort Smith Regional Airport,NA,airport,35.34124,large
-FMS,-91.3275,US,1,Fort Madison Municipal Airport,NA,airport,40.65889,small
 FTW,-97.333336,US,1,Fort Worth Meacham International Airport,NA,airport,32.75,large
 FWA,-85.18771,US,1,Fort Wayne International Airport,NA,airport,40.98666,large
+FYU,-145.2482,US,1,Fort Yukon Airport,NA,airport,66.56981,medium
 FYV,-94.17,US,1,Drake Field,NA,airport,36.003613,medium
+GAL,-156.94186,US,1,Edward G. Pitka Sr Airport,NA,airport,64.73798,medium
+GAM,-171.71355,US,1,Gambell Airport,NA,airport,63.776596,medium
+GCD,,US,1,Grand Coulee Dam Airport,NA,airport,,small
 GCK,-100.72972,US,1,Garden City Regional Airport,NA,airport,37.92861,medium
 GCN,-112.1475,US,1,Grand Canyon National Park Airport,NA,airport,35.951942,medium
+GCW,-113.815674,US,1,Grand Canyon West Airport,NA,airport,35.988804,small
 GEG,-117.537636,US,1,Spokane International Airport,NA,airport,47.62515,large
 GFK,-97.17587,US,1,Grand Forks International Airport,NA,airport,47.9488,medium
 GGG,-94.71528,US,1,East Texas Regional Airport,NA,airport,32.386665,medium
 GGW,-106.615555,US,1,Wokal Field Glasgow International Airport,NA,airport,48.212776,medium
 GJT,-108.528336,US,1,Grand Junction Regional Airport,NA,airport,39.122665,medium
+GKN,-145.45222,US,1,Gulkana Airport,NA,airport,62.155277,medium
 GLH,-90.985,US,1,Mid Delta Regional Airport,NA,airport,33.484444,medium
 GLS,-94.860275,US,1,Scholes International At Galveston Airport,NA,airport,29.2675,medium
+GNF,-89.93228,US,1,Gansner Field,NA,airport,33.975307,small
+GNU,-161.58055,US,1,Goodnews Airport,NA,airport,59.1125,small
 GNV,-82.276794,US,1,Gainesville Regional Airport,NA,airport,29.686142,medium
 GON,-72.04639,US,1,Groton New London Airport,NA,airport,41.328888,medium
-FCA,-114.25315,US,1,Glacier Park International Airport,NA,airport,48.307304,medium
 GPT,-89.07203,US,1,Gulfport Biloxi International Airport,NA,airport,30.413284,large
 GRB,-88.121895,US,1,Austin Straubel International Airport,NA,airport,44.492847,large
 GRI,-98.30666,US,1,Central Nebraska Regional Airport,NA,airport,40.96722,medium
@@ -2432,22 +2479,34 @@ GRK,-97.820915,US,1,Robert Gray  Army Air Field Airport,NA,airport,31.061821,med
 GRR,-85.52974,US,1,Gerald R. Ford International Airport,NA,airport,42.88501,medium
 GSO,-79.9373,US,1,Piedmont Triad International Airport,NA,airport,36.105324,large
 GSP,-82.21706,US,1,Greenville Spartanburg International Airport,NA,airport,34.890568,large
+GST,-135.705,US,1,Gustavus Airport,NA,airport,58.4275,medium
 GTF,-111.35636,US,1,Great Falls International Airport,NA,airport,47.481888,medium
+GTP,-123.388695,US,1,Grants Pass Airport,NA,airport,42.50926,small
 GUP,-108.78667,US,1,Gallup Municipal Airport,NA,airport,35.511112,medium
 GVT,-96.06167,US,1,Majors Airport,NA,airport,33.066666,small
-GVW,,US,,Richards-Gebaur Air Force Base,NA,closed,,
 GYY,-87.416664,US,1,Gary Chicago International Airport,NA,airport,41.61667,medium
+HBK,,US,1,Holbrook Municipal Airport,NA,airport,,small
+HCR,-159.77167,US,1,Holy Cross Airport,NA,airport,62.18889,medium
+HDH,-157.96666,US,1,Dillingham Airfield,NA,airport,21.466667,medium
 HGR,-77.73,US,1,Hagerstown Regional Richard A Henson Field,NA,airport,39.70778,medium
+HHI,-158.03334,US,1,Wheeler Army Airfield,NA,airport,21.5,medium
 HIB,-92.83861,US,1,Chisholm Hibbing Airport,NA,airport,47.38861,large
 HKY,-81.39167,US,1,Hickory Regional Airport,NA,airport,35.73861,medium
 HLN,-111.99018,US,1,Helena Regional Airport,NA,airport,46.61052,medium
+HNC,-75.7,US,1,Billy Mitchell Airport,NA,airport,35.216667,small
+LHC,,US,,Arlington Municipal Airport,NA,closed,,
+HNH,-135.40334,US,1,Hoonah Airport,NA,airport,58.098057,small
+HNL,-157.92166,US,1,Honolulu International Airport,NA,airport,21.325832,large
+HNM,-156.01889,US,1,Hana Airport,NA,airport,20.795834,medium
+HNS,-135.52924,US,1,Haines Airport,NA,airport,59.246197,medium
+HOM,-151.49316,US,1,Homer Airport,NA,airport,59.64324,medium
 HON,-98.22639,US,1,Huron Regional Airport,NA,airport,44.38361,medium
 HOT,-93.09611,US,1,Memorial Field,NA,airport,34.47889,medium
 HOU,-95.277016,US,1,William P Hobby Airport,NA,airport,29.654512,large
+HPB,-166.14586,US,1,Hooper Bay Airport,NA,airport,61.525078,medium
 HPN,-73.70389,US,1,Westchester County Airport,NA,airport,41.068672,medium
 HRL,-97.662254,US,1,Valley International Airport,NA,airport,26.223482,medium
 HRO,-93.155556,US,1,Boone County Airport,NA,airport,36.261665,medium
-HNC,-75.7,US,1,Billy Mitchell Airport,NA,airport,35.216667,small
 HSV,-86.77484,US,1,Huntsville International Carl T Jones Field,NA,airport,34.64857,large
 HTS,-82.556114,US,1,Tri-State/Milton J. Ferguson Field,NA,airport,38.366943,large
 HUF,-87.3075,US,1,Terre Haute International Hulman Field,NA,airport,39.454445,medium
@@ -2457,67 +2516,104 @@ IAB,-97.27617,US,1,Mc Connell Air Force Base,NA,airport,37.68114,medium
 IAD,-77.44774,US,1,Washington Dulles International Airport,NA,airport,38.95315,large
 IAG,-78.95,US,1,Niagara Falls International Airport,NA,airport,43.1,medium
 IAH,-95.34,US,1,George Bush Intercontinental Houston Airport,NA,airport,29.983334,large
+IAN,-160.43056,US,1,Bob Baker Memorial Airport,NA,airport,66.975555,medium
+ICS,,US,1,Cascade Airport,NA,airport,,small
 ICT,-97.428955,US,1,Wichita Mid Continent Airport,NA,airport,37.653046,large
 IDA,-112.06751,US,1,Idaho Falls Regional Airport,NA,airport,43.514854,medium
+IDH,,US,1,Idaho County Airport,NA,airport,,small
 IFP,-114.55695,US,1,Laughlin Bullhead International Airport,NA,airport,35.165634,small
+IGG,-155.9,US,1,Igiugig Airport,NA,airport,59.316666,small
 IGM,-113.94,US,1,Kingman Airport,NA,airport,35.256668,small
+IKO,-168.85,US,1,Nikolski Air Station,NA,airport,52.941666,small
 ILG,-75.6075,US,1,New Castle Airport,NA,airport,39.678333,medium
+ILI,-154.90834,US,1,Iliamna Airport,NA,airport,59.752777,medium
 ILM,-77.91063,US,1,Wilmington International Airport,NA,airport,34.26705,medium
 IND,-86.29805,US,1,Indianapolis International Airport,NA,airport,39.714516,large
 INL,-93.40417,US,1,Falls International Airport,NA,airport,48.563057,medium
 INT,-80.225555,US,1,Smith Reynolds Airport,NA,airport,36.135277,medium
 IPT,-76.920555,US,1,Williamsport Regional Airport,NA,airport,41.24222,medium
 IRK,-92.54389,US,1,Kirksville Regional Airport,NA,airport,40.0925,medium
+KMM,136.16667,ID,1,Kimaam Airport,AS,airport,-3.666667,small
 ISP,-73.09755,US,1,Long Island Mac Arthur Airport,NA,airport,40.789314,medium
 ITH,-76.46359,US,1,Ithaca Tompkins Regional Airport,NA,airport,42.49034,medium
-AZA,-111.655556,US,1,Phoenix-Mesa-Gateway Airport,NA,airport,33.307777,medium
+ITO,-155.03963,US,1,Hilo International Airport,NA,airport,19.714565,medium
+IYS,,US,1,Wasilla Airport,NA,airport,,medium
 JAC,-110.73613,US,1,Jackson Hole Airport,NA,airport,43.602806,medium
 JAN,-90.07496,US,1,Jackson Evers International Airport,NA,airport,32.309895,large
 JAX,-81.68306,US,1,Jacksonville International Airport,NA,airport,30.491657,large
 JBR,-90.64833,US,1,Jonesboro Municipal Airport,NA,airport,35.83,medium
 JFK,-73.78817,US,1,John F Kennedy International Airport,NA,airport,40.642334,large
+JHM,-156.67569,US,1,Kapalua Airport,NA,airport,20.962194,medium
 JLN,-94.49778,US,1,Joplin Regional Airport,NA,airport,37.149723,large
 JMS,-98.67833,US,1,Jamestown Regional Airport,NA,airport,46.93,medium
+JNU,-134.58339,US,1,Juneau International Airport,NA,airport,58.35932,medium
+JRF,,US,1,Kalaeloa (John Rodgers Field) Airport,NA,airport,,medium
+NGZ,,US,,Alameda Naval Air Station,NA,closed,,
+NOP,,US,,Floyd Bennett Field,NA,closed,,
 JST,-78.83444,US,1,John Murtha Johnstown Cambria County Airport,NA,airport,40.316666,medium
+KAL,-158.73611,US,1,Kaltag Airport,NA,airport,64.321945,small
+KCL,-158.53194,US,1,Chignik Lagoon Airport,NA,airport,56.308334,small
+KEK,-157.4775,US,1,Ekwok Airport,NA,airport,59.355278,small
+KFP,-163.40916,US,1,False Pass Airport,NA,airport,54.849167,small
+KIP,-98.5,US,1,Kickapoo Downtown Airport,NA,airport,33.9,small
+KLG,-160.3465,US,1,Kalskag Airport,NA,airport,61.53258,small
+KNW,-157.32973,US,1,New Stuyahok Airport,NA,airport,59.45222,small
+KOA,-156.04108,US,1,Kona International At Keahole Airport,NA,airport,19.736174,medium
+KPC,-166.85583,US,1,Port Clarence Coast Guard Station,NA,airport,65.25444,medium
+KSM,-163.29489,US,1,St Mary's Airport,NA,airport,62.058666,medium
+KTN,-131.7087,US,1,Ketchikan International Airport,NA,airport,55.35655,medium
+KVC,-162.31334,US,1,King Cove Airport,NA,airport,55.055,small
+KVL,-164.54723,US,1,Kivalina Airport,NA,airport,67.73167,medium
 LAF,-86.93361,US,1,Purdue University Airport,NA,airport,40.411945,medium
 LAN,-84.58958,US,1,Capital City Airport,NA,airport,42.774185,medium
 LAR,-105.67306,US,1,Laramie Regional Airport,NA,airport,41.31361,medium
+DSO,,KP,1,Sondok Airport,AS,airport,,small
 LAS,-115.1486,US,1,McCarran International Airport,NA,airport,36.086945,large
 LAX,-118.40828,US,1,Los Angeles International Airport,NA,airport,33.943398,large
 LBB,-101.8223,US,1,Lubbock Preston Smith International Airport,NA,airport,33.65622,large
 LBE,-79.40855,US,1,Arnold Palmer Regional Airport,NA,airport,40.272926,medium
 LBF,-100.69667,US,1,North Platte Regional Airport Lee Bird Field,NA,airport,41.128334,medium
 LBL,-100.960556,US,1,Liberal Mid-America Regional Airport,NA,airport,37.044445,medium
+PCA,,US,1,Picacho Stagefield Heliport,NA,heliport,,
 LCH,-93.225555,US,1,Lake Charles Regional Airport,NA,airport,30.131111,medium
 LEB,-72.310005,US,1,Lebanon Municipal Airport,NA,airport,43.62936,medium
 LEX,-84.59792,US,1,Blue Grass Airport,NA,airport,38.03762,large
 LFT,-91.99327,US,1,Lafayette Regional Airport,NA,airport,30.20851,large
 LGA,-73.87162,US,1,La Guardia Airport,NA,airport,40.774254,large
 LGB,-118.14449,US,1,Long Beach /Daugherty Field/ Airport,NA,airport,33.818195,medium
-LHC,,US,,Arlington Municipal Airport,NA,closed,,
+LIH,-159.34944,US,1,Lihue Airport,NA,airport,21.978205,medium
 LIT,-92.221375,US,1,Adams Field,NA,airport,34.727432,large
 LMT,-121.73583,US,1,Klamath Falls Airport,NA,airport,42.163055,medium
 LNK,-96.75471,US,1,Lincoln Airport,NA,airport,40.846176,medium
 LNS,-76.29972,US,1,Lancaster Airport,NA,airport,40.121113,medium
+LNY,-156.95049,US,1,Lanai Airport,NA,airport,20.790085,medium
+LPS,-122.935555,US,1,Lopez Island Airport,NA,airport,48.482777,small
 LRD,-99.455124,US,1,Laredo International Airport,NA,airport,27.543667,medium
+PLB,,US,,Clinton County Airport,NA,closed,,
 LRU,-106.92167,US,1,Las Cruces International Airport,NA,airport,32.290833,medium
 LSE,-91.264336,US,1,La Crosse Municipal Airport,NA,airport,43.875244,medium
 LUK,-84.666664,US,1,Cincinnati Municipal Airport Lunken Field,NA,airport,39.033333,medium
+LUP,-156.97444,US,1,Kalaupapa Airport,NA,airport,21.211111,small
+LUR,-166.10695,US,1,Cape Lisburne Lrrs Airport,NA,airport,68.87583,medium
 LWS,-117.01444,US,1,Lewiston Nez Perce County Airport,NA,airport,46.37472,medium
 LWT,-109.47111,US,1,Lewistown Municipal Airport,NA,airport,47.05111,medium
 LYH,-79.20111,US,1,Lynchburg Regional Preston Glenn Field,NA,airport,37.326942,medium
 MAF,-102.20817,US,1,Midland International Airport,NA,airport,31.937145,medium
 MBS,-84.090744,US,1,MBS International Airport,NA,airport,43.53339,large
 MCE,-120.51278,US,1,Merced Regional Macready Field,NA,airport,37.28472,medium
+MCG,-155.65764,US,1,McGrath Airport,NA,airport,62.97875,medium
 MCI,-94.719925,US,1,Kansas City International Airport,NA,airport,39.293808,large
 MCN,-83.64865,US,1,Middle Georgia Regional Airport,NA,airport,32.70199,medium
+KQA,,US,1,Akutan Seaplane Base,NA,seaplanes,,
 MCO,-81.308304,US,1,Orlando International Airport,NA,airport,28.432177,large
 MDH,-89.24694,US,1,Southern Illinois Airport,NA,airport,37.781387,medium
+MDR,-154.71666,US,1,Medfra Airport,NA,airport,63.106945,small
 MDT,-76.75606,US,1,Harrisburg International Airport,NA,airport,40.196007,medium
 MDW,-87.74087,US,1,Chicago Midway International Airport,NA,airport,41.788136,large
 MEI,-88.74917,US,1,Key Field,NA,airport,32.337223,medium
 MEM,-89.98226,US,1,Memphis International Airport,NA,airport,35.04458,large
 MFE,-98.23978,US,1,Mc Allen Miller International Airport,NA,airport,26.181295,medium
+KRJ,143.51666,PG,1,Karawari Airstrip,OC,airport,-4.616667,small
 MFR,-122.87312,US,1,Rogue Valley International Medford Airport,NA,airport,42.369026,medium
 MGM,-86.39029,US,1,Montgomery Regional (Dannelly Field) Airport,NA,airport,32.305042,large
 MGW,-79.91583,US,1,Morgantown Municipal Walter L. Bill Hart Field,NA,airport,39.642776,medium
@@ -2528,16 +2624,18 @@ MIE,-85.39445,US,1,Delaware County Johnson Field,NA,airport,40.239723,medium
 MKC,-94.59194,US,1,Charles B. Wheeler Downtown Airport,NA,airport,39.12417,medium
 MKE,-87.90267,US,1,General Mitchell International Airport,NA,airport,42.948093,large
 MKG,-86.2375,US,1,Muskegon County Airport,NA,airport,43.170555,small
+MKK,-157.1,US,1,Molokai Airport,NA,airport,21.152779,medium
 MKL,-88.915276,US,1,Mc Kellar Sipes Regional Airport,NA,airport,35.60139,medium
 MLB,-80.63028,US,1,Melbourne International Airport,NA,airport,28.1025,medium
 MLI,-90.50611,US,1,Quad City International Airport,NA,airport,41.453896,large
 MLS,-105.880554,US,1,Frank Wiley Field,NA,airport,46.430557,medium
 MLU,-92.043655,US,1,Monroe Regional Airport,NA,airport,32.51184,large
-KMM,136.16667,ID,1,Kimaam Airport,AS,airport,-3.666667,small
 MMU,-74.41583,US,1,Morristown Municipal Airport,NA,airport,40.799168,medium
 MOB,-88.24475,US,1,Mobile Regional Airport,NA,airport,30.681086,large
 MOD,-120.95528,US,1,Modesto City Co-Harry Sham Field,NA,airport,37.626945,medium
 MOT,-101.28083,US,1,Minot International Airport,NA,airport,48.259724,medium
+MOU,-163.71666,US,1,Mountain Village Airport,NA,airport,62.089443,small
+MRI,-149.9,US,1,Merrill Field,NA,airport,61.233334,medium
 MRY,-121.850815,US,1,Monterey Peninsula Airport,NA,airport,36.587296,medium
 MSL,-87.61611,US,1,Northwest Alabama Regional Airport,NA,airport,34.74861,medium
 MSN,-89.3465,US,1,Dane County Regional Truax Field,NA,airport,43.136375,large
@@ -2545,156 +2643,58 @@ MSO,-114.08321,US,1,Missoula International Airport,NA,airport,46.918964,medium
 MSP,-93.21092,US,1,Minneapolis-St Paul International/Wold-Chamberlain Airport,NA,airport,44.883015,large
 MSS,-74.846664,US,1,Massena International Richards Field,NA,airport,44.93778,medium
 MSY,-90.25639,US,1,Louis Armstrong New Orleans International Airport,NA,airport,29.984564,large
+MUE,-155.67334,US,1,Waimea Kohala Airport,NA,airport,20.0125,medium
 MVY,-70.61182,US,1,Martha's Vineyard Airport,NA,airport,41.389336,small
 MYR,-78.92294,US,1,Myrtle Beach International Airport,NA,airport,33.682674,large
+MYU,-166.26805,US,1,Mekoryuk Airport,NA,airport,60.37278,medium
 NEL,-74.316666,US,1,Lakehurst NAES /Maxfield Field,NA,airport,40.016666,medium
-NGZ,,US,,Alameda Naval Air Station,NA,closed,,
-NOP,,US,,Floyd Bennett Field,NA,closed,,
-YUM,-114.599266,US,1,Yuma MCAS/Yuma International Airport,NA,airport,32.668606,medium
+NUI,-151.00555,US,1,Nuiqsut Airport,NA,airport,70.209724,medium
 NVN,,US,1,Nervino Airport,NA,airport,,small
-ODC,,US,1,Oakdale Airport,NA,airport,,small
 OAK,-122.21201,US,1,Metropolitan Oakland International Airport,NA,airport,37.71188,large
 OAR,-121.916664,US,1,Marina Municipal Airport,NA,airport,36.61667,small
+ODC,,US,1,Oakdale Airport,NA,airport,,small
+OGG,-156.43863,US,1,Kahului Airport,NA,airport,20.892883,medium
 OKC,-97.59609,US,1,Will Rogers World Airport,NA,airport,35.39563,large
 OLD,-68.65,US,1,"Dewitt Field,Old Town Municipal Airport",NA,airport,44.933334,small
 OLM,-122.903336,US,1,Olympia Regional Airport,NA,airport,46.97361,medium
 OMA,-95.89972,US,1,Eppley Airfield,NA,airport,41.29957,medium
+OME,-165.44167,US,1,Nome Airport,NA,airport,64.51139,medium
 ONT,-117.59765,US,1,Ontario International Airport,NA,airport,34.06068,large
 ORD,-87.90488,US,1,Chicago O'Hare International Airport,NA,airport,41.976913,large
 ORF,-76.20629,US,1,Norfolk International Airport,NA,airport,36.898582,large
 ORH,-71.87444,US,1,Worcester Regional Airport,NA,airport,42.26917,medium
+ORT,-141.92389,US,1,Northway Airport,NA,airport,62.961945,medium
 OSH,-88.556946,US,1,Wittman Regional Airport,NA,airport,43.98389,medium
 OTH,-124.24,US,1,Southwest Oregon Regional Airport,NA,airport,43.418888,medium
+OTK,,US,1,Tillamook Airport,NA,airport,,small
 OTM,-92.449165,US,1,Ottumwa Regional Airport,NA,airport,41.106388,medium
+OTZ,-162.60583,US,1,Ralph Wien Memorial Airport,NA,airport,66.888054,medium
 OWB,-87.16583,US,1,Owensboro Daviess County Airport,NA,airport,37.740833,medium
-DSO,,KP,1,Sondok Airport,AS,airport,,small
-HBK,,US,1,Holbrook Municipal Airport,NA,airport,,small
-CWX,,US,1,Cochise County Airport,NA,airport,,small
 PAE,-122.28445,US,1,Snohomish County (Paine Field) Airport,NA,airport,47.90972,medium
 PAH,-88.7725,US,1,Barkley Regional Airport,NA,airport,37.06111,medium
+PAQ,-149.11667,US,1,Palmer Municipal Airport,NA,airport,61.6,medium
 PBG,-73.48333,US,1,Plattsburgh International Airport,NA,airport,44.7,medium
 PBI,-80.09044,US,1,Palm Beach International Airport,NA,airport,26.688885,large
-PCA,,US,1,Picacho Stagefield Heliport,NA,heliport,,
+PBV,-57.333332,US,1,St George Airport,NA,airport,-11.516667,medium
+PCA,-157.70195,US,1,Portage Creek Airport,NA,airport,58.90139,small
 PDK,-84.30194,US,1,DeKalb Peachtree Airport,NA,airport,33.875557,medium
 PDX,-122.5929,US,1,Portland International Airport,NA,airport,45.588997,large
 PFN,-85.68309,US,1,Panama City-Bay Co International Airport,NA,airport,30.207085,medium
 PHF,-76.50282,US,1,Newport News Williamsburg International Airport,NA,airport,37.13033,large
-ADR,-79.566666,US,1,Robert F Swinnie Airport,NA,airport,33.45,small
+UCA,,US,,Oneida County Airport,NA,closed,,
 PHL,-75.2433,US,1,Philadelphia International Airport,NA,airport,39.87641,large
+UIZ,,US,,Berz-Macomb Airport,NA,closed,,
+PHO,-166.8,US,1,Point Hope Airport,NA,airport,68.35,small
 PHX,-112.00016,US,1,Phoenix Sky Harbor International Airport,NA,airport,33.435036,large
 PIA,-89.69012,US,1,Greater Peoria Regional Airport,NA,airport,40.66643,large
 PIB,-89.33667,US,1,Hattiesburg Laurel Regional Airport,NA,airport,31.4675,medium
 PIE,-82.69511,US,1,St Petersburg Clearwater International Airport,NA,airport,27.912004,medium
 PIH,-112.594444,US,1,Pocatello Regional Airport,NA,airport,42.913334,medium
 PIR,-100.29319,US,1,Pierre Regional Airport,NA,airport,44.380363,medium
-PIT,-80.25657,US,1,Pittsburgh International Airport,NA,airport,40.49585,large
-PKB,-81.43889,US,1,Mid Ohio Valley Regional Airport,NA,airport,39.345554,medium
-PLB,,US,,Clinton County Airport,NA,closed,,
-PLN,-84.79278,US,1,Pellston Regional Airport of Emmet County Airport,NA,airport,45.57083,medium
-PMD,-118.083336,US,1,Palmdale Regional/USAF Plant 42 Airport,NA,airport,34.6275,medium
-PNS,-87.19416,US,1,Pensacola Regional Airport,NA,airport,30.475943,medium
-POU,-73.882774,US,1,Dutchess County Airport,NA,airport,41.628056,medium
-PQI,-68.0475,US,1,Northern Maine Regional Airport at Presque Isle,NA,airport,46.685,medium
-PRC,-112.424164,US,1,Ernest A. Love Field,NA,airport,34.65,medium
-PSC,-119.1152,US,1,Tri Cities Airport,NA,airport,46.259094,medium
-PSM,-70.88272,US,1,Portsmouth International at Pease Airport,NA,airport,43.179585,medium
-PSP,-116.508446,US,1,Palm Springs International Airport,NA,airport,33.822975,medium
-PUB,-104.49611,US,1,Pueblo Memorial Airport,NA,airport,38.292778,small
-PUW,-117.105,US,1,Pullman Moscow Regional Airport,NA,airport,46.74472,medium
-PVD,-71.43632,US,1,Theodore Francis Green State Airport,NA,airport,41.72631,medium
-PWM,-70.31031,US,1,Portland International Jetport Airport,NA,airport,43.64749,large
-PWT,-122.763336,US,1,Bremerton National Airport,NA,airport,47.485,medium
-KQA,,US,1,Akutan Seaplane Base,NA,seaplanes,,
-RAP,-103.06118,US,1,Rapid City Regional Airport,NA,airport,44.037582,medium
-RDD,-122.29991,US,1,Redding Municipal Airport,NA,airport,40.505768,medium
-RDG,-75.96389,US,1,Reading Regional Carl A Spaatz Field,NA,airport,40.378613,medium
-RDM,-121.162895,US,1,Roberts Field,NA,airport,44.254272,medium
-RDU,-78.79086,US,1,Raleigh Durham International Airport,NA,airport,35.873592,large
-RFD,-89.222115,US,1,Chicago Rockford International Airport,NA,airport,42.30364,large
-RHI,-89.46253,US,1,Rhinelander Oneida County Airport,NA,airport,45.625706,medium
-RIC,-77.3225,US,1,Richmond International Airport,NA,airport,37.50611,large
-KRJ,143.51666,PG,1,Karawari Airstrip,OC,airport,-4.616667,small
-RKS,-109.065834,US,1,Rock Springs Sweetwater County Airport,NA,airport,41.59639,medium
-RNO,-119.775696,US,1,Reno Tahoe International Airport,NA,airport,39.505783,large
-ROA,-79.97038,US,1,Roanoke Regional Woodrum Field,NA,airport,37.32051,large
-ROC,-77.66543,US,1,Greater Rochester International Airport,NA,airport,43.127975,large
-ROW,-104.53,US,1,Roswell International Air Center Airport,NA,airport,33.29972,medium
-RQO,,US,1,El Reno Regional Airport,NA,airport,,small
-RST,-92.48977,US,1,Rochester International Airport,NA,airport,43.910793,large
-RSW,-81.75433,US,1,Southwest Florida International Airport,NA,airport,26.542835,large
-RUT,-72.94833,US,1,Rutland - Southern Vermont Regional Airport,NA,airport,43.529446,medium
-RWI,-77.89056,US,1,Rocky Mount Wilson Regional Airport,NA,airport,35.854443,medium
-AHM,,US,1,Ashland Municipal Sumner Parker Field,NA,airport,,small
-SUO,-121.5,US,1,Sunriver Airport,NA,airport,43.916668,small
-IDH,,US,1,Idaho County Airport,NA,airport,,small
-VSK,,US,1,Vista Field,NA,airport,,small
-SAN,-117.19731,US,1,San Diego International Airport,NA,airport,32.731937,large
-SAT,-98.47264,US,1,San Antonio International Airport,NA,airport,29.524937,large
-SAV,-81.21059,US,1,Savannah Hilton Head International Airport,NA,airport,32.1358,large
-SBA,-119.83648,US,1,Santa Barbara Municipal Airport,NA,airport,34.432835,medium
-SBN,-86.31335,US,1,South Bend Regional Airport,NA,airport,41.700554,large
-SBP,-120.640625,US,1,San Luis County Regional Airport,NA,airport,35.239113,medium
-SBY,-75.517265,US,1,Salisbury Ocean City Wicomico Regional Airport,NA,airport,38.34312,medium
-SDF,-85.74179,US,1,Louisville International Standiford Field,NA,airport,38.186375,large
-SEA,-122.301735,US,1,Seattle Tacoma International Airport,NA,airport,47.44384,large
-SFB,-81.2432,US,1,Orlando Sanford International Airport,NA,airport,28.775118,large
-SFO,-122.38988,US,1,San Francisco International Airport,NA,airport,37.615215,large
-SGF,-93.38226,US,1,Springfield Branson National Airport,NA,airport,37.24237,large
-SHD,-78.89667,US,1,Shenandoah Valley Regional Airport,NA,airport,38.26389,small
-SHR,-106.97722,US,1,Sheridan County Airport,NA,airport,44.774166,medium
-SHV,-93.828384,US,1,Shreveport Regional Airport,NA,airport,32.45471,large
-SJC,-121.92638,US,1,Norman Y. Mineta San Jose International Airport,NA,airport,37.366737,large
-SJT,-100.494446,US,1,San Angelo Regional Mathis Field,NA,airport,31.359722,medium
-SLC,-111.980675,US,1,Salt Lake City International Airport,NA,airport,40.785645,large
-SLK,-74.206665,US,1,Adirondack Regional Airport,NA,airport,44.38278,medium
-SLN,-97.6525,US,1,Salina Municipal Airport,NA,airport,38.790833,medium
-SMF,-121.5937,US,1,Sacramento International Airport,NA,airport,38.692284,large
-SMX,-120.45778,US,1,Santa Maria Pub/Capt G Allan Hancock Field,NA,airport,34.905,medium
-SNA,-117.860535,US,1,John Wayne Airport-Orange County Airport,NA,airport,33.680202,large
-SPI,-89.67889,US,1,Abraham Lincoln Capital Airport,NA,airport,39.844166,large
-SPS,-98.49194,US,1,Sheppard Air Force Base-Wichita Falls Municipal Airport,NA,airport,33.988335,large
-SRQ,-82.55328,US,1,Sarasota Bradenton International Airport,NA,airport,27.38748,large
-STC,-94.166664,US,1,St Cloud Regional Airport,NA,airport,45.55,medium
-STL,-90.36587,US,1,Lambert St Louis International Airport,NA,airport,38.74228,large
-STP,-93.066666,US,1,St Paul Downtown Holman Field,NA,airport,44.933334,medium
-SUN,-114.30082,US,1,Friedman Memorial Airport,NA,airport,43.50647,medium
-SUX,-96.38417,US,1,Sioux Gateway Col. Bud Day Field,NA,airport,42.401943,large
-SVC,-108.15389,US,1,Grant County Airport,NA,airport,32.631943,small
-SWF,-74.10104,US,1,Stewart International Airport,NA,airport,41.49843,medium
-SYR,-76.11223,US,1,Syracuse Hancock International Airport,NA,airport,43.113983,large
-TBN,-92.14056,US,1,Waynesville-St. Robert Regional Forney field,NA,airport,37.74139,medium
-TCL,-87.61083,US,1,Tuscaloosa Regional Airport,NA,airport,33.22111,medium
-TLH,-84.34444,US,1,Tallahassee Regional Airport,NA,airport,30.395782,large
-OTK,,US,1,Tillamook Airport,NA,airport,,small
-TOL,-83.8069,US,1,Toledo Express Airport,NA,airport,41.5925,large
-TPA,-82.535416,US,1,Tampa International Airport,NA,airport,27.97987,large
-TPL,-97.409164,US,1,Draughon Miller Central Texas Regional Airport,NA,airport,31.150278,medium
-TRI,-82.40785,US,1,Tri Cities Regional Tn Va Airport,NA,airport,36.48111,large
-TTN,-74.8125,US,1,Trenton Mercer Airport,NA,airport,40.278057,medium
-TUL,-95.8901,US,1,Tulsa International Airport,NA,airport,36.189808,large
-TUP,-88.76722,US,1,Tupelo Regional Airport,NA,airport,34.25889,medium
-TUS,-110.93737,US,1,Tucson International Airport,NA,airport,32.12069,large
-TVC,-85.58035,US,1,Cherry Capital Airport,NA,airport,44.744083,medium
-TVL,-119.994446,US,1,Lake Tahoe Airport,NA,airport,38.89417,medium
-TWF,-114.486664,US,1,Joslin Field Magic Valley Regional Airport,NA,airport,42.481945,medium
-TXK,-93.98917,US,1,Texarkana Regional Webb Field,NA,airport,33.45639,medium
-TYR,-95.41012,US,1,Tyler Pounds Regional Airport,NA,airport,32.351597,medium
-TYS,-83.98973,US,1,McGhee Tyson Airport,NA,airport,35.80565,large
-ICS,,US,1,Cascade Airport,NA,airport,,small
-UCA,,US,,Oneida County Airport,NA,closed,,
-UIN,-91.19722,US,1,Quincy Regional Baldwin Field,NA,airport,39.944168,medium
-UIZ,,US,,Berz-Macomb Airport,NA,closed,,
-SCE,-77.84823,US,1,University Park Airport,NA,airport,40.85372,medium
-VCT,-96.914444,US,1,Victoria Regional Airport,NA,airport,28.85111,medium
-VLD,-83.27722,US,1,Valdosta Regional Airport,NA,airport,30.78389,medium
-VPS,-86.54946,US,1,Eglin Air Force Base,NA,airport,30.495913,large
-VRB,-80.41361,US,1,Vero Beach Municipal Airport,NA,airport,27.6525,medium
-WRI,-74.65017,US,1,Mc Guire Air Force Base,NA,airport,40.155308,medium
-WRL,-107.95306,US,1,Worland Municipal Airport,NA,airport,43.9675,medium
 KWY,41.266666,KE,1,Kiwayu Airport,AF,airport,-2.016667,medium
-YIP,-83.53333,US,1,Willow Run Airport,NA,airport,42.233334,medium
-YKM,-120.53778,US,1,Yakima Air Terminal McAllister Field,NA,airport,46.566944,medium
-YNG,-80.66972,US,1,Youngstown Warren Regional Airport,NA,airport,41.25611,medium
+PIT,-80.25657,US,1,Pittsburgh International Airport,NA,airport,40.49585,large
+PIZ,-163.16667,US,1,Point Lay Lrrs Airport,NA,airport,69.75,medium
+PKB,-81.43889,US,1,Mid Ohio Valley Regional Airport,NA,airport,39.345554,medium
 DZN,67.73333,KZ,1,Dzhezkazgan Airport,AS,airport,47.7,medium
 TDK,78.433334,KZ,1,Taldykorgan Airport,AS,airport,45.15,medium
 ATX,68.4,KZ,1,Atbasar Airport,AS,airport,51.88333,small
@@ -2726,15 +2726,15 @@ ZAG,16.06152,HR,1,Zagreb Airport,EU,airport,45.733242,large
 ZAD,15.356667,HR,1,Zemunik Airport,EU,airport,44.09778,medium
 ABC,-1.863333,ES,1,Albacete-Los Llanos Airport,EU,airport,38.948334,medium
 ALC,-0.557381,ES,1,Alicante International Airport,EU,airport,38.287098,large
-LEI,-2.371873,ES,1,,EU,airport,36.847984,medium
+ILP,167.4475,NC,1,,OC,airport,-22.589722,medium
 OVD,-6.032094,ES,1,Asturias Airport,EU,airport,43.55891,medium
-ODB,-4.847222,ES,1,,EU,airport,37.84111,medium
+ILZ,18.766666,SK,1,,EU,airport,49.233334,medium
 BIO,-2.905808,ES,1,Bilbao Airport,EU,airport,43.305534,medium
 RGS,-3.62295,ES,1,Burgos Airport,EU,airport,42.35494,medium
 BCN,2.07593,ES,1,Barcelona International Airport,EU,airport,41.30303,large
 BJZ,-6.82,ES,1,Badajoz Airport,EU,airport,38.891666,medium
 CDT,,ES,1,Castellon De La Plana Airport,EU,airport,,small
-LCG,-8.381923,ES,1,,EU,airport,43.30236,medium
+ISE,30.382221,TR,1,,AS,airport,37.86611,large
 GRO,2.766383,ES,1,Girona Airport,EU,airport,41.89804,medium
 GRX,-3.776954,ES,1,Federico Garcia Lorca Airport,EU,airport,37.184727,medium
 CCX,-57.7,ES,1,Guadalupe Airport,EU,airport,-16.066668,small
@@ -2746,7 +2746,7 @@ LEN,-5.64629,ES,1,Leon Airport,EU,airport,42.59057,medium
 RJL,-2.323611,ES,1,,EU,airport,42.456944,small
 MAD,-3.570209,ES,1,Madrid Barajas International Airport,EU,airport,40.46515,large
 HEV,-6.95,ES,1,,EU,airport,37.266666,small
-AGP,-4.489616,ES,1,,EU,airport,36.675182,large
+IST,28.815277,TR,1,,EU,airport,40.976665,large
 MAH,4.226256,ES,1,Menorca Airport,EU,airport,39.864746,medium
 OZP,-5.759444,ES,1,Moron Air Base,EU,airport,37.24917,medium
 PMI,2.730388,ES,1,Palma De Mallorca Airport,EU,airport,39.547653,large
@@ -2757,7 +2757,7 @@ SLM,-5.501944,ES,1,Salamanca Airport,EU,airport,40.951942,medium
 EAS,-1.793538,ES,1,San Sebastian Airport,EU,airport,43.3564,medium
 SCQ,-8.420327,ES,1,Santiago de Compostela Airport,EU,airport,42.897316,large
 LEU,1.466667,ES,1,,EU,airport,42.416668,small
-TOJ,-3.546667,ES,1,,EU,airport,40.455555,medium
+JEE,-74.16972,HT,1,,NA,airport,18.662222,medium
 VLC,-0.473475,ES,1,Valencia Airport,EU,airport,39.49179,medium
 VLL,-4.844626,ES,1,Valladolid Airport,EU,airport,41.70581,medium
 VIT,-2.5,ES,1,Vitoria/Foronda Airport,EU,airport,42.833332,medium
@@ -2769,50 +2769,50 @@ DPE,1.241111,FR,1,St Aubin Airport,EU,airport,49.961388,small
 CQF,1.933333,FR,1,Calais-Dunkerque Airport,EU,airport,50.95,medium
 XCP,,FR,1,,EU,airport,,small
 XLN,,FR,1,Laon - Chambry Airport,EU,airport,,small
-XSJ,,FR,1,,EU,airport,,medium
+JKG,14.070497,SE,1,,EU,airport,57.7501,medium
 XDK,,FR,1,Dunkerque les Moeres Airport,EU,airport,,small
 BYF,2.699448,FR,1,Albert-Bray Airport,EU,airport,49.97039,small
-LTQ,1.627071,FR,1,,EU,airport,50.514774,medium
+KDL,22.8,EE,1,,EU,airport,58.983334,medium
 XVS,,FR,1,Valenciennes-Denain Airport,EU,airport,,medium
 QAM,,FR,1,Amiens-Glisy Airport,EU,airport,,medium
 AGF,0.598611,FR,1,Agen-La Garenne Airport,EU,airport,44.17361,medium
-BOD,-0.70217,FR,1,,EU,airport,44.83102,large
-EGC,0.483333,FR,1,,EU,airport,44.85,medium
-CNG,-0.333333,FR,1,,EU,airport,45.683334,medium
-LRH,-1.185833,FR,1,,EU,airport,46.180557,medium
+KGG,-12.217222,SN,1,,AF,airport,12.570833,medium
+KKN,29.891184,NO,1,,EU,airport,69.7235,medium
+KNA,-71.566666,CL,1,,SA,airport,-33.033333,medium
+KNQ,164.83778,NC,1,,OC,airport,-21.053333,medium
 PIS,0.306389,FR,1,Poitiers-Biard Airport,EU,airport,46.58611,medium
-MCU,2.6,FR,1,,EU,airport,46.35,medium
+KRF,17.772778,SE,1,,EU,airport,63.049442,medium
 LIG,1.176245,FR,1,Limoges Airport,EU,airport,45.86218,medium
 XMJ,,FR,1,Mont-de-Marsan (BA 118) Air Base,EU,airport,,medium
-NIT,-0.45,FR,1,,EU,airport,46.316666,medium
+KRK,19.793743,PL,1,,EU,airport,50.075493,large
 TLS,1.374321,FR,1,Toulouse-Blagnac Airport,EU,airport,43.63007,large
-PUF,-0.413573,FR,1,,EU,airport,43.382347,medium
-LDE,0.003368,FR,1,,EU,airport,43.18651,medium
-ANG,0.216667,FR,1,,EU,airport,45.733334,medium
+KSC,21.25,SK,1,,EU,airport,48.666668,medium
+KVB,13.966667,SE,1,,EU,airport,58.45,medium
+LAI,-3.481944,FR,1,,EU,airport,48.754166,medium
 BVE,1.533333,FR,1,Brive-La Roche Airport,EU,airport,45.166668,large
-PGX,0.716667,FR,1,,EU,airport,45.183334,medium
+LAP,-110.367836,MX,1,,NA,airport,24.076088,medium
 XDA,,FR,1,Dax Seyresse Airport,EU,airport,,small
 BIQ,-1.531242,FR,1,Biarritz-Anglet-Bayonne Airport,EU,airport,43.472416,medium
 XCX,,FR,1,,EU,airport,,small
 ZAO,1.45,FR,1,Cahors-Lalbenque Airport,EU,airport,44.45,medium
 XGT,,FR,1,,EU,airport,,small
 XAC,,FR,1,Arcachon-La Teste-de-Buch Airport,EU,airport,,medium
-LBI,2.15,FR,1,,EU,airport,43.933334,medium
+LBC,10.701162,DE,1,,EU,airport,53.80527,medium
 DCM,2.284167,FR,1,Castres-Mazamet Airport,EU,airport,43.555832,medium
 RDZ,2.483866,FR,1,Rodez-Marcillac Airport,EU,airport,44.410595,medium
-RYN,-1.016667,FR,1,,EU,airport,45.61667,medium
+LBI,2.15,FR,1,,EU,airport,43.933334,medium
 XMW,,FR,1,Montauban Airport,EU,airport,,medium
 XLR,,FR,1,Libourne-Artigues-de-Lussac Airport,EU,airport,,medium
 RCO,-0.980556,FR,1,Rochefort-Saint-Agnant (BA 721) Airport,EU,airport,45.890556,medium
 XSL,,FR,1,Sarlat Domme Airport,EU,airport,,small
 XTB,,FR,1,,EU,airport,,small
-IDY,-2.388694,FR,1,,EU,airport,46.71787,medium
+LCG,-8.381923,ES,1,,EU,airport,43.30236,medium
 CMR,7.366667,FR,1,Colmar-Houssen Airport,EU,airport,48.083332,medium
 XBV,,FR,1,Beaune-Challanges Airport,EU,airport,,medium
 DLE,5.428719,FR,1,Dole-Tavaux Airport,EU,airport,47.038254,medium
 XVN,,FR,1,Verdun-Le Rozelier Airport,EU,airport,,medium
 MVV,6.65,FR,1,,EU,airport,45.816666,small
-OBS,4.7,FR,1,,EU,airport,44.666668,medium
+LCJ,19.398333,PL,1,,EU,airport,51.721943,medium
 LPY,3.766667,FR,1,Le Puy-Loudes Airport,EU,airport,45.083332,medium
 AHZ,6.083333,FR,1,L'alpe D'huez Airport,EU,airport,45.083332,small
 ETZ,6.243003,FR,1,Metz-Nancy-Lorraine Airport,EU,airport,48.98165,medium
@@ -2820,54 +2820,54 @@ ANE,-0.55,FR,1,Angers-Loire Airport,EU,airport,47.466667,medium
 BIA,9.480124,FR,1,Bastia-Poretta Airport,EU,airport,42.547615,medium
 CLY,8.791667,FR,1,Calvi-Sainte-Catherine Airport,EU,airport,42.52778,medium
 FSC,9.098223,FR,1,Figari Sud-Corse Airport,EU,airport,41.498634,medium
-AJA,8.794013,FR,1,,EU,airport,41.91987,medium
+LDB,-51.137714,BR,1,,SA,airport,-23.328457,medium
 PRP,8.9,FR,1,Propriano Airport,EU,airport,41.666668,small
 SOZ,9.383333,FR,1,Solenzara (BA 126) Air Base,EU,airport,41.88333,medium
 MFX,6.566667,FR,1,,EU,airport,45.416668,small
 AUF,3.5,FR,1,Auxerre-Branches Airport,EU,airport,47.85,medium
-CMF,5.88437,FR,1,,EU,airport,45.637993,medium
+LDE,0.003368,FR,1,,EU,airport,43.18651,medium
 CFE,3.163893,FR,1,Clermont-Ferrand Auvergne Airport,EU,airport,45.78032,medium
 BOU,2.416667,FR,1,Bourges Airport,EU,airport,47.15,medium
 QNJ,,FR,1,Annemasse Airport,EU,airport,,medium
 CVF,6.634722,FR,1,Courchevel Airport,EU,airport,45.396667,small
-LYS,5.080334,FR,1,,EU,airport,45.721424,medium
-QNX,,FR,1,,EU,airport,,medium
+LDK,13.166667,SE,1,,EU,airport,58.5,medium
+LEI,-2.371873,ES,1,,EU,airport,36.847984,medium
 SYT,4.033333,FR,1,Saint-Yan Airport,EU,airport,46.4,medium
 RNE,4.000833,FR,1,Roanne-Renaison Airport,EU,airport,46.053333,medium
 NCY,6.100833,FR,1,Annecy-Haute-Savoie-Mont Blanc Airport,EU,airport,45.930557,medium
 XMK,,FR,1,,EU,airport,,small
-GNB,5.332019,FR,1,,EU,airport,45.359833,medium
+LET,-69.939445,CO,1,,SA,airport,-4.196389,medium
 MCU,2.6,FR,1,,EU,airport,46.35,small
 VAF,4.970278,FR,1,Valence-Chabeuil Airport,EU,airport,44.920277,medium
 VHY,3.409722,FR,1,Vichy-Charmeil Airport,EU,airport,46.165558,medium
 AUR,2.418056,FR,1,Aurillac Airport,EU,airport,44.8975,medium
-CHR,1.728128,FR,1,,EU,airport,46.861954,medium
+LFW,1.250347,TG,1,,AF,airport,6.167103,medium
 LYN,4.943333,FR,1,Lyon-Bron Airport,EU,airport,45.73083,medium
 CEQ,6.954167,FR,1,Cannes-Mandelieu Airport,EU,airport,43.54639,medium
-EBU,4.296944,FR,1,,EU,airport,45.54139,medium
-QIE,85.53333,FR,1,,EU,airport,38.13333,medium
+LGG,5.460149,BE,1,,EU,airport,50.643333,large
+LGS,-69.57457,AR,1,,SA,airport,-35.49324,medium
 CCF,2.316667,FR,1,Carcassonne Airport,EU,airport,43.216667,medium
 MRS,5.222137,FR,1,Marseille Provence Airport,EU,airport,43.44178,large
-NCE,7.205232,FR,1,,EU,airport,43.66049,large
+LIM,-77.107666,PE,1,,SA,airport,-12.019421,large
 XOG,,FR,1,Orange-Caritat (BA 115) Air Base,EU,airport,,medium
-PGF,2.868183,FR,1,,EU,airport,42.741016,medium
+LJU,14.454972,SI,1,,EU,airport,46.23102,large
 CTT,5.783333,FR,1,Le Castellet Airport,EU,airport,43.25,medium
 BAE,6.666667,FR,1,Barcelonnette - Saint-Pons Airport,EU,airport,44.38333,small
-XAS,,FR,1,,EU,airport,,medium
-MPL,3.959174,FR,1,,EU,airport,43.57843,medium
-BZR,3.354444,FR,1,,EU,airport,43.324165,medium
+LLA,22.123587,SE,1,,EU,airport,65.54939,large
+LPI,15.656944,SE,1,,EU,airport,58.406944,medium
+LRH,-1.185833,FR,1,,EU,airport,46.180557,medium
 AVN,4.9,FR,1,Avignon-Caumont Airport,EU,airport,43.9,medium
 GAT,6.083333,FR,1,Gap - Tallard Airport,EU,airport,44.55,small
 MEN,3.533333,FR,1,Mende-Brenoux Airport,EU,airport,44.5,medium
 SCP,0.616667,FR,1,,EU,airport,45.416668,small
-BVA,2.110815,FR,1,,EU,airport,49.459488,medium
+LTQ,1.627071,FR,1,,EU,airport,50.514774,medium
 XSU,,FR,1,Saumur-Saint-Florent Airport,EU,airport,,medium
-EVX,1.15,FR,1,,EU,airport,49.016666,medium
+LYS,5.080334,FR,1,,EU,airport,45.721424,medium
 XAN,,FR,1,,EU,airport,,small
 LEH,0.088611,FR,1,Le Havre Octeville Airport,EU,airport,49.53889,medium
 XAB,,FR,1,Abbeville-Buigny-Saint-Maclou Airport,EU,airport,,medium
-ORE,1.9,FR,1,,EU,airport,47.916668,medium
-XCR,4.201111,FR,1,,EU,airport,48.767776,medium
+LZC,-102.21667,MX,1,,NA,airport,18,medium
+MAB,-49.166668,BR,1,,SA,airport,-5.366667,medium
 LSO,-1.783333,FR,1,Les Sables-d'Olonne Talmont Airport,EU,airport,46.5,small
 URO,1.1875,FR,1,Rouen Airport,EU,airport,49.38861,medium
 XBQ,,FR,1,Blois-Le Breuil Airport,EU,airport,,medium
@@ -2882,14 +2882,14 @@ JDP,,FR,1,Paris Issy-les-Moulineaux Heliport,EU,heliport,,
 TNF,2.113056,FR,1,Toussus-le-Noble Airport,EU,airport,48.75083,medium
 ORY,2.3597,FR,1,Paris-Orly Airport,EU,airport,48.728283,large
 POX,2.1,FR,1,Pontoise - Cormeilles-en-Vexin Airport,EU,airport,49.05,medium
-VIY,2.191667,FR,1,,EU,airport,48.774166,medium
+MCU,2.6,FR,1,,EU,airport,46.35,medium
 QYR,,FR,1,Troyes-Barberey Airport,EU,airport,,medium
 NVS,3.15,FR,1,Nevers-Fourchambault Airport,EU,airport,47,medium
-XCB,,FR,1,,EU,airport,,medium
-XME,,FR,1,,EU,airport,,medium
+MDE,-75.42821,CO,1,,SA,airport,6.171382,medium
+MDQ,-57.572224,AR,1,,SA,airport,-37.934723,medium
 LIL,3.106067,FR,1,Lille-Lesquin Airport,EU,airport,50.57205,medium
 HZB,2.65,FR,1,Merville-Calonne Airport,EU,airport,50.61667,medium
-XCZ,,FR,1,,EU,airport,,medium
+MEA,-41.76405,BR,1,,SA,airport,-22.341843,medium
 XVO,,FR,1,Vesoul-Frotey Airport,EU,airport,,medium
 BES,-4.415827,FR,1,Brest Bretagne Airport,EU,airport,48.445374,medium
 CER,-1.465278,FR,1,Cherbourg-Maupertus Airport,EU,airport,49.65111,medium
@@ -2903,7 +2903,7 @@ LDV,-4.1,FR,1,Landivisiau Air Base,EU,airport,48.5,medium
 CFR,-0.459276,FR,1,Caen-Carpiquet Airport,EU,airport,49.183437,medium
 LME,1.25,FR,1,Le Mans-Arnage Airport,EU,airport,48,medium
 RNS,-1.726249,FR,1,Rennes-Saint-Jacques Airport,EU,airport,48.068066,medium
-LAI,-3.481944,FR,1,,EU,airport,48.754166,medium
+MEE,168.03609,NC,1,,OC,airport,-21.482311,medium
 UIP,-4.170833,FR,1,Quimper-Cornouaille Airport,EU,airport,47.974445,medium
 NTE,-1.601402,FR,1,Nantes Atlantique Airport,EU,airport,47.157623,medium
 SBK,-2.808889,FR,1,Saint-Brieuc-Armor Airport,EU,airport,48.513058,medium
@@ -2914,15 +2914,15 @@ QBQ,,FR,1,,EU,airport,,small
 BSL,7.532604,FR,1,EuroAirport Basel-Mulhouse-Freiburg Airport,EU,airport,47.59961,medium
 DIJ,5.088889,FR,1,Dijon-Bourgogne Airport,EU,airport,47.270832,medium
 MZM,6.134444,FR,1,Metz-Frescaty (BA 128) Air Base,EU,airport,49.0725,medium
-EPL,6.069444,FR,1,,EU,airport,48.325832,medium
-XMF,,FR,1,,EU,airport,,medium
+MGF,-51.933334,BR,1,,SA,airport,-23.383612,medium
+MGL,6.544444,DE,1,,EU,airport,51.35278,medium
 ENC,6.231667,FR,1,Nancy-Essey Airport,EU,airport,48.691666,medium
 BOR,7.011667,FR,1,Fontaine Airport,EU,airport,47.655556,small
 RHE,4.050556,FR,1,Reims-Champagne (BA 112) Airport,EU,airport,49.310833,medium
 SXB,7.627674,FR,1,Strasbourg Airport,EU,airport,48.544876,medium
 VTL,5.95,FR,1,Vittel Champ De Course Airport,EU,airport,48.2,small
-XHE,,FR,1,,EU,airport,,medium
-FNI,4.416667,FR,1,,EU,airport,43.75,medium
+MII,-49.933334,BR,1,,SA,airport,-22.2,medium
+MJF,13.218328,NO,1,,EU,airport,65.78439,medium
 LTT,6.633333,FR,1,,EU,airport,43.283333,small
 MQC,-56.333332,PM,1,Miquelon Airport,NA,airport,47.05,medium
 FSP,-56.166668,PM,1,St Pierre Airport,NA,airport,46.916668,medium
@@ -2973,10 +2973,10 @@ ZTH,20.88471,GR,1,Dionysios Solomos Airport,EU,airport,37.753506,medium
 BUD,19.261621,HU,1,Budapest Listz Ferenc international Airport,EU,airport,47.433037,large
 DEB,21.7,HU,1,Debrecen International Airport,EU,airport,47.55,medium
 MCQ,20.833332,HU,1,Miskolc Airport,EU,airport,48.11667,small
-PEV,170.6,HU,1,,EU,airport,69.78333,medium
-QGY,,HU,1,,EU,airport,,medium
-SOB,17.240444,HU,1,,EU,airport,46.71347,medium
-TZR,-83.17194,HU,1,,EU,airport,39.90817,medium
+MLE,73.524445,MV,1,,AS,airport,4.201389,large
+MLX,38.253613,TR,1,,AS,airport,38.354443,medium
+MMX,13.363727,SE,1,,EU,airport,55.538757,large
+MNX,-61.283333,BR,1,,SA,airport,-5.816667,medium
 QZD,,HU,1,Szeged Glider Airport,EU,airport,,small
 CRV,17.080778,IT,1,Crotone Airport,EU,airport,38.996304,medium
 BRI,16.76391,IT,1,Bari / Palese International Airport,EU,airport,41.13388,large
@@ -3019,7 +3019,7 @@ BZO,11.330511,IT,1,Bolzano Airport,EU,airport,46.462444,medium
 UDN,13.183333,IT,1,Udine / Campoformido Air Base,EU,airport,46.033333,small
 BLQ,11.293289,IT,1,Bologna / Borgo Panigale Airport,EU,airport,44.529266,large
 TSF,12.204444,IT,1,Treviso / Sant'Angelo Airport,EU,airport,45.655113,large
-FRL,12.07076,IT,1,,EU,airport,44.19857,medium
+MOC,-43.817223,BR,1,,SA,airport,-16.707779,medium
 VBS,10.326545,IT,1,Brescia / Montichiari Airport,EU,airport,45.425446,medium
 TRS,13.485678,IT,1,Trieste / Ronchi Dei Legionari,EU,airport,45.82078,medium
 RMI,12.619594,IT,1,Rimini / Miramare - Federico Fellini International Airport,EU,airport,44.022953,medium
@@ -3038,19 +3038,19 @@ QFR,,IT,1,Frosinone Military Airport,EU,airport,,small
 QSR,14.92084,IT,1,Salerno / Pontecagnano Airport,EU,airport,40.620148,medium
 EBA,10.240409,IT,1,Marina Di Campo Airport,EU,airport,42.763103,medium
 QLT,,IT,1,Latina Airport,EU,airport,,medium
-NAP,14.291667,IT,1,,EU,airport,40.886112,large
+MPL,3.959174,FR,1,,EU,airport,43.57843,medium
 PSA,10.399915,IT,1,Pisa / San Giusto - Galileo Galilei International Airport,EU,airport,43.69871,large
 FLR,11.201989,IT,1,Firenze / Peretola Airport,EU,airport,43.802128,medium
 GRS,11.070556,IT,1,Grosseto Airport,EU,airport,42.761944,medium
 PEG,12.366667,IT,1,Perugia / San Egidio Airport,EU,airport,43.13333,medium
-LJU,14.454972,SI,1,,EU,airport,46.23102,large
+MQH,-48.233334,BR,1,,SA,airport,-13.533333,medium
 MBX,15.686741,SI,1,Maribor Airport,EU,airport,46.4785,medium
 POW,13.583333,SI,1,Portoroz Airport,EU,airport,45.516666,medium
 GTW,17.516666,CZ,1,,EU,airport,49.2,small
 UHE,17.45,CZ,1,Kunovice Airport,EU,airport,49.066666,medium
 KLV,12.916667,CZ,1,Karlovy Vary International Airport,EU,airport,50.2,medium
 MKA,12.716667,CZ,1,,EU,airport,49.983334,small
-OSR,18.121284,CZ,1,,EU,airport,49.69552,medium
+MQN,14.302748,NO,1,,EU,airport,66.36465,medium
 PED,15.738611,CZ,1,Pardubice Airport,EU,airport,50.013332,medium
 PRV,17.208332,CZ,1,P?erov Air Base,EU,airport,49.59028,medium
 PRG,14.266638,CZ,1,Ruzyn? International Airport,EU,airport,50.10619,large
@@ -3096,14 +3096,14 @@ HOR,-28.717222,PT,1,Horta Airport,EU,airport,38.52,medium
 TER,-27.08757,PT,1,Lajes Field,EU,airport,38.754074,large
 FNC,-16.775635,PT,1,Madeira Airport,EU,airport,32.693123,medium
 PAF,31.554146,PT,1,Montijo Airport,EU,airport,2.203072,medium
-PDL,-25.696468,PT,1,,EU,airport,37.743847,large
+MQZ,115.1,CO,1,,SA,airport,-33.933334,medium
 PIX,-28.3,PT,1,Pico Airport,EU,airport,38.466667,medium
 PRM,-8.533333,PT,1,Portimao Airport,EU,airport,37.13333,medium
-OPO,-8.670272,PT,1,,EU,airport,41.237774,large
+MTT,-94.51667,MX,1,,NA,airport,17.983334,medium
 PXO,-16.345015,PT,1,Porto Santo Airport,EU,airport,33.070023,medium
 LIS,-9.128165,PT,1,Lisbon Portela Airport,EU,airport,38.770042,large
 SIE,-8.85,PT,1,Sines Airport,EU,airport,37.933334,small
-SJZ,-28.16843,PT,1,,EU,airport,38.664616,medium
+MUN,-63.156933,VE,1,,SA,airport,9.749384,medium
 VRL,-7.75,PT,1,Vila Real Airport,EU,airport,41.3,medium
 VSE,-7.916667,PT,1,Viseu Airport,EU,airport,40.65,medium
 BNX,17.3,BA,1,Banja Luka International Airport,EU,airport,44.933334,medium
@@ -3126,7 +3126,7 @@ SBZ,24.093529,RO,1,Sibiu International Airport,EU,airport,45.789757,medium
 SUJ,22.883333,RO,1,Satu Mare Airport,EU,airport,47.7,medium
 SCV,26.356112,RO,1,Suceava Stefan cel Mare Airport,EU,airport,47.689445,medium
 TCE,28.816668,RO,1,Tulcea Airport,EU,airport,45.183334,medium
-TGM,24.533333,RO,1,,EU,airport,46.533333,medium
+MXL,-115.248215,MX,1,,NA,airport,32.6282,medium
 TSR,21.32012,RO,1,Timi?oara Traian Vuia Airport,EU,airport,45.809925,medium
 GVA,6.105774,CH,1,Geneva Cointrin International Airport,EU,airport,46.229633,large
 QNC,,CH,1,Neuchatel Airport,EU,airport,,small
@@ -3137,7 +3137,7 @@ BRN,7.50356,CH,1,Bern Belp Airport,EU,airport,46.911728,medium
 BXO,8.383333,CH,1,Buochs Airport,EU,airport,46.966667,small
 ACO,,CH,,Ascona Airport,EU,closed,,
 ZHI,,CH,1,Grenchen Airport,EU,airport,,medium
-ZRH,8.561746,CH,1,,EU,airport,47.450603,large
+MXV,100.166664,MN,1,,AS,airport,49.63333,medium
 ZJI,,CH,1,Locarno Airport,EU,airport,,small
 ACH,9.566667,CH,1,St Gallen Altenrhein Airport,EU,airport,47.483334,medium
 SMV,9.885556,CH,1,Samedan Airport,EU,airport,46.53472,medium
@@ -3156,25 +3156,25 @@ MZH,35.533333,TR,1,Amasya Merzifon Airport,AS,airport,40.88333,medium
 SSX,36.30361,TR,1,Samsun Samair Airport,AS,airport,41.27833,small
 VAS,36.904167,TR,1,Sivas Airport,AS,airport,39.81389,medium
 ONQ,32.1,TR,1,Zonguldak Airport,AS,airport,41.516666,small
-MLX,38.253613,TR,1,,AS,airport,38.354443,medium
+MZB,40.356075,MZ,1,,AF,airport,-11.360261,medium
 ASR,35.490707,TR,1,Kayseri Erkilet Airport,AS,airport,38.7742,medium
 TJK,36.36778,TR,1,Tokat Airport,AS,airport,40.302223,medium
-DNZ,29.703333,TR,1,,AS,airport,37.787224,medium
+NAP,14.291667,IT,1,,EU,airport,40.886112,large
 NAV,34.716667,TR,1,Nev?ehir Kapadokya International Airport,AS,airport,38.63333,large
 LTB,,AU,,Latrobe Airport,OC,closed,,
-IST,28.815277,TR,1,,EU,airport,40.976665,large
+NCE,7.205232,FR,1,,EU,airport,43.66049,large
 BTZ,29.009722,TR,1,Bursa Airport,AS,airport,40.234444,small
 BZI,27.927778,TR,1,Bal?kesir Merkez Airport,AS,airport,39.61722,medium
 BDM,27.977222,TR,1,Band?rma Airport,AS,airport,40.318333,medium
-CKZ,26.4,TR,1,,AS,airport,40.13333,medium
+NGE,13.561389,CM,1,,AF,airport,7.356389,medium
 ESK,30.582111,TR,1,Eski?ehir Air Base,AS,airport,39.784138,medium
 ADB,27.147594,TR,1,Adnan Menderes International Airport,AS,airport,38.294403,large
-IGL,27.159445,TR,1,,AS,airport,38.31889,medium
+NIT,-0.45,FR,1,,EU,airport,46.316666,medium
 USQ,29.471945,TR,1,U?ak Airport,AS,airport,38.68222,small
 KCO,30.083336,TR,1,Cengiz Topel Airport,AS,airport,40.735027,medium
 YEI,29.55,TR,1,Bursa Yeni?ehir Airport,AS,airport,40.233334,medium
 DLM,28.794546,TR,1,Dalaman International Airport,AS,airport,36.717552,large
-TEQ,27.5,TR,1,,EU,airport,40.966667,medium
+NLD,-99.566666,MX,1,,NA,airport,27.434723,medium
 BXN,27.667221,TR,1,Ims?k Airport,AS,airport,37.134724,small
 AOE,30.519444,TR,1,Anadolu University Airport,AS,airport,39.81,medium
 EZS,39.291668,TR,1,Elaz?? Airport,AS,airport,38.608334,medium
@@ -3195,11 +3195,11 @@ ADF,38.266666,TR,1,Ad?yaman Airport,AS,airport,37.75,medium
 MQM,40.6317,TR,1,Mardin Airport,AS,airport,37.2233,medium
 GNY,38.846943,TR,1,?anl?urfa GAP Airport,AS,airport,37.094166,medium
 HTY,36.28057,TR,1,Hatay Airport,AS,airport,36.364544,medium
-ISE,30.382221,TR,1,,AS,airport,37.86611,large
-EDO,27.033333,TR,1,,AS,airport,39.583332,medium
+NRK,16.232393,SE,1,,EU,airport,58.583298,medium
+NSI,11.550278,CM,1,,AF,airport,3.702222,medium
 BJV,27.672781,TR,1,Milas Bodrum International Airport,AS,airport,37.243954,large
-SZF,36.555058,TR,1,,AS,airport,41.25738,medium
-SAW,29.309189,TR,1,,AS,airport,40.904675,large
+NWA,43.767155,KM,1,,AF,airport,-12.298664,medium
+OAX,-96.721634,MX,1,,NA,airport,17.000883,medium
 GZP,32.3014,TR,1,Gazipa?a Airport,AS,airport,36.2993,medium
 BZY,27.933332,MD,1,Balti International Airport,EU,airport,47.75,medium
 KIV,28.934967,MD,1,Chi?in?u International Airport,EU,airport,46.935444,medium
@@ -3222,13 +3222,13 @@ INI,21.851667,RS,1,Nis Airport,EU,airport,43.33389,medium
 QND,,RS,1,Cenej Airport,EU,airport,,small
 TGD,19.246023,ME,1,Podgorica Airport,EU,airport,42.368023,large
 TIV,18.725555,ME,1,Tivat Airport,EU,airport,42.40361,medium
-BTS,17.199799,SK,1,,EU,airport,48.170017,large
-KSC,21.25,SK,1,,EU,airport,48.666668,medium
+OBI,-55.516666,BR,1,,SA,airport,-1.916667,medium
+OBS,4.7,FR,1,,EU,airport,44.666668,medium
 LUE,19.666668,SK,1,Lu?enec Airport,EU,airport,48.333332,small
-PZY,17.833332,SK,1,,EU,airport,48.63333,medium
+ODB,-4.847222,ES,1,,EU,airport,37.84111,medium
 POV,21.25,SK,1,,EU,airport,49,small
 SLD,19.133333,SK,1,Slia? Airport,EU,airport,48.63333,medium
-ILZ,18.766666,SK,1,,EU,airport,49.233334,medium
+OER,18.992073,SE,1,,EU,airport,63.412582,medium
 GLN,-10.066667,MA,1,Goulimime Airport,AF,airport,29.016666,small
 GDT,-71.13333,TC,1,JAGS McCartney International Airport,NA,airport,21.466667,medium
 MDS,-71.71667,TC,1,Middle Caicos Airport,NA,airport,21.783333,small
@@ -3247,9 +3247,9 @@ JBQ,-69.98144,DO,1,La Isabela International Airport,NA,airport,18.575731,medium
 LRM,-68.9,DO,1,Casa De Campo International Airport,NA,airport,18.416668,medium
 PUJ,-68.364,DO,1,Punta Cana International Airport,NA,airport,18.562477,medium
 POP,-70.56315,DO,1,Gregorio Luperon International Airport,NA,airport,19.754942,medium
-MDR,-154.71666,US,1,Medfra Airport,NA,airport,63.106945,small
+PLN,-84.79278,US,1,Pellston Regional Airport of Emmet County Airport,NA,airport,45.57083,medium
 SNX,-69.4,DO,1,Sabana de Mar Airport,NA,airport,19.116667,small
-SDQ,-69.67674,DO,1,,NA,airport,18.430124,large
+OLA,9.616667,NO,1,,EU,airport,63.7,medium
 SJM,,DO,,San Juan Airport,NA,closed,,
 STI,-70.603355,DO,1,Cibao International Airport,NA,airport,19.404486,medium
 DOA,49.5,MG,1,Doany Airport,AF,airport,-14.366667,small
@@ -3265,7 +3265,7 @@ AQB,,GT,1,Santa Cruz del Quiche Airport,NA,airport,,small
 AAZ,,GT,1,Quezaltenango Airport,NA,airport,,small
 RUV,-90.333336,GT,1,Rubelsanto Airport,NA,airport,15.833333,medium
 RER,-91.696945,GT,1,Retalhuleu Airport,NA,airport,14.520278,medium
-GSJ,,GT,1,,NA,airport,,medium
+OPO,-8.670272,PT,1,,EU,airport,41.237774,large
 FRS,-89.88333,GT,1,Mundo Maya International Airport,NA,airport,16.916668,medium
 AIM,169.98334,MH,1,Ailuk Airport,OC,airport,10.2,small
 AUL,171.16667,MH,1,Aur Island Airport,OC,airport,8.133333,small
@@ -3293,7 +3293,7 @@ CDD,-83.602776,HN,1,Cauquira Airport,NA,airport,15.322222,small
 JUT,-86.29305,HN,1,Jutigalpa airport,NA,airport,14.673333,small
 LCE,-86.85722,HN,1,Goloson International Airport,NA,airport,15.740556,medium
 LEZ,-88.166664,HN,1,La Esperanza Airport,NA,airport,14.25,small
-SAP,-87.927795,HN,1,,NA,airport,15.456245,medium
+ORA,-64.166664,AR,1,,SA,airport,-23.333332,medium
 GJA,-85.90583,HN,1,La Laguna Airport,NA,airport,16.445,medium
 PEU,-83.76667,HN,1,Puerto Lempira Airport,NA,airport,15.216667,small
 RTB,-86.52722,HN,1,Juan Manuel Galvez International Airport,NA,airport,16.318209,medium
@@ -3301,7 +3301,7 @@ SDH,-88.77639,HN,1,,NA,airport,14.777222,small
 RUY,-88,HN,1,Copan Ruinas Airport,NA,airport,15,small
 XPL,-87.61667,HN,1,Coronel Enrique Soto Cano Air Base,NA,airport,14.416667,medium
 TEA,-87.48778,HN,1,Tela Airport,NA,airport,15.771667,medium
-TGU,-87.21972,HN,1,,NA,airport,14.060123,medium
+ORB,15.047543,SE,1,,EU,airport,59.225758,medium
 TJI,-85.939445,HN,1,Trujillo Airport,NA,airport,15.925833,medium
 SCD,-87.26667,HN,1,Sulaco Airport,NA,airport,14.916111,small
 UII,-86.8875,HN,1,Utila Airport,NA,airport,16.091667,small
@@ -3317,7 +3317,7 @@ HEB,95.46667,MM,1,Henzada Airport,AS,airport,17.633333,small
 ACA,-99.75459,MX,1,General Juan N Alvarez International Airport,NA,airport,16.762403,large
 NTR,-100.316666,MX,1,Del Norte International Airport,NA,airport,25.666668,medium
 AGU,-102.31374,MX,1,Jesus Teran International Airport,NA,airport,21.701416,medium
-HUX,-96.23556,MX,1,,NA,airport,15.768333,medium
+ORE,1.9,FR,1,,EU,airport,47.916668,medium
 CNA,-110.333336,MX,1,Cananea Airport,NA,airport,31,small
 CVJ,-99.262276,MX,1,General Mariano Matamoros Airport,NA,airport,18.834608,medium
 ACN,-100.916664,MX,1,,NA,airport,29.3,small
@@ -3325,22 +3325,22 @@ CME,-91.802734,MX,1,Ciudad del Carmen International Airport,NA,airport,18.65103,
 NCG,-107.916664,MX,1,Nuevo Casas Grandes Airport,NA,airport,30.416668,small
 CUL,-107.46958,MX,1,Federal de Bachigualato International Airport,NA,airport,24.76643,medium
 CTM,-88.333336,MX,1,Chetumal International Airport,NA,airport,18.481943,medium
-CEN,-109.839165,MX,1,,NA,airport,27.391945,medium
+OSD,14.494444,SE,1,,EU,airport,63.198612,medium
 CJT,-92.05,MX,1,Comitan Airport,NA,airport,16.166668,small
-CPE,-90.509445,MX,1,,NA,airport,19.835,medium
-CJS,-106.4361,MX,1,,NA,airport,31.63593,medium
+OSR,18.121284,CZ,1,,EU,airport,49.69552,medium
+PAZ,-97.467224,MX,1,,NA,airport,20.516666,medium
 CZA,-88.566666,MX,1,Chichen Itza International Airport,NA,airport,20.666668,medium
 CUU,-105.96952,MX,1,General Roberto Fierro Villalobos International Airport,NA,airport,28.704048,medium
 CVM,-98.96528,MX,1,General Pedro Jose Mendez International Airport,NA,airport,23.713888,medium
 CYW,-100.9,MX,1,Captain Rogelio Castillo National Airport,NA,airport,20.55,medium
 CZM,-86.930466,MX,1,Cozumel International Airport,NA,airport,20.5112,medium
-CUA,-111.664444,MX,1,,NA,airport,25.036943,medium
+PBC,-98.3675,MX,1,,NA,airport,19.135,medium
 MMC,-99,MX,1,Ciudad Mante National Airport,NA,airport,22.833332,small
 DGO,-104.525,MX,1,General Guadalupe Victoria International Airport,NA,airport,24.125,medium
 TPQ,-104.9,MX,1,Amado Nervo National Airport,NA,airport,21.5,medium
 ESE,-116.61667,MX,1,Ensenada Airport,NA,airport,31.866667,small
 GDL,-103.29921,MX,1,Don Miguel Hidalgo Y Costilla International Airport,NA,airport,20.525198,large
-GYM,-110.93056,MX,1,,NA,airport,27.955557,medium
+PDL,-25.696468,PT,1,,EU,airport,37.743847,large
 GUB,-114.066666,MX,1,Guerrero Negro Airport,NA,airport,28.033333,small
 TCN,-97.41778,MX,1,Tehuacan Airport,NA,airport,18.499722,small
 HMO,-111.051704,MX,1,General Ignacio P. Garcia International Airport,NA,airport,29.089905,large
@@ -3350,48 +3350,48 @@ SLW,-100.916664,MX,1,Plan De Guadalupe International Airport,NA,airport,25.55,me
 IZT,-95.10833,MX,1,Ixtepec Airport,NA,airport,16.569166,medium
 JAL,-96.781944,MX,1,El Lencero Airport,NA,airport,19.472221,medium
 AZP,-99.1,MX,1,Atizapan De Zaragoza Airport,NA,airport,19.416668,small
-LZC,-102.21667,MX,1,,NA,airport,18,medium
+PEI,-75.736534,CO,1,,SA,airport,4.815945,medium
 LMM,-108.98333,MX,1,Valle del Fuerte International Airport,NA,airport,25.816668,medium
-BJX,-101.479,MX,1,,NA,airport,20.985699,medium
-LAP,-110.367836,MX,1,,NA,airport,24.076088,medium
+PEV,170.6,HU,1,,EU,airport,69.78333,medium
+PGF,2.868183,FR,1,,EU,airport,42.741016,medium
 LTO,-111.35,MX,1,Loreto International Airport,NA,airport,25.983334,medium
 MAM,-97.52361,MX,1,General Servando Canales International Airport,NA,airport,25.770279,medium
 MID,-89.66375,MX,1,Licenciado Manuel Crescencio Rejon Int Airport,NA,airport,20.933823,medium
 MUG,-111.98333,MX,1,Mulege Airport,NA,airport,26.916668,small
-MXL,-115.248215,MX,1,,NA,airport,32.6282,medium
+PGX,0.716667,FR,1,,EU,airport,45.183334,medium
 MLM,-101.02693,MX,1,General Francisco J. Mujica International Airport,NA,airport,19.84351,medium
-MTT,-94.51667,MX,1,,NA,airport,17.983334,medium
+PIO,-76.21667,PE,1,,SA,airport,-13.75,medium
 LOV,-101.416664,MX,1,Monclova International Airport,NA,airport,26.9,medium
 MEX,-99.07278,MX,1,Licenciado Benito Juarez International Airport,NA,airport,19.435278,large
 MTY,-100.114395,MX,1,General Mariano Escobedo International Airport,NA,airport,25.77657,large
 MZT,-106.27015,MX,1,General Rafael Buelna International Airport,NA,airport,23.167315,medium
 NOG,-110.933334,MX,1,Nogales International Airport,NA,airport,31.333332,small
-NLD,-99.566666,MX,1,,NA,airport,27.434723,medium
-OAX,-96.721634,MX,1,,NA,airport,17.000883,medium
-PAZ,-97.467224,MX,1,,NA,airport,20.516666,medium
-PBC,-98.3675,MX,1,,NA,airport,19.135,medium
+PIU,-80.613335,PE,1,,SA,airport,-5.201667,medium
+PMG,-55.7,BR,1,,SA,airport,-22.55,medium
+PMV,-63.96899,VE,1,,SA,airport,10.917189,medium
+PNV,24.383333,LT,1,,EU,airport,55.733334,medium
 PPE,,MX,,Puerto Penasco Airport,NA,closed,,
 PDS,-100.53604,MX,1,Piedras Negras International Airport,NA,airport,28.628948,medium
 UPN,-102.04722,MX,1,Licenciado y General Ignacio Lopez Rayon Airport,NA,airport,19.411112,medium
 PQM,-92.00833,MX,1,Palenque International Airport,NA,airport,17.5,small
-PVR,-105.24898,MX,1,,NA,airport,20.678297,large
+POO,-46.5675,BR,1,,SA,airport,-21.841389,medium
 PXM,-97.083336,MX,1,Puerto Escondido International Airport,NA,airport,15.85,medium
-QRO,-100.38333,MX,1,,NA,airport,20.6,medium
+PPN,-76.60889,CO,1,,SA,airport,2.45,medium
 REX,-98.23,MX,1,General Lucio Blanco International Airport,NA,airport,26.0125,medium
 SZT,-92.54417,MX,1,San Cristobal De Las Casas Airport,NA,airport,16.690556,small
 SJD,-109.717285,MX,1,Los Cabos International Airport,NA,airport,23.162354,large
 SFH,-114.86667,MX,1,San Felipe International Airport,NA,airport,31,small
 SLP,-100.936806,MX,1,Ponciano Arriaga International Airport,NA,airport,22.255466,medium
-TGM,24.533333,MX,1,,NA,airport,46.533333,medium
+PRN,21.035557,KS,1,,EU,airport,42.573612,large
 TRC,-103.39874,MX,1,Francisco Sarabia International Airport,NA,airport,25.563066,medium
-TIJ,-116.97466,MX,1,,NA,airport,32.546284,large
+PSZ,-57.8,BO,1,,SA,airport,-18.966667,medium
 TAM,-97.87016,MX,1,General Francisco Javier Mina International Airport,NA,airport,22.289082,medium
 TSL,-98.75,MX,1,Tamuin Airport,NA,airport,21.983334,small
 TLC,-99.56049,MX,1,Licenciado Adolfo Lopez Mateos International Airport,NA,airport,19.333355,medium
 TAP,-92.25306,MX,1,Tapachula International Airport,NA,airport,14.909722,medium
 WIX,,MX,1,Tuxpan Airport,NA,airport,,small
-CUN,-86.874435,MX,1,,NA,airport,21.040457,large
-VSA,-92.818985,MX,1,,NA,airport,17.99243,medium
+PTP,-61.52639,GP,1,,NA,airport,16.2675,medium
+PUF,-0.413573,FR,1,,EU,airport,43.382347,medium
 VER,-96.18321,MX,1,General Heriberto Jara International Airport,NA,airport,19.142275,medium
 ZCL,-102.55,MX,1,General Leobardo C. Ruiz International Airport,NA,airport,22.8,medium
 ZIH,-101.464066,MX,1,Ixtapa Zihuatanejo International Airport,NA,airport,17.606783,medium
@@ -3412,7 +3412,7 @@ SIU,-84.77778,NI,1,Siuna,NA,airport,13.727222,small
 WSP,-84.01667,NI,1,Waspam Airport,NA,airport,14.683333,small
 BOC,-82.251945,PA,1,Bocas Del Toro International Airport,NA,airport,9.34,medium
 CTD,-80.433334,PA,1,Alonso Valderrama Airport,NA,airport,7.966667,medium
-CHX,-82.45,PA,1,,NA,airport,9.45,medium
+PUQ,-70.84307,CL,1,,SA,airport,-53.005356,medium
 DAV,-82.433334,PA,1,Enrique Malek International Airport,NA,airport,8.383333,medium
 ONX,-79.9,PA,1,Enrique Adolfo Jimenez Airport,NA,airport,9.35,medium
 BLB,-79.59809,PA,1,Howard Airport,NA,airport,8.914011,small
@@ -3454,7 +3454,7 @@ SAL,-89.05723,SV,1,El Salvador International Airport,NA,airport,13.445126,medium
 CYA,-73.78833,HT,1,Les Cayes Airport,NA,airport,18.269722,medium
 CAP,-72.195,HT,1,Cap Haitien International Airport,NA,airport,19.732779,medium
 JAK,-72.51861,HT,1,Jacmel Airport,NA,airport,18.240557,medium
-JEE,-74.16972,HT,1,,NA,airport,18.662222,medium
+PVR,-105.24898,MX,1,,NA,airport,20.678297,large
 PAP,-72.29471,HT,1,Toussaint Louverture International Airport,NA,airport,18.575394,medium
 PAX,-72.84167,HT,1,Port-de-Paix Airport,NA,airport,19.933332,medium
 MTU,38.983334,MZ,1,Montepuez Airport,AF,airport,-13.133333,small
@@ -3470,7 +3470,7 @@ QCO,,CU,1,,NA,airport,,small
 SCU,-75.83583,CU,1,Antonio Maceo International Airport,NA,airport,19.969168,medium
 NBW,-75.23333,CU,1,Leeward Point Field,NA,airport,20.166668,medium
 GAO,-75.15861,CU,1,Mariana Grajales Airport,NA,airport,20.084723,medium
-HAV,-82.40818,CU,1,,NA,airport,22.99845,large
+PZY,17.833332,SK,1,,EU,airport,48.63333,medium
 HOG,-76.315,CU,1,Frank Pais International Airport,NA,airport,20.785278,medium
 VRO,-81.3,CU,1,Kawama Airport,NA,airport,23.133333,medium
 LCL,-83.61667,CU,1,La Coloma Airport,NA,airport,22.283333,medium
@@ -3690,19 +3690,19 @@ UIQ,168.16667,VU,1,Quion Hill Airport,OC,airport,-17,small
 VLI,168.3195,VU,1,Port Vila Bauerfield Airport,OC,airport,-17.701853,medium
 TAH,169.22821,VU,1,Tanna Airport,OC,airport,-19.458445,medium
 TGJ,167.80293,NC,1,Tiga Airport,OC,airport,-21.098358,medium
-BMY,163.66667,NC,1,,OC,airport,-19.75,medium
-KNQ,164.83778,NC,1,,OC,airport,-21.053333,medium
-ILP,167.4475,NC,1,,OC,airport,-22.589722,medium
+QGY,,HU,1,,EU,airport,,medium
+QHP,,BR,1,,SA,airport,,medium
+QIE,85.53333,FR,1,,EU,airport,38.13333,medium
 HLU,166.06667,NC,1,Nesson Airport,OC,airport,-21.033333,small
 KOC,164.41667,NC,1,Koumac Airport,OC,airport,-20.5,medium
 LIF,167.25,NC,1,Lifou Airport,OC,airport,-20.766666,medium
-GEA,166.47078,NC,1,,OC,airport,-22.260536,medium
+QNX,,FR,1,,EU,airport,,medium
 IOU,166.78305,NC,1,,OC,airport,-22.463888,small
 PUV,164.1014,NC,1,Poum Airport,OC,airport,-20.294443,small
 PDC,165,NC,1,Mueo Airport,OC,airport,-21.316668,small
-MEE,168.03609,NC,1,,OC,airport,-21.482311,medium
+QRO,-100.38333,MX,1,,NA,airport,20.6,medium
 TOU,165.25,NC,1,Touho Airport,OC,airport,-20.8,medium
-UVE,166.57198,NC,1,,OC,airport,-20.64242,medium
+RBA,-6.748619,MA,1,,AF,airport,34.036137,medium
 NOU,166.21611,NC,1,La Tontouta International Airport,OC,airport,-22.01639,medium
 AKL,174.78352,NZ,1,Auckland International Airport,OC,airport,-37.004787,large
 TUO,176.08235,NZ,1,Taupo Airport,OC,airport,-38.741432,medium
@@ -3763,7 +3763,7 @@ WSZ,171.57858,NZ,1,Westport Airport,OC,airport,-41.74002,medium
 WTZ,175.678,NZ,1,Whitianga Airport,OC,airport,-36.8313,small
 WAG,175.02444,NZ,1,Wanganui Airport,OC,airport,-39.960922,medium
 O62,,US,,Carmel Valley,NA,closed,,
-BZF,,US,1,Benton Field,NA,airport,,small
+PMD,-118.083336,US,1,Palmdale Regional/USAF Plant 42 Airport,NA,airport,34.6275,medium
 OAA,,AF,1,Shank Air Base,AS,airport,,small
 BIN,67.82361,AF,1,Bamiyan Airport,AS,airport,34.80417,small
 BST,64.36667,AF,1,Bost Airport,AS,airport,31.55,small
@@ -4002,118 +4002,118 @@ BFQ,-78.166664,PA,1,,NA,airport,7.583333,small
 ELE,-77.833336,PA,1,EL Real Airport,NA,airport,8.166667,small
 OTD,-79.566666,PA,1,Contadora Airport,NA,airport,8.666667,small
 SAX,-78.083336,PA,1,Sambu Airport,NA,airport,8.033333,small
-AKB,-174.20084,US,1,Atka Airport,NA,airport,52.21722,small
+PNS,-87.19416,US,1,Pensacola Regional Airport,NA,airport,30.475943,medium
 PTD,,US,1,Port Alexander Seaplane Base,NA,seaplanes,,
-PAQ,-149.11667,US,1,Palmer Municipal Airport,NA,airport,61.6,medium
-BTI,-143.57834,US,1,Barter Island Lrrs Airport,NA,airport,70.13472,medium
-BET,-161.83139,US,1,Bethel Airport,NA,airport,60.784443,medium
-BVU,-151.03612,US,1,Beluga Airport,NA,airport,61.169445,small
-BIG,-145.719,US,1,Allen Army Airfield,NA,airport,63.99458,medium
-BKC,-161.12666,US,1,Buckland Airport,NA,airport,65.97889,medium
-BRW,-156.77579,US,1,Wiley Post Will Rogers Memorial Airport,NA,airport,71.288574,medium
-BTT,-151.52638,US,1,Bettles Airport,NA,airport,66.915276,medium
-CDB,-162.71774,US,1,Cold Bay Airport,NA,airport,55.20457,medium
-CLF,-149.2125,US,1,Clear Airport,NA,airport,64.320335,medium
-CDV,-145.47,US,1,Merle K (Mudhole) Smith Airport,NA,airport,60.493057,medium
-CZF,-166.03639,US,1,Cape Romanzof Lrrs Airport,NA,airport,61.781113,medium
-DRG,-162.75989,US,1,Deering Airport,NA,airport,66.0712,medium
-ADK,-176.64473,US,1,Adak Airport,NA,airport,51.88278,medium
-DLG,-158.51472,US,1,Dillingham Airport,NA,airport,59.04246,medium
-ADQ,-152.51297,US,1,Kodiak Airport,NA,airport,57.755276,medium
-DUT,-166.54224,US,1,Unalaska Airport,NA,airport,53.89446,medium
-EDF,-149.78473,US,1,Elmendorf Air Force Base,NA,airport,61.250557,medium
-EEK,-162.01666,US,1,Eek Airport,NA,airport,60.216667,small
-EHM,-162.06056,US,1,Cape Newenham Lrrs Airport,NA,airport,58.64722,medium
-EIL,-147.71666,US,1,Eielson Air Force Base,NA,airport,64.85,medium
-ENM,,US,1,Emmonak Airport,NA,airport,,medium
-ENA,-151.24644,US,1,Kenai Municipal Airport,NA,airport,60.56521,medium
-FAI,-147.8668,US,1,Fairbanks International Airport,NA,airport,64.818214,large
-FBK,-147.7,US,1,Ladd AAF Airfield,NA,airport,64.833336,medium
-AFE,,US,1,Kake Airport,NA,airport,,medium
-ABL,-157.84584,US,1,Ambler Airport,NA,airport,67.0875,medium
-FRN,-149.68333,US,1,Bryant Army Air Force Airport,NA,airport,61.25,small
-FMC,-149.84166,US,1,Five Mile Airport,NA,airport,66.916664,small
-GAL,-156.94186,US,1,Edward G. Pitka Sr Airport,NA,airport,64.73798,medium
-GKN,-145.45222,US,1,Gulkana Airport,NA,airport,62.155277,medium
-GAM,-171.71355,US,1,Gambell Airport,NA,airport,63.776596,medium
-AGN,,US,1,Angoon Seaplane Base,NA,seaplanes,,
-GST,-135.705,US,1,Gustavus Airport,NA,airport,58.4275,medium
-SGY,-135.31555,US,1,Skagway Airport,NA,airport,59.460556,small
-HCR,-159.77167,US,1,Holy Cross Airport,NA,airport,62.18889,medium
-HNS,-135.52924,US,1,Haines Airport,NA,airport,59.246197,medium
-HOM,-151.49316,US,1,Homer Airport,NA,airport,59.64324,medium
-HPB,-166.14586,US,1,Hooper Bay Airport,NA,airport,61.525078,medium
-HYG,,US,1,Hydaburg Seaplane Base,NA,seaplanes,,
-IGG,-155.9,US,1,Igiugig Airport,NA,airport,59.316666,small
-EII,-9.433333,US,1,Egegik Airport,NA,airport,53.033333,medium
-IAN,-160.43056,US,1,Bob Baker Memorial Airport,NA,airport,66.975555,medium
-ILI,-154.90834,US,1,Iliamna Airport,NA,airport,59.752777,medium
-UTO,-153.70166,US,1,Indian Mountain Lrrs Airport,NA,airport,65.99333,medium
-JNU,-134.58339,US,1,Juneau International Airport,NA,airport,58.35932,medium
-KFP,-163.40916,US,1,False Pass Airport,NA,airport,54.849167,small
-AKK,-154.16667,US,1,Akhiok Airport,NA,airport,56.944443,small
-AKN,-156.66902,US,1,King Salmon Airport,NA,airport,58.68274,medium
-IKO,-168.85,US,1,Nikolski Air Station,NA,airport,52.941666,small
-AKP,-151.74,US,1,Anaktuvuk Pass Airport,NA,airport,68.1375,medium
-KTN,-131.7087,US,1,Ketchikan International Airport,NA,airport,55.35655,medium
-KAL,-158.73611,US,1,Kaltag Airport,NA,airport,64.321945,small
-AKW,49.683334,US,1,Klawock Airport,NA,airport,30.75,medium
-KLG,-160.3465,US,1,Kalskag Airport,NA,airport,61.53258,small
-LUR,-166.10695,US,1,Cape Lisburne Lrrs Airport,NA,airport,68.87583,medium
-MCG,-155.65764,US,1,McGrath Airport,NA,airport,62.97875,medium
-MOU,-163.71666,US,1,Mountain Village Airport,NA,airport,62.089443,small
-MRI,-149.9,US,1,Merrill Field,NA,airport,61.233334,medium
-MYU,-166.26805,US,1,Mekoryuk Airport,NA,airport,60.37278,medium
-WNA,-162.11667,US,1,Napakiak Airport,NA,airport,60.7,small
-ANC,-149.99638,US,1,Ted Stevens Anchorage International Airport,NA,airport,61.174442,large
-ANI,-159.53697,US,1,Aniak Airport,NA,airport,61.574398,medium
-ENN,-149.11667,US,1,Nenana Municipal Airport,NA,airport,64.566666,medium
-ANN,-131.57056,US,1,Annette Island Airport,NA,airport,55.036945,medium
-ANV,-160.18889,US,1,Anvik Airport,NA,airport,62.647778,medium
-KNW,-157.32973,US,1,New Stuyahok Airport,NA,airport,59.45222,small
-PCA,-157.70195,US,1,Portage Creek Airport,NA,airport,58.90139,small
-HNH,-135.40334,US,1,Hoonah Airport,NA,airport,58.098057,small
-OME,-165.44167,US,1,Nome Airport,NA,airport,64.51139,medium
-ORT,-141.92389,US,1,Northway Airport,NA,airport,62.961945,medium
-OTZ,-162.60583,US,1,Ralph Wien Memorial Airport,NA,airport,66.888054,medium
-PBV,-57.333332,US,1,St George Airport,NA,airport,-11.516667,medium
-KPC,-166.85583,US,1,Port Clarence Coast Guard Station,NA,airport,65.25444,medium
+POU,-73.882774,US,1,Dutchess County Airport,NA,airport,41.628056,medium
+PQI,-68.0475,US,1,Northern Maine Regional Airport at Presque Isle,NA,airport,46.685,medium
+PRC,-112.424164,US,1,Ernest A. Love Field,NA,airport,34.65,medium
+PSC,-119.1152,US,1,Tri Cities Airport,NA,airport,46.259094,medium
 PSG,-132.9425,US,1,Petersburg James A Johnson Airport,NA,airport,56.80417,medium
+PSM,-70.88272,US,1,Portsmouth International at Pease Airport,NA,airport,43.179585,medium
+PSP,-116.508446,US,1,Palm Springs International Airport,NA,airport,33.822975,medium
 PTH,-158.6375,US,1,Port Heiden Airport,NA,airport,56.95667,medium
 PTU,-161.81694,US,1,Platinum Airport,NA,airport,59.01139,medium
-PHO,-166.8,US,1,Point Hope Airport,NA,airport,68.35,small
-NUI,-151.00555,US,1,Nuiqsut Airport,NA,airport,70.209724,medium
-ARC,-145.52444,US,1,Arctic Village Airport,NA,airport,68.1375,medium
+PUB,-104.49611,US,1,Pueblo Memorial Airport,NA,airport,38.292778,small
+PUW,-117.105,US,1,Pullman Moscow Regional Airport,NA,airport,46.74472,medium
+PVD,-71.43632,US,1,Theodore Francis Green State Airport,NA,airport,41.72631,medium
+PWM,-70.31031,US,1,Portland International Jetport Airport,NA,airport,43.64749,large
+PWT,-122.763336,US,1,Bremerton National Airport,NA,airport,47.485,medium
+RAP,-103.06118,US,1,Rapid City Regional Airport,NA,airport,44.037582,medium
 RBY,-155.46083,US,1,Ruby Airport,NA,airport,64.73,medium
-SVA,-170.48679,US,1,Savoonga Airport,NA,airport,63.69093,medium
+RDD,-122.29991,US,1,Redding Municipal Airport,NA,airport,40.505768,medium
+RDG,-75.96389,US,1,Reading Regional Carl A Spaatz Field,NA,airport,40.378613,medium
+RDM,-121.162895,US,1,Roberts Field,NA,airport,44.254272,medium
+RDU,-78.79086,US,1,Raleigh Durham International Airport,NA,airport,35.873592,large
+RFD,-89.222115,US,1,Chicago Rockford International Airport,NA,airport,42.30364,large
+RHI,-89.46253,US,1,Rhinelander Oneida County Airport,NA,airport,45.625706,medium
+RIC,-77.3225,US,1,Richmond International Airport,NA,airport,37.50611,large
+RKC,-122.63333,US,1,Montague-Yreka Rohrer Field,NA,airport,41.733334,small
+RKS,-109.065834,US,1,Rock Springs Sweetwater County Airport,NA,airport,41.59639,medium
+RLA,-91.77805,US,1,Rolla Downtown Airport,NA,airport,38.127777,small
+RNO,-119.775696,US,1,Reno Tahoe International Airport,NA,airport,39.505783,large
+ROA,-79.97038,US,1,Roanoke Regional Woodrum Field,NA,airport,37.32051,large
+ROC,-77.66543,US,1,Greater Rochester International Airport,NA,airport,43.127975,large
+ROW,-104.53,US,1,Roswell International Air Center Airport,NA,airport,33.29972,medium
+RQO,,US,1,El Reno Regional Airport,NA,airport,,small
+RST,-92.48977,US,1,Rochester International Airport,NA,airport,43.910793,large
+AGN,,US,1,Angoon Seaplane Base,NA,seaplanes,,
+RSW,-81.75433,US,1,Southwest Florida International Airport,NA,airport,26.542835,large
+RUT,-72.94833,US,1,Rutland - Southern Vermont Regional Airport,NA,airport,43.529446,medium
+RWI,-77.89056,US,1,Rocky Mount Wilson Regional Airport,NA,airport,35.854443,medium
+SAN,-117.19731,US,1,San Diego International Airport,NA,airport,32.731937,large
+SAT,-98.47264,US,1,San Antonio International Airport,NA,airport,29.524937,large
+SAV,-81.21059,US,1,Savannah Hilton Head International Airport,NA,airport,32.1358,large
+HYG,,US,1,Hydaburg Seaplane Base,NA,seaplanes,,
+SBA,-119.83648,US,1,Santa Barbara Municipal Airport,NA,airport,34.432835,medium
+SBN,-86.31335,US,1,South Bend Regional Airport,NA,airport,41.700554,large
+SBP,-120.640625,US,1,San Luis County Regional Airport,NA,airport,35.239113,medium
+SBY,-75.517265,US,1,Salisbury Ocean City Wicomico Regional Airport,NA,airport,38.34312,medium
 SCC,-148.46011,US,1,Deadhorse Airport,NA,airport,70.203636,medium
+SCE,-77.84823,US,1,University Park Airport,NA,airport,40.85372,medium
+SDF,-85.74179,US,1,Louisville International Standiford Field,NA,airport,38.186375,large
 SDP,-160.51389,US,1,Sand Point Airport,NA,airport,55.316666,medium
+SEA,-122.301735,US,1,Seattle Tacoma International Airport,NA,airport,47.44384,large
+SFB,-81.2432,US,1,Orlando Sanford International Airport,NA,airport,28.775118,large
+SFO,-122.38988,US,1,San Francisco International Airport,NA,airport,37.615215,large
+SGF,-93.38226,US,1,Springfield Branson National Airport,NA,airport,37.24237,large
+SGY,-135.31555,US,1,Skagway Airport,NA,airport,59.460556,small
+SHD,-78.89667,US,1,Shenandoah Valley Regional Airport,NA,airport,38.26389,small
 SHH,-166.05833,US,1,Shishmaref Airport,NA,airport,66.25694,medium
+SHR,-106.97722,US,1,Sheridan County Airport,NA,airport,44.774166,medium
+SHV,-93.828384,US,1,Shreveport Regional Airport,NA,airport,32.45471,large
 SIT,-135.23334,US,1,Sitka Rocky Gutierrez Airport,NA,airport,57.04861,medium
-KSM,-163.29489,US,1,St Mary's Airport,NA,airport,62.058666,medium
+SJC,-121.92638,US,1,Norman Y. Mineta San Jose International Airport,NA,airport,37.366737,large
+SJT,-100.494446,US,1,San Angelo Regional Mathis Field,NA,airport,31.359722,medium
+SLC,-111.980675,US,1,Salt Lake City International Airport,NA,airport,40.785645,large
+SLK,-74.206665,US,1,Adirondack Regional Airport,NA,airport,44.38278,medium
+SLN,-97.6525,US,1,Salina Municipal Airport,NA,airport,38.790833,medium
+SMF,-121.5937,US,1,Sacramento International Airport,NA,airport,38.692284,large
+SMX,-120.45778,US,1,Santa Maria Pub/Capt G Allan Hancock Field,NA,airport,34.905,medium
+SNA,-117.860535,US,1,John Wayne Airport-Orange County Airport,NA,airport,33.680202,large
 SNP,-170.21722,US,1,St Paul Island Airport,NA,airport,57.15222,medium
+SPI,-89.67889,US,1,Abraham Lincoln Capital Airport,NA,airport,39.844166,large
+SPS,-98.49194,US,1,Sheppard Air Force Base-Wichita Falls Municipal Airport,NA,airport,33.988335,large
+SRQ,-82.55328,US,1,Sarasota Bradenton International Airport,NA,airport,27.38748,large
+STC,-94.166664,US,1,St Cloud Regional Airport,NA,airport,45.55,medium
+STL,-90.36587,US,1,Lambert St Louis International Airport,NA,airport,38.74228,large
+STP,-93.066666,US,1,St Paul Downtown Holman Field,NA,airport,44.933334,medium
+SUN,-114.30082,US,1,Friedman Memorial Airport,NA,airport,43.50647,medium
+SUO,-121.5,US,1,Sunriver Airport,NA,airport,43.916668,small
+SUX,-96.38417,US,1,Sioux Gateway Col. Bud Day Field,NA,airport,42.401943,large
+SVA,-170.48679,US,1,Savoonga Airport,NA,airport,63.69093,medium
+SVC,-108.15389,US,1,Grant County Airport,NA,airport,32.631943,small
 SVW,-155.57222,US,1,Sparrevohn Lrrs Airport,NA,airport,61.0975,medium
+SWD,-149.41806,US,1,Seward Airport,NA,airport,60.13333,medium
+SWF,-74.10104,US,1,Stewart International Airport,NA,airport,41.49843,medium
 SXQ,-151.03639,US,1,Soldotna Airport,NA,airport,60.475555,medium
 SYA,174.08945,US,1,Eareckson Air Station,NA,airport,52.7175,medium
-TOG,-160.38222,US,1,Togiak Airport,NA,airport,59.056667,medium
+SYR,-76.11223,US,1,Syracuse Hancock International Airport,NA,airport,43.113983,large
+SZN,-119.915,US,1,Santa Cruz Island Airport,NA,airport,34.060555,small
+TBN,-92.14056,US,1,Waynesville-St. Robert Regional Forney field,NA,airport,37.74139,medium
+TCL,-87.61083,US,1,Tuscaloosa Regional Airport,NA,airport,33.22111,medium
 TKJ,-143,US,1,Tok Airport,NA,airport,63.3,small
+TLH,-84.34444,US,1,Tallahassee Regional Airport,NA,airport,30.395782,large
 TLJ,-155.96806,US,1,Tatalina LRRS Airport,NA,airport,62.885277,medium
-ATK,-157.33333,US,1,Atqasuk Edward Burnell Sr Memorial Airport,NA,airport,70.5,medium
-VAK,-165.59027,US,1,Chevak Airport,NA,airport,61.52861,small
-KVC,-162.31334,US,1,King Cove Airport,NA,airport,55.055,small
-VDZ,-146.23889,US,1,Valdez Pioneer Field,NA,airport,61.1325,medium
-KVL,-164.54723,US,1,Kivalina Airport,NA,airport,67.73167,medium
-SWD,-149.41806,US,1,Seward Airport,NA,airport,60.13333,medium
-WRG,-132.36667,US,1,Wrangell Airport,NA,airport,56.484444,medium
-AIN,-160.03334,US,1,Wainwright Airport,NA,airport,70.63333,medium
-WTK,-162.98416,US,1,Noatak Airport,NA,airport,67.56306,medium
-IYS,,US,1,Wasilla Airport,NA,airport,,medium
+TOG,-160.38222,US,1,Togiak Airport,NA,airport,59.056667,medium
+TOL,-83.8069,US,1,Toledo Express Airport,NA,airport,41.5925,large
+TPA,-82.535416,US,1,Tampa International Airport,NA,airport,27.97987,large
+TPL,-97.409164,US,1,Draughon Miller Central Texas Regional Airport,NA,airport,31.150278,medium
+TRI,-82.40785,US,1,Tri Cities Regional Tn Va Airport,NA,airport,36.48111,large
+TTN,-74.8125,US,1,Trenton Mercer Airport,NA,airport,40.278057,medium
+TUL,-95.8901,US,1,Tulsa International Airport,NA,airport,36.189808,large
+TUP,-88.76722,US,1,Tupelo Regional Airport,NA,airport,34.25889,medium
+TUS,-110.93737,US,1,Tucson International Airport,NA,airport,32.12069,large
+TVC,-85.58035,US,1,Cherry Capital Airport,NA,airport,44.744083,medium
+TVL,-119.994446,US,1,Lake Tahoe Airport,NA,airport,38.89417,medium
+TWF,-114.486664,US,1,Joslin Field Magic Valley Regional Airport,NA,airport,42.481945,medium
+TXK,-93.98917,US,1,Texarkana Regional Webb Field,NA,airport,33.45639,medium
+TYR,-95.41012,US,1,Tyler Pounds Regional Airport,NA,airport,32.351597,medium
 CIS,-171.66667,KI,1,Canton Airport,OC,airport,-2.833333,medium
 PCQ,101.90583,LA,1,Bounneau Airport,AS,airport,21.645832,small
 MFT,-72.566666,PE,1,Machu Pichu Airport,SA,airport,-13.116667,small
-AKI,-161.22333,US,1,Akiak Airport,NA,airport,60.905556,small
-AET,-152.65834,US,1,Allakaket Airport,NA,airport,66.56167,small
-FYU,-145.2482,US,1,Fort Yukon Airport,NA,airport,66.56981,medium
+TYS,-83.98973,US,1,McGhee Tyson Airport,NA,airport,35.80565,large
+UGB,-157.74422,US,1,Ugashik Bay Airport,NA,airport,57.42529,small
+UIN,-91.19722,US,1,Quincy Regional Baldwin Field,NA,airport,39.944168,medium
 AKG,142.01666,PG,1,Anguganak Airport,OC,airport,-3.633333,small
 AWB,142.75,PG,1,Awaba Airport,OC,airport,-8.016667,small
 BAA,151.03334,PG,1,Bialla Airport,OC,airport,-5.316667,small
@@ -4147,23 +4147,23 @@ UAM,144.92953,GU,1,Andersen Air Force Base,OC,airport,13.580373,medium
 GUM,144.80486,GU,1,Antonio B. Won Pat International Airport,OC,airport,13.492787,large
 TIQ,145.62634,MP,1,Tinian International Airport,OC,airport,14.994319,medium
 ENI,119.41278,PH,1,El Nido Airport,AS,airport,11.205556,small
-BKH,-159.71666,US,1,Barking Sands Airport,NA,airport,21.966667,medium
-HDH,-157.96666,US,1,Dillingham Airfield,NA,airport,21.466667,medium
-PHG,6.833333,NG,1,Port Harcourt City Airport,AF,airport,5.033333,small
-HHI,-158.03334,US,1,Wheeler Army Airfield,NA,airport,21.5,medium
-HNM,-156.01889,US,1,Hana Airport,NA,airport,20.795834,medium
-JHM,-156.67569,US,1,Kapalua Airport,NA,airport,20.962194,medium
-JRF,,US,1,Kalaeloa (John Rodgers Field) Airport,NA,airport,,medium
-KOA,-156.04108,US,1,Kona International At Keahole Airport,NA,airport,19.736174,medium
-LIH,-159.34944,US,1,Lihue Airport,NA,airport,21.978205,medium
-LUP,-156.97444,US,1,Kalaupapa Airport,NA,airport,21.211111,small
-MKK,-157.1,US,1,Molokai Airport,NA,airport,21.152779,medium
-MUE,-155.67334,US,1,Waimea Kohala Airport,NA,airport,20.0125,medium
-HNL,-157.92166,US,1,Honolulu International Airport,NA,airport,21.325832,large
-LNY,-156.95049,US,1,Lanai Airport,NA,airport,20.790085,medium
-OGG,-156.43863,US,1,Kahului Airport,NA,airport,20.892883,medium
-ITO,-155.03963,US,1,Hilo International Airport,NA,airport,19.714565,medium
 UPP,-155.8625,US,1,Upolu Airport,NA,airport,20.268057,medium
+UTO,-153.70166,US,1,Indian Mountain Lrrs Airport,NA,airport,65.99333,medium
+PHG,6.833333,NG,1,Port Harcourt City Airport,AF,airport,5.033333,small
+VAK,-165.59027,US,1,Chevak Airport,NA,airport,61.52861,small
+VCT,-96.914444,US,1,Victoria Regional Airport,NA,airport,28.85111,medium
+VDZ,-146.23889,US,1,Valdez Pioneer Field,NA,airport,61.1325,medium
+VLD,-83.27722,US,1,Valdosta Regional Airport,NA,airport,30.78389,medium
+VPS,-86.54946,US,1,Eglin Air Force Base,NA,airport,30.495913,large
+VRB,-80.41361,US,1,Vero Beach Municipal Airport,NA,airport,27.6525,medium
+VSK,,US,1,Vista Field,NA,airport,,small
+WKK,-158.61111,US,1,Aleknagik / New Airport,NA,airport,59.27778,medium
+WNA,-162.11667,US,1,Napakiak Airport,NA,airport,60.7,small
+WRG,-132.36667,US,1,Wrangell Airport,NA,airport,56.484444,medium
+WRI,-74.65017,US,1,Mc Guire Air Force Base,NA,airport,40.155308,medium
+WRL,-107.95306,US,1,Worland Municipal Airport,NA,airport,43.9675,medium
+WSG,-80.25,US,1,Washington County Airport,NA,airport,40.166668,small
+WTK,-162.98416,US,1,Noatak Airport,NA,airport,67.56306,medium
 JON,-169.53334,UM,1,Johnston Atoll Airport,OC,airport,16.733334,medium
 BHC,73.433334,PK,1,Bhurban Heliport,AS,airport,33.925,small
 CWP,72.433334,PK,1,Campbellpore Airport,AS,airport,33.766666,small
@@ -4180,7 +4180,7 @@ KWA,167.72195,MH,1,Bucholz Army Air Field,OC,airport,8.720843,medium
 CXI,-157.45,KI,1,Cassidy International Airport,OC,airport,1.966667,medium
 TNV,-159.35,KI,1,Tabuaeran Island Airport,OC,airport,3.833333,small
 MDY,-177.38333,UM,1,Henderson Field,OC,airport,28.2,medium
-PIZ,-163.16667,US,1,Point Lay Lrrs Airport,NA,airport,69.75,medium
+YIP,-83.53333,US,1,Willow Run Airport,NA,airport,42.233334,medium
 PQD,,LK,1,Passikudah Helipad,AS,heliport,,
 DDP,-66.15,PR,1,Dorado Beach Airport,NA,airport,18.483334,small
 HUC,-65.80111,PR,1,Humacao Airport,NA,airport,18.14,small
@@ -4399,7 +4399,7 @@ NGK,143.16667,RU,1,Nogliki Airport,AS,airport,51.8,small
 GRV,45.75,RU,1,Grozny North Airport,EU,airport,43.333332,large
 LNX,32.05,RU,1,Smolensk South Airport,EU,airport,54.8,small
 VUS,46.316666,RU,1,Velikiy Ustyug Airport,EU,airport,60.766666,small
-LPS,-122.935555,US,1,Lopez Island Airport,NA,airport,48.482777,small
+YKM,-120.53778,US,1,Yakima Air Terminal McAllister Field,NA,airport,46.566944,medium
 MJR,-57.833332,AR,1,Miramar Airport,SA,airport,-38.25,small
 CCT,-68.916664,AR,1,Colonia Catriel Airport,SA,airport,-39.5,small
 COC,-57.996387,AR,1,Comodoro Pierrestegui Airport,SA,airport,-31.297222,medium
@@ -4421,10 +4421,10 @@ GNR,-67.616066,AR,1,Dr. Arturo H. Illia Airport,SA,airport,-39.00166,small
 RDS,-68.9,AR,1,Rincon De Los Sauces Airport,SA,airport,-37.38333,medium
 APZ,-70.083336,AR,1,Zapala Airport,SA,airport,-38.916668,medium
 MDZ,-68.79891,AR,1,El Plumerillo Airport,SA,airport,-32.82789,medium
-LGS,-69.57457,AR,1,,SA,airport,-35.49324,medium
+RBR,-67.8,BR,1,,SA,airport,-9.966667,medium
 AFA,-68.40056,AR,1,Suboficial Ay Santiago Germano Airport,SA,airport,-34.58917,medium
 CTC,-65.779724,AR,1,Catamarca Airport,SA,airport,-28.448334,medium
-SDE,-64.32222,AR,1,,SA,airport,-27.765278,medium
+RGL,-69.28333,AR,1,,SA,airport,-51.61667,medium
 RHD,-64.95,AR,1,Las Termas Airport,SA,airport,-27.533333,small
 IRJ,-66.78333,AR,1,Capitan V A Almonacid Airport,SA,airport,-29.383333,medium
 TUC,-65.2,AR,1,Teniente Benjamin Matienzo Airport,SA,airport,-26.833332,medium
@@ -4438,14 +4438,14 @@ LUQ,-66.35861,AR,1,Brigadier Mayor D Cesar Raul Ojeda Airport,SA,airport,-33.274
 CNQ,-58.762222,AR,1,Corrientes Airport,SA,airport,-27.449722,medium
 RES,-59.050835,AR,1,Resistencia International Airport,SA,airport,-27.45139,medium
 FMA,-58.235,AR,1,Formosa Airport,SA,airport,-26.212778,medium
-IGR,-54.47635,AR,1,,SA,airport,-25.731504,medium
+RRS,11.345556,NO,1,,EU,airport,62.579166,medium
 AOL,-57.15,AR,1,Paso De Los Libres Airport,SA,airport,-29.683332,medium
 MCS,-57.64111,AR,1,Monte Caseros Airport,SA,airport,-30.270832,medium
 PSS,-55.9675,AR,1,Libertador Gral D Jose De San Martin Airport,SA,airport,-27.383888,medium
 PSV,-1.7,AR,1,Rovere Airport,SA,airport,60.316666,small
 SLA,-65.47849,AR,1,Martin Miguel De Guemes International Airport,SA,airport,-24.844217,medium
 JUJ,-65.083336,AR,1,Gobernador Horacio Guzman International Airport,SA,airport,-24.4,medium
-ORA,-64.166664,AR,1,,SA,airport,-23.333332,medium
+RVK,11.233333,NO,1,,EU,airport,64.88333,medium
 TTG,-63.833332,AR,1,General Enrique Mosconi Airport,SA,airport,-22.533333,medium
 CLX,-57.666668,AR,1,Clorinda Airport,SA,airport,-25.333332,small
 ELO,-54.733334,AR,1,El Dorado Airport,SA,airport,-26.5,small
@@ -4471,7 +4471,7 @@ ING,-72.666664,AR,1,Lago Argentino Airport,SA,airport,-50.583332,small
 FTE,-72.053696,AR,1,El Calafate Airport,SA,airport,-50.284225,medium
 PUD,-65.916664,AR,1,Puerto Deseado Airport,SA,airport,-47.75,medium
 RGA,-67.75,AR,1,Hermes Quijada International Airport,SA,airport,-53.779167,medium
-RGL,-69.28333,AR,1,,SA,airport,-51.61667,medium
+RYN,-1.016667,FR,1,,EU,airport,45.61667,medium
 USH,-68.31245,AR,1,Malvinas Argentinas Airport,SA,airport,-54.839348,medium
 ULA,-67.666664,AR,1,Capitan D Daniel Vazquez Airport,SA,airport,-49.316666,medium
 ROY,-70.25,AR,1,Rio Mayo Airport,SA,airport,-45.666668,small
@@ -4486,27 +4486,27 @@ OVR,-60.22778,AR,1,Olavarria Airport,SA,airport,-36.88889,small
 GPO,-63.766666,AR,1,General Pico Airport,SA,airport,-35.63333,medium
 OYO,-60.25,AR,1,Tres Arroyos Airport,SA,airport,-38.36667,medium
 SST,-60.783333,AR,1,Santa Teresita Airport,SA,airport,-33.416668,medium
-MDQ,-57.572224,AR,1,,SA,airport,-37.934723,medium
+RZE,22.03133,PL,1,,EU,airport,50.11525,medium
 NQN,-68.15222,AR,1,Presidente Peron Airport,SA,airport,-38.95,medium
 NEC,-58.75,AR,1,Necochea Airport,SA,airport,-38.566666,medium
 PEH,-61.86667,AR,1,Comodoro Pedro Zanni Airport,SA,airport,-35.85,medium
 RSA,-64.26667,AR,1,Santa Rosa Airport,SA,airport,-36.566666,medium
 BRC,-71.16109,AR,1,San Carlos De Bariloche Airport,SA,airport,-41.145966,medium
-TDL,-59.083332,AR,1,,SA,airport,-37.333332,medium
+SAP,-87.927795,HN,1,,NA,airport,15.456245,medium
 VLG,-57.583332,AR,1,Villa Gesell Airport,SA,airport,-38.016666,medium
 CUT,-69,AR,1,Cutral-Co Airport,SA,airport,-38.9,medium
 CPC,-71.13333,AR,1,Aviador C. Campos Airport,SA,airport,-40.066666,medium
 VIU,157.66667,SB,1,Viru Harbour Airstrip,OC,airport,-8.5,small
 SB0,,BR,,Pirenopolis Centeral Airport,SA,closed,,
 SB2,,BR,,Fazenda Bela Vista Airport,SA,closed,,
-CDJ,-49.283333,BR,1,,SA,airport,-8.233333,medium
-APS,-48.966667,BR,1,,SA,airport,-16.333332,medium
+SAW,29.309189,TR,1,,AS,airport,40.904675,large
+SCL,-70.79382,CL,1,,SA,airport,-33.397175,large
 AQA,-48.13691,BR,1,Araraquara Airport,SA,airport,-21.806643,medium
 AJU,-37.072792,BR,1,Santa Maria Airport,SA,airport,-10.987206,medium
 AFL,-56.104767,BR,1,Alta Floresta Airport,SA,airport,-9.872456,medium
-ARU,-50.42611,BR,1,,SA,airport,-21.143612,medium
+SCN,7.112705,DE,1,,EU,airport,49.22009,medium
 AAX,-46.92917,BR,1,,SA,airport,-19.568056,small
-BEL,-48.480003,BR,1,,SA,airport,-1.389865,large
+SDE,-64.32222,AR,1,,SA,airport,-27.765278,medium
 BGX,-54.1125,BR,1,Comandante Gustavo Kraemer Airport,SA,airport,-31.398611,medium
 PLU,-43.75,BR,1,Pampulha - Carlos Drummond de Andrade Airport,SA,airport,-19.75,medium
 QAK,-43.88333,BR,1,Major Brigadeiro Doorgal Borges Airport,SA,airport,-21.397223,medium
@@ -4514,21 +4514,21 @@ BSB,-47.921486,BR,1,Presidente Juscelino Kubistschek International Airport,SA,ai
 BAT,-48.55,BR,1,Chafei Amsei Airport,SA,airport,-20.55,medium
 BAU,-49.0525,BR,1,Bauru Airport,SA,airport,-22.343056,medium
 BVB,-60.666668,BR,1,Atlas Brasil Cantanhede Airport,SA,airport,2.833333,medium
-BPG,-52.38333,BR,1,,SA,airport,-15.85,medium
+SDL,17.438147,SE,1,,EU,airport,62.52165,medium
 BZC,-41.964443,BR,1,Umberto Modiano Airport,SA,airport,-22.769444,medium
 CAC,-53.466667,BR,1,Cascavel Airport,SA,airport,-24.95,medium
 CFB,-42.07861,BR,1,Cabo Frio Airport,SA,airport,-22.925,small
 ITB,-55.983334,BR,1,Cachimbo Airport,SA,airport,-4.283333,medium
 CNF,-43.963215,BR,1,Tancredo Neves International Airport,SA,airport,-19.632418,large
 CGR,-54.668873,BR,1,Campo Grande Airport,SA,airport,-20.456991,medium
-XAP,-52.629723,BR,1,,SA,airport,-27.088612,medium
+SDQ,-69.67674,DO,1,,NA,airport,18.430124,large
 CLN,-47.45,BR,1,Brig. Lysias Augusto Rodrigues Airport,SA,airport,-7.333333,medium
-CKS,-50.001945,BR,1,,SA,airport,-6.114749,medium
-CCM,-49.36667,BR,1,,SA,airport,-28.7,medium
+SFG,-63.04889,MF,1,,NA,airport,18.100555,medium
+SFT,21.068548,SE,1,,EU,airport,64.62251,medium
 CLV,-48.63333,BR,1,Caldas Novas Airport,SA,airport,-17.75,small
 QNS,-51.28889,BR,1,Canoas Airport,SA,airport,-30.016666,medium
 CAW,-41.303482,BR,1,Bartolomeu Lisandro Airport,SA,airport,-21.70016,medium
-CMG,-57.672222,BR,1,,SA,airport,-19.01111,medium
+SGD,9.790798,DK,1,,EU,airport,54.96476,medium
 CWB,-49.176544,BR,1,Afonso Pena Airport,SA,airport,-25.5322,medium
 CRQ,-39.25,BR,1,Caravelas Airport,SA,airport,-17.75,medium
 CXJ,-51.183334,BR,1,Campo dos Bugres Airport,SA,airport,-29.166668,medium
@@ -4538,16 +4538,16 @@ PPB,-51.45,BR,1,Presidente Prudente Airport,SA,airport,-22.1,medium
 MAO,-60.046093,BR,1,Eduardo Gomes International Airport,SA,airport,-3.031327,medium
 JCR,-57.533333,BR,1,Jacareacanga Airport,SA,airport,-5.983333,medium
 IGU,-54.488823,BR,1,Cataratas International Airport,SA,airport,-25.597937,medium
-FLN,-48.5452,BR,1,,SA,airport,-27.664446,large
+SID,-22.943613,CV,1,,AF,airport,16.734695,medium
 FEN,-32.416668,BR,1,Fernando de Noronha Airport,SA,airport,-3.85,medium
 FOR,-38.540836,BR,1,Pinto Martins International Airport,SA,airport,-3.779073,medium
-GIG,-43.24651,BR,1,,SA,airport,-22.814653,large
-GJM,-65.36667,BR,1,,SA,airport,-10.783333,medium
+SJL,-66.98556,BR,1,,SA,airport,-0.148333,medium
+SJP,-49.416668,BR,1,,SA,airport,-20.816668,medium
 GYN,-49.226624,BR,1,Santa Genoveva Airport,SA,airport,-16.632631,medium
-GRU,-46.481926,BR,1,,SA,airport,-23.425669,large
+SJY,22.835285,FI,1,,EU,airport,62.6932,medium
 GPB,-51.5,BR,1,Tancredo Thomas de Faria Airport,SA,airport,-25.333332,small
 GVR,-41.933334,BR,1,Governador Valadares Airport,SA,airport,-18.850279,small
-GUJ,-45.216667,BR,1,,SA,airport,-22.816668,medium
+SJZ,-28.16843,PT,1,,EU,airport,38.664616,medium
 ATM,-52.216667,BR,1,Altamira Airport,SA,airport,-3.2,medium
 ITA,-58.416668,BR,1,Itacoatiara Airport,SA,airport,-3.133333,medium
 ITB,-55.983334,BR,1,Itaituba Airport,SA,airport,-4.283333,medium
@@ -4558,43 +4558,43 @@ JDF,-43.333332,BR,1,Francisco de Assis Airport,SA,airport,-21.75,medium
 JPA,-34.94816,BR,1,Presidente Castro Pinto Airport,SA,airport,-7.145357,medium
 JDO,-39.316666,BR,1,Orlando Bezerra de Menezes Airport,SA,airport,-7.2,small
 JOI,-48.783333,BR,1,Lauro Carneiro de Loyola Airport,SA,airport,-26.233334,medium
-CPV,-35.9,BR,1,,SA,airport,-7.266667,medium
+SMR,-74.232704,CO,1,,SA,airport,11.117132,medium
 VCP,-47.141674,BR,1,Viracopos International Airport,SA,airport,-23.009892,medium
 LEC,-41.281113,BR,1,Chapada Diamantina Airport,SA,airport,-12.48,small
 LAJ,-50.316666,BR,1,Lages Airport,SA,airport,-27.8,medium
 LIP,-49.75,BR,1,Lins Airport,SA,airport,-21.666668,medium
-LDB,-51.137714,BR,1,,SA,airport,-23.328457,medium
+SNE,-24.28861,CV,1,,AF,airport,16.586945,medium
 LAZ,-43.4125,BR,1,Bom Jesus da Lapa Airport,SA,airport,-13.256944,medium
-MAB,-49.166668,BR,1,,SA,airport,-5.366667,medium
-MQH,-48.233334,BR,1,,SA,airport,-13.533333,medium
+SOB,17.240444,HU,1,,EU,airport,46.71347,medium
+SOJ,20.933332,NO,1,,EU,airport,69.78333,medium
 MEU,-52.583332,BR,1,Monte Dourado Airport,SA,airport,-0.883333,medium
-MEA,-41.76405,BR,1,,SA,airport,-22.341843,medium
-MGF,-51.933334,BR,1,,SA,airport,-23.383612,medium
-MOC,-43.817223,BR,1,,SA,airport,-16.707779,medium
-MII,-49.933334,BR,1,,SA,airport,-22.2,medium
+SOO,17.05,SE,1,,EU,airport,61.3,medium
+SQQ,23.39311,LT,1,,EU,airport,55.89529,medium
+SSA,-38.335197,BR,1,,SA,airport,-12.913988,large
+SSJ,12.476518,NO,1,,EU,airport,65.959946,medium
 PLL,-59.984444,BR,1,Ponta Pelada Airport,SA,airport,-3.145556,medium
 MCZ,-35.800446,BR,1,Zumbi dos Palmares Airport,SA,airport,-9.512521,medium
 MCP,-51.068382,BR,1,Alberto Alcolumbre Airport,SA,airport,0.049895,medium
 MVF,-37.25,BR,1,Dix-Sept Rosado Airport,SA,airport,-5.166667,medium
 SAO,,BR,1,Campo de Marte Airport,SA,airport,,medium
-MNX,-61.283333,BR,1,,SA,airport,-5.816667,medium
+SSZ,-46.36667,BR,1,,SA,airport,-23.933332,medium
 NVT,-48.63333,BR,1,Ministro Victor Konder International Airport,SA,airport,-26.866667,medium
-GEL,-54.168056,BR,1,,SA,airport,-28.28111,medium
+STB,-71.95,VE,1,,SA,airport,9.033333,medium
 NAT,-35.250244,BR,1,Augusto Severo Airport,SA,airport,-5.916787,medium
 OYK,-51.783333,BR,1,Oiapoque Airport,SA,airport,3.883333,medium
 POA,-51.17709,BR,1,Salgado Filho Airport,SA,airport,-29.98961,medium
 PBB,-51.183334,BR,1,,SA,airport,-19.666668,small
-POO,-46.5675,BR,1,,SA,airport,-21.841389,medium
+SVJ,14.667774,NO,1,,EU,airport,68.24498,medium
 PFB,-52.333332,BR,1,Lauro Kurtz Airport,SA,airport,-28.25,medium
 PMW,-48.35278,BR,1,Brigadeiro Lysias Rodrigues Airport,SA,airport,-10.241667,medium
 PET,-52.324444,BR,1,Pelotas Airport,SA,airport,-31.718056,medium
 PNZ,-40.490555,BR,1,Senador Nilo Coelho Airport,SA,airport,-9.393333,medium
 PNB,-48.416668,BR,1,Porto Nacional Airport,SA,airport,-10.7,medium
-PMG,-55.7,BR,1,,SA,airport,-22.55,medium
+SXF,13.521388,DE,1,,EU,airport,52.370277,large
 BPS,-39.081097,BR,1,Porto Seguro Airport,SA,airport,-16.441158,medium
 PVH,-63.898308,BR,1,Governador Jorge Teixeira de Oliveira Airport,SA,airport,-8.714311,medium
-VDC,-40.86667,BR,1,,SA,airport,-14.883333,medium
-RBR,-67.8,BR,1,,SA,airport,-9.966667,medium
+SZF,36.555058,TR,1,,AS,airport,41.25738,medium
+SZZ,14.894611,PL,1,,EU,airport,53.593525,medium
 REC,-34.91792,BR,1,Guararapes - Gilberto Freyre International Airport,SA,airport,-8.131507,medium
 SDU,-43.167095,BR,1,Santos Dumont Airport,SA,airport,-22.911541,medium
 RAO,-47.773335,BR,1,Leite Lopes Airport,SA,airport,-21.135834,medium
@@ -4605,25 +4605,25 @@ SLZ,-44.236683,BR,1,Marechal Cunha Machado International Airport,SA,airport,-2.5
 RIA,-53.6875,BR,1,Santa Maria Airport,SA,airport,-29.710556,medium
 STM,-54.78639,BR,1,Maestro Wilson Fonseca Airport,SA,airport,-2.424886,medium
 CGH,-46.659557,BR,1,Congonhas Airport,SA,airport,-23.626902,large
-SJP,-49.416668,BR,1,,SA,airport,-20.816668,medium
-SSZ,-46.36667,BR,1,,SA,airport,-23.933332,medium
-SSA,-38.335197,BR,1,,SA,airport,-12.913988,large
-QHP,,BR,1,,SA,airport,,medium
+TDL,-59.083332,AR,1,,SA,airport,-37.333332,medium
+TEC,-50.65167,BR,1,,SA,airport,-24.315832,medium
+TEE,8.124067,DZ,1,,AF,airport,35.428593,medium
+TEQ,27.5,TR,1,,EU,airport,40.966667,medium
 TMT,-55.583332,BR,1,Trombetas Airport,SA,airport,-1.916667,medium
 UNA,-38.997223,BR,1,,SA,airport,-15.353333,small
 TOW,-53.69611,BR,1,Toledo Airport,SA,airport,-24.69861,small
-THE,-42.821087,BR,1,,SA,airport,-5.06335,medium
 TFF,-64.7,BR,1,,SA,airport,-3.366667,medium
-TRQ,-70.75,BR,1,,SA,airport,-8.1,medium
-TEC,-50.65167,BR,1,,SA,airport,-24.315832,medium
-OBI,-55.516666,BR,1,,SA,airport,-1.916667,medium
+TGM,24.533333,RO,1,,EU,airport,46.533333,medium
+TGM,24.533333,MX,1,,NA,airport,46.533333,medium
+TGU,-87.21972,HN,1,,NA,airport,14.060123,medium
+THE,-42.821087,BR,1,,SA,airport,-5.06335,medium
 TBT,-69.933334,BR,1,Tabatinga Airport,SA,airport,-4.233333,medium
-TUR,-49.733334,BR,1,,SA,airport,-3.7,medium
-SJL,-66.98556,BR,1,,SA,airport,-0.148333,medium
+THN,12.3,SE,1,,EU,airport,58.266666,medium
+TIJ,-116.97466,MX,1,,NA,airport,32.546284,large
 PAV,-38.249916,BR,1,Paulo Afonso Airport,SA,airport,-9.40077,medium
 URG,-57.038334,BR,1,Rubem Berta Airport,SA,airport,-29.781668,medium
-UDI,-48.225822,BR,1,,SA,airport,-18.884567,medium
-UBA,-47.958332,BR,1,,SA,airport,-19.776388,medium
+TLM,-1.45,DZ,1,,AF,airport,35.016666,medium
+TMR,5.459167,DZ,1,,AF,airport,22.814722,medium
 VAG,-45.47395,BR,1,Major Brigadeiro Trompowsky Airport,SA,airport,-21.588886,medium
 BVH,-60.11667,BR,1,Vilhena Airport,SA,airport,-12.716667,medium
 VIX,-40.289566,BR,1,Eurico de Aguiar Salles Airport,SA,airport,-20.25681,medium
@@ -4640,30 +4640,30 @@ BBA,-71.695,CL,1,Balmaceda Airport,SA,airport,-45.916668,medium
 TOQ,-70.061386,CL,1,Barriles Airport,SA,airport,-22.13611,medium
 CCH,-71.7,CL,1,Chile Chico Airport,SA,airport,-46.55,medium
 CJC,-68.90843,CL,1,El Loa Airport,SA,airport,-22.495085,medium
-YAI,-72.11667,CL,1,,SA,airport,-36.6,medium
-PUQ,-70.84307,CL,1,,SA,airport,-53.005356,medium
+TMS,6.725,ST,1,,AF,airport,0.378333,medium
+TOJ,-3.546667,ES,1,,EU,airport,40.455555,medium
 GXQ,-72.09861,CL,1,Teniente Vidal Airport,SA,airport,-45.58889,medium
 IQQ,-70.17848,CL,1,Diego Aracena Airport,SA,airport,-20.547937,medium
-SCL,-70.79382,CL,1,,SA,airport,-33.397175,large
-ESR,-69.76528,CL,1,,SA,airport,-26.315277,medium
+TOS,18.907343,NO,1,,EU,airport,69.67983,large
+TRD,10.917863,NO,1,,EU,airport,63.454285,large
 FRT,-73.06528,CL,1,El Avellano Airport,SA,airport,-41.125,small
 ANF,-70.44079,CL,1,Cerro Moreno Airport,SA,airport,-23.449,medium
 WPR,-70.333336,CL,1,Capitan Fuentes Martinez Airport Airport,SA,airport,-53.25,medium
 FFU,-71.816666,CL,1,,SA,airport,-43.2,small
 LSQ,-72.422775,CL,1,,SA,airport,-37.3975,small
-WPU,-68.25,CL,1,,SA,airport,-54.95,medium
+TRQ,-70.75,BR,1,,SA,airport,-8.1,medium
 CPO,-70.414406,CL,1,Chamonate Airport,SA,airport,-27.29892,small
 LGR,-72,CL,1,Cochrane Airport,SA,airport,-47.166668,medium
 CCP,-73.05944,CL,1,Carriel Sur Airport,SA,airport,-36.777122,medium
 IPC,-109.36667,CL,1,Mataveri Airport,SA,airport,-27.116667,medium
-ZOS,-73.05556,CL,1,,SA,airport,-40.607777,medium
+TUR,-49.733334,BR,1,,SA,airport,-3.7,medium
 VLR,-70.761665,CL,1,Vallenar Airport,SA,airport,-28.591667,medium
 ZLR,-71.68611,CL,1,Municipal de Linares Airport,SA,airport,-35.966667,small
 PNT,-72.51667,CL,1,Tte. Julio Gallardo Airport,SA,airport,-51.683334,medium
 OVL,-71,CL,1,El Tuqui Airport,SA,airport,-30.566668,small
 ZPC,-71.63333,CL,1,,SA,airport,-39.76389,small
 PUX,-72.94444,CL,1,El Mirador Airport,SA,airport,-40.34028,small
-CNR,-70.604164,CL,1,,SA,airport,-26.329166,medium
+TZR,-83.17194,HU,1,,EU,airport,39.90817,medium
 VAP,-71.666664,CL,1,Rodelillo Airport,SA,airport,-33.033333,small
 QRC,-70.85555,CL,1,De La Independencia Airport,SA,airport,-34.244446,medium
 SMB,-69.34278,CL,1,Franco Bianco Airport,SA,airport,-52.738335,small
@@ -4674,11 +4674,11 @@ ZCO,-72.63845,CL,1,Maquehue Airport,SA,airport,-38.770355,medium
 PMC,-73.09831,CL,1,El Tepual Airport,SA,airport,-41.433727,medium
 ULC,,CL,,Los Cerrillos Airport,SA,closed,,
 TLX,-71.666664,CL,1,Panguilemo Airport,SA,airport,-35.466667,medium
-WCH,-72.71667,CL,1,,SA,airport,-42.916668,medium
+UBA,-47.958332,BR,1,,SA,airport,-19.776388,medium
 ZIC,-72.333336,CL,1,Victoria Airport,SA,airport,-38.216667,medium
 TTC,-70.42222,CL,1,Las Breas Airport,SA,airport,-25.517778,medium
 ZAL,-73.23944,CL,1,Pichoy Airport,SA,airport,-39.791668,medium
-KNA,-71.566666,CL,1,,SA,airport,-33.033333,medium
+UDI,-48.225822,BR,1,,SA,airport,-18.884567,medium
 CPQ,-47.111595,BR,1,Amarais Airport,SA,airport,-22.856462,small
 QCJ,-48.475,BR,1,Botucatu Airport,SA,airport,-22.966667,small
 OLC,-68.95853,BR,1,Senadora Eunice Micheles Airport,SA,airport,-3.470869,small
@@ -4699,7 +4699,7 @@ QGS,,BR,1,Alagoinhas Airport,SA,airport,,small
 VOT,-49.88333,BR,1,Votuporanga Airport,SA,airport,-20.433332,small
 QGB,,BR,1,Limeira Airport,SA,airport,,small
 IZA,-43.173058,BR,1,Zona da Mata Regional Airport,SA,airport,-21.513056,medium
-ATF,-78.7,EC,1,,SA,airport,-1.083333,medium
+UIB,-76.641945,CO,1,,SA,airport,5.690556,medium
 OCC,-76.98596,EC,1,Francisco De Orellana Airport,SA,airport,-0.462171,medium
 CUE,-78.98689,EC,1,Mariscal Lamar Airport,SA,airport,-2.889343,medium
 GPS,-90.282776,EC,1,Seymour Airport,SA,airport,-0.434722,small
@@ -4734,7 +4734,7 @@ CIO,-57.41833,PY,1,Teniente Col Carmelo Peralta Airport,SA,airport,-23.434444,sm
 ENO,-55.833332,PY,1,,SA,airport,-27.25,small
 AGT,-54.833332,PY,1,Guarani International Airport,SA,airport,-25.5,medium
 FLM,-60.033333,PY,1,Filadelfia Airport,SA,airport,-22.35,small
-ESG,-60.61667,PY,1,,SA,airport,-22.033333,medium
+UME,20.28954,SE,1,,EU,airport,63.79333,medium
 PIL,-58.333332,PY,1,Carlos Miguel Gimenez Airport,SA,airport,-26.866667,medium
 PJC,-55.666668,PY,1,Dr Augusto Roberto Fuster International Airport,SA,airport,-22.5,small
 LVR,,BR,1,Municipal Bom Futuro Airport,SA,airport,,small
@@ -4759,12 +4759,12 @@ ELB,-73.97417,CO,1,Las Flores Airport,SA,airport,9.048889,medium
 BGA,-73.1814,CO,1,Palonegro Airport,SA,airport,7.128045,medium
 BOG,-74.143135,CO,1,El Dorado International Airport,SA,airport,4.698602,large
 BAQ,-74.77618,CO,1,Ernesto Cortissoz International Airport,SA,airport,10.886398,medium
-BSC,-77.4,CO,1,,SA,airport,6.183333,medium
-BUN,-76.995834,CO,1,,SA,airport,3.825,medium
+URC,87.47515,CN,1,,AS,airport,43.90126,large
+UVE,166.57198,NC,1,,OC,airport,-20.64242,medium
 CPB,-77.333336,CO,1,,SA,airport,8.633333,small
 CUC,-72.50815,CO,1,Camilo Daza International Airport,SA,airport,7.927108,medium
 COG,-76.66333,CO,1,Mandinga Airport,SA,airport,5.079167,small
-CTG,-75.51659,CO,1,,SA,airport,10.445704,medium
+VAW,31.045555,NO,1,,EU,airport,70.35472,medium
 CCO,-71.333336,CO,1,Carimagua Airport,SA,airport,4.566667,small
 CLO,-76.381386,CO,1,Alfonso Bonilla Aragon International Airport,SA,airport,3.543056,medium
 CIM,-74.11667,CO,1,Cimitarra Airport,SA,airport,6.483333,small
@@ -4772,10 +4772,10 @@ RAV,-70.183334,CO,1,Cravo Norte Airport,SA,airport,6.316667,small
 TCO,-78.76667,CO,1,La Florida Airport,SA,airport,1.816667,medium
 CUO,-71.23333,CO,1,,SA,airport,1.033333,small
 CAQ,-75.19718,CO,1,Juan H White Airport,SA,airport,7.967905,medium
-CVE,-75.73333,CO,1,,SA,airport,9.4,medium
+VCA,105.76639,VN,1,,AS,airport,10.047222,medium
 CZU,-75.282776,CO,1,Las Brujas Airport,SA,airport,9.3375,medium
 EBG,-74.816666,CO,1,El Bagre Airport,SA,airport,7.616667,medium
-EJA,-73.799164,CO,1,,SA,airport,7.015833,medium
+VDC,-40.86667,BR,1,,SA,airport,-14.883333,medium
 FLA,-75.55889,CO,1,Gustavo Artunduaga Paredes Airport,SA,airport,1.588889,medium
 FDA,,CO,1,,SA,airport,,small
 GIR,-74.8,CO,1,Santiago Vila Airport,SA,airport,4.3,medium
@@ -4791,7 +4791,7 @@ IPI,-77.71167,CO,1,San Luis Airport,SA,airport,0.866389,medium
 LQM,-74.583336,CO,1,Caucaya Airport,SA,airport,-0.3,small
 MCJ,-72.24167,CO,1,Jorge Isaac Airport,SA,airport,11.391667,medium
 LPD,-69.71667,CO,1,La Pedrera Airport,SA,airport,-1.3,small
-LET,-69.939445,CO,1,,SA,airport,-4.196389,medium
+VDS,29.845278,NO,1,,EU,airport,70.065,medium
 EOH,-75.5864,CO,1,Enrique Olaya Herrera Airport,SA,airport,6.218666,medium
 MFS,-73.25,CO,1,Miraflores Airport,SA,airport,5.166667,small
 MGN,-74.845,CO,1,Baracoa Airport,SA,airport,9.288056,medium
@@ -4807,21 +4807,21 @@ OCV,-73.333336,CO,1,Aguas Claras Airport,SA,airport,8.25,medium
 ORC,-71.333336,CO,1,Orocue Airport,SA,airport,4.9,small
 PCR,-67.63333,CO,1,German Olano Airport,SA,airport,6.183333,medium
 PDA,-67.88333,CO,1,Obando Airport,SA,airport,3.883333,medium
-PEI,-75.736534,CO,1,,SA,airport,4.815945,medium
+VIG,-71.65,VE,1,,SA,airport,8.633333,medium
 PTX,-76.03333,CO,1,Pitalito Airport,SA,airport,1.85,medium
 PLT,-74.78333,CO,1,Plato Airport,SA,airport,9.783333,small
 NAR,-74.583336,CO,1,Puerto Nare Airport,SA,airport,6.2,small
-PPN,-76.60889,CO,1,,SA,airport,2.45,medium
+VIY,2.191667,FR,1,,EU,airport,48.774166,medium
 PQE,,CO,1,German Olano Air Base,SA,airport,,medium
 PBE,-74.48333,CO,1,Puerto Berrio Airport,SA,airport,6.483333,small
 PSO,-77.25,CO,1,Antonio Narino Airport,SA,airport,1.466667,medium
 PVA,-81.35,CO,1,El Embrujo Airport,SA,airport,13.35,medium
 PZA,-71.885,CO,1,Paz De Ariporo Airport,SA,airport,5.877778,medium
 MQU,-74.88333,CO,1,Jose Celestino Mutis Airport,SA,airport,5.216667,medium
-MDE,-75.42821,CO,1,,SA,airport,6.171382,medium
+VLM,-63.5,BO,1,,SA,airport,-21.25,medium
 RCH,-72.924446,CO,1,Almirante Padilla Airport,SA,airport,11.529167,medium
 SJE,-72.666664,CO,1,Jorge E. Gonzalez Torres Airport,SA,airport,2.583333,medium
-SMR,-74.232704,CO,1,,SA,airport,11.117132,medium
+VLV,-70.58583,VE,1,,SA,airport,9.339167,medium
 SOX,-72.933334,CO,1,Alberto Lleras Camargo Airport,SA,airport,5.716667,small
 ADZ,-81.70221,CO,1,Gustavo Rojas Pinilla International Airport,SA,airport,12.586047,medium
 SVI,-74.76667,CO,1,Eduardo Falla Solano Airport,SA,airport,2.15,medium
@@ -4831,9 +4831,9 @@ TLU,-75.583336,CO,1,,SA,airport,9.516667,small
 TME,-71.76667,CO,1,Gustavo Vargas Airport,SA,airport,6.5,medium
 TQS,-75.23333,CO,1,Tres Esquinas Air Base,SA,airport,0.733333,medium
 TRB,-76.748055,CO,1,,SA,airport,8.078333,small
-MQZ,115.1,CO,1,,SA,airport,-33.933334,medium
+VSA,-92.818985,MX,1,,NA,airport,17.99243,medium
 AUC,-70.7425,CO,1,Santiago Perez Airport,SA,airport,7.071667,medium
-UIB,-76.641945,CO,1,,SA,airport,5.690556,medium
+VST,16.630556,SE,1,,EU,airport,59.58917,medium
 ULQ,-76.229164,CO,1,Farfan Airport,SA,airport,4.097222,medium
 URR,-76.183334,CO,1,Urrao Airport,SA,airport,6.333333,small
 VUP,-73.25278,CO,1,,SA,airport,10.436667,medium
@@ -4846,7 +4846,7 @@ ASC,-63.15,BO,1,,SA,airport,-15.916667,small
 BJO,-64.333336,BO,1,Bermejo Airport,SA,airport,-22.866667,medium
 CAM,-63.56111,BO,1,Camiri Airport,SA,airport,-20.01111,small
 CBB,-66.178894,BO,1,Jorge Wilsterman International Airport,SA,airport,-17.413954,medium
-CIJ,-68.75278,BO,1,,SA,airport,-11.026389,medium
+VXE,-25.057571,CV,1,,AF,airport,16.835613,medium
 CEP,-62.083332,BO,1,,SA,airport,-16.233334,small
 SRZ,-63.1725,BO,1,El Trompillo Airport,SA,airport,-17.804167,medium
 GYA,-65.361664,BO,1,,SA,airport,-10.83,small
@@ -4859,7 +4859,7 @@ MGD,-64.124725,BO,1,Magdalena Airport,SA,airport,-13.325278,small
 ORU,-67.07546,BO,1,Juan Mendoza Airport,SA,airport,-17.963202,medium
 POI,-65.72361,BO,1,Capitan Nicolas Rojas Airport,SA,airport,-19.543056,medium
 PUR,-67.52,BO,1,Puerto Rico Airport,SA,airport,-11.1125,small
-PSZ,-57.8,BO,1,,SA,airport,-18.966667,medium
+VXO,14.732046,SE,1,,EU,airport,56.925095,medium
 SRD,-64.71667,BO,1,,SA,airport,-13.283333,small
 RBO,-59.75528,BO,1,,SA,airport,-18.344444,small
 RIB,-66.093056,BO,1,,SA,airport,-11.006944,small
@@ -4875,7 +4875,7 @@ TJA,-64.745834,BO,1,Capitan Oriel Lea Plaza Airport,SA,airport,-21.554167,medium
 TDD,-64.91931,BO,1,Teniente Av. Jorge Henrich Arauz Airport,SA,airport,-14.822613,medium
 UYU,-66.8484,BO,1,Uyuni Airport,SA,airport,-20.4463,small
 VAH,-64.1,BO,1,,SA,airport,-18.483334,small
-VLM,-63.5,BO,1,,SA,airport,-21.25,medium
+WCH,-72.71667,CL,1,,SA,airport,-42.916668,medium
 VVI,-63.140488,BO,1,Viru Viru International Airport,SA,airport,-17.648233,medium
 BYC,-63.65,BO,1,Yacuiba Airport,SA,airport,-21.95,medium
 ABN,-54.083332,SR,1,Albina Airport,SA,airport,5.5,small
@@ -4964,7 +4964,7 @@ XAU,-53.2,GF,1,,SA,airport,3.616667,small
 APE,-69.083336,PE,1,San Juan Aposento Airport,SA,airport,-11.933333,small
 ALD,-69.333336,PE,1,Alerta Airport,SA,airport,-11.683333,small
 AOP,,PE,1,Alferez FAP Alfredo Vladimir Sara Bauer Airport,SA,airport,,small
-ATG,72.25,PE,1,,SA,airport,33.9,medium
+WPU,-68.25,CL,1,,SA,airport,-54.95,medium
 MBP,-77.166664,PE,1,Moyobamba Airport,SA,airport,-6.2,small
 LHC,,PE,1,Caballococha Airport,SA,airport,,medium
 BLP,-69.416664,PE,1,Huallaga Airport,SA,airport,-16.583332,small
@@ -4979,7 +4979,7 @@ AYP,-74.24722,PE,1,Coronel FAP Alfredo Mendivil Duarte Airport,SA,airport,-13.19
 ANS,-73.355835,PE,1,Andahuaylas Airport,SA,airport,-13.716667,small
 ATA,-77.6,PE,1,Comandante FAP German Arias Graziani Airport,SA,airport,-9.347222,medium
 UMI,-70.666664,PE,1,Quince Air Base,SA,airport,-13.25,small
-LIM,-77.107666,PE,1,,SA,airport,-12.019421,large
+XAP,-52.629723,BR,1,,SA,airport,-27.088612,medium
 SFK,-48.52222,PE,1,Satipo Airport,SA,airport,-0.7,small
 UCZ,,PE,1,Uchiza Airport,SA,airport,,small
 RIJ,-77.15,PE,1,Juan Simons Vela Airport,SA,airport,-6.05,medium
@@ -5001,15 +5001,15 @@ SYC,-69.166664,PE,1,Shiringayoc/Hacienda Hda Mejia Airport,SA,airport,-11.9,smal
 CHH,-77.85,PE,1,Chachapoyas Airport,SA,airport,-6.216667,medium
 REQ,-73.86667,PE,1,Requena Airport,SA,airport,-5.064947,small
 IQT,-73.30284,PE,1,Coronel FAP Francisco Secada Vignetta International Airport,SA,airport,-3.785098,medium
-AQP,-71.56799,PE,1,,SA,airport,-16.344812,medium
+XAS,,FR,1,,EU,airport,,medium
 TRU,-79.115,PE,1,Capitan FAP Carlos Martinez De Pinillos International Airport,SA,airport,-8.09,medium
 SQD,,PE,1,San Francisco Airport,SA,airport,,small
-PIO,-76.21667,PE,1,,SA,airport,-13.75,medium
+XCB,,FR,1,,EU,airport,,medium
 TPP,-76.39861,PE,1,Cadete FAP Guillermo Del Castillo Paredes Airport,SA,airport,-6.511111,medium
 SYC,-69.166664,PE,1,Shiringayoc Airport,SA,airport,-11.9,small
 TCQ,-70.27889,PE,1,Coronel FAP Carlos Ciriani Santa Rosa International Airport,SA,airport,-18.063334,medium
 PEM,-69.23333,PE,1,Padre Aldamiz International Airport,SA,airport,-12.583333,medium
-PIU,-80.613335,PE,1,,SA,airport,-5.201667,medium
+XCR,4.201111,FR,1,,EU,airport,48.767776,medium
 TYL,-81.25278,PE,1,Capitan Montes Airport,SA,airport,-4.564722,medium
 NZA,21.35786,PE,1,Maria Reiche Neuman Airport,SA,airport,-7.716528,medium
 CUZ,-71.94371,PE,1,Alejandro Velasco Astete International Airport,SA,airport,-13.538429,large
@@ -5076,15 +5076,15 @@ BNS,-70.22111,VE,1,Barinas Airport,SA,airport,8.618056,medium
 ELR,140.06667,VE,1,El Libertador Airbase,SA,airport,-3.816667,medium
 BRM,-69.35984,VE,1,Barquisimeto International Airport,SA,airport,10.046267,medium
 MYC,-68.166664,VE,1,Escuela Mariscal Sucre Airport,SA,airport,10.5,medium
-CBL,-63.534657,VE,1,,SA,airport,8.122381,medium
+XCZ,,FR,1,,EU,airport,,medium
 CXA,-66.15,VE,1,Caicara del Orinoco Airport,SA,airport,7.533333,medium
 CUV,-70.95,VE,1,Casigua El Cubo Airport,SA,airport,11.066667,small
 CLZ,-67.433334,VE,1,Calabozo Airport,SA,airport,8.933333,medium
 CAJ,-62.85351,VE,1,Canaima Airport,SA,airport,6.240634,medium
 VCR,-70.083336,VE,1,Carora Airport,SA,airport,10.183333,medium
-CUP,-63.2625,VE,1,,SA,airport,10.658889,medium
-CZE,-69.681946,VE,1,,SA,airport,11.415833,medium
-CUM,-64.131744,VE,1,,SA,airport,10.449879,medium
+XHE,,FR,1,,EU,airport,,medium
+XME,,FR,1,,EU,airport,,medium
+XMF,,FR,1,,EU,airport,,medium
 isl,-145.03334,VE,1,La Tortuga Punta Delgada Airport,SA,airport,63.5,small
 EOR,-61.88333,VE,1,El Dorado Airport,SA,airport,6.733333,medium
 EOZ,-69.53333,VE,1,Elorza Airport,SA,airport,7.166667,medium
@@ -5097,9 +5097,9 @@ KAV,-61.766666,VE,1,Kavanayen Airport,SA,airport,5.666667,small
 LFR,-72.272224,VE,1,La Fria Airport,SA,airport,8.240556,medium
 MAR,-71.72351,VE,1,La Chinita International Airport,SA,airport,10.555564,medium
 MRD,-71.16051,VE,1,Alberto Carnevalli Airport,SA,airport,8.582471,medium
-PMV,-63.96899,VE,1,,SA,airport,10.917189,medium
-CCS,-67.00551,VE,1,,SA,airport,10.596942,medium
-MUN,-63.156933,VE,1,,SA,airport,9.749384,medium
+XSJ,,FR,1,,EU,airport,,medium
+YAI,-72.11667,CL,1,,SA,airport,-36.6,medium
+YAO,11.523611,CM,1,,AF,airport,3.833611,medium
 CBS,-71.416664,VE,1,Oro Negro Airport,SA,airport,10.383333,small
 PYH,-67.5,VE,1,Cacique Aramare Airport,SA,airport,5.6,medium
 PBL,-68.07361,VE,1,General Bartolome Salom International Airport,SA,airport,10.479167,medium
@@ -5116,13 +5116,13 @@ STD,-72.066666,VE,1,Mayor Buenaventura Vivas International Airport,SA,airport,7.
 SNF,-68.75389,VE,1,Sub Teniente Nestor Arias Airport,SA,airport,10.280278,medium
 SFD,-67.43916,VE,1,San Fernando De Apure Airport,SA,airport,7.885278,medium
 SOM,-64.14981,VE,1,San Tome Airport,SA,airport,8.94536,medium
-STB,-71.95,VE,1,,SA,airport,9.033333,medium
+YGL,-77.70639,CA,1,,NA,airport,53.629723,medium
 TUV,-62.05,VE,1,Tucupita Airport,SA,airport,9.091667,medium
 TMO,-61.5,VE,1,Tumeremo Airport,SA,airport,7.3,medium
 URM,-62.75833,VE,1,Uriman Airport,SA,airport,5.341667,small
 VLN,-67.92248,VE,1,Arturo Michelena International Airport,SA,airport,10.15429,medium
-VIG,-71.65,VE,1,,SA,airport,8.633333,medium
-VLV,-70.58583,VE,1,,SA,airport,9.339167,medium
+YGP,-64.48333,CA,1,,NA,airport,48.766666,medium
+YGR,-61.9,CA,1,,NA,airport,47.36667,medium
 VDP,-65.99111,VE,1,Valle de La Pascua Airport,SA,airport,9.221389,medium
 BAZ,-62.933613,BR,1,Barcelos Airport,SA,airport,-0.966944,small
 RBB,-59.583332,BR,1,Borba Airport,SA,airport,-4.4,small
@@ -5187,7 +5187,7 @@ MYM,-59.63333,GY,1,Monkey Mountain Airport,SA,airport,4.6,small
 QSX,,GY,1,New Amsterdam Airport,SA,airport,,small
 ORJ,-60.033333,GY,1,Orinduik Airport,SA,airport,4.716667,small
 PRR,-61.05,GY,1,Paruma Airport,SA,airport,5.8,small
-SZN,-119.915,US,1,Santa Cruz Island Airport,NA,airport,34.060555,small
+YNG,-80.66972,US,1,Youngstown Warren Regional Airport,NA,airport,41.25611,medium
 ANU,-61.76389,AG,1,V.C. Bird International Airport,NA,airport,17.108334,medium
 BBQ,-61.765,AG,1,Codrington Airport,NA,airport,17.555555,small
 BGI,-59.487835,BB,1,Sir Grantley Adams International Airport,NA,airport,13.080732,medium
@@ -5196,11 +5196,11 @@ DOM,-61.309166,DM,1,Melville Hall Airport,NA,airport,15.543056,medium
 DSD,-61.016666,GP,1,,NA,airport,16.333332,small
 BBR,-61.739445,GP,1,Baillif Airport,NA,airport,16.01639,small
 SFC,-61.283333,GP,1,,NA,airport,16.25,small
-FDF,-60.999947,MQ,1,,NA,airport,14.596061,medium
-SFG,-63.04889,MF,1,,NA,airport,18.100555,medium
+YHF,-83.683334,CA,1,,NA,airport,49.716667,medium
+YHU,-73.6,CA,1,,NA,airport,45.5,medium
 SBH,-62.85,BL,1,Gustaf III Airport,NA,airport,17.9,medium
 GBJ,-61.266666,GP,1,Les Bases Airport,NA,airport,15.866667,medium
-PTP,-61.52639,GP,1,,NA,airport,16.2675,medium
+YRI,-69.53333,CA,1,,NA,airport,47.833332,medium
 LSS,-61.576668,GP,1,Terre-de-Haut Airport,NA,airport,15.866944,small
 GND,-61.78611,GD,1,Point Salines International Airport,NA,airport,12.004167,medium
 CRU,-61.47222,GD,1,Lauriston Airport,NA,airport,12.475,small
@@ -5286,7 +5286,7 @@ CYX,161.35,RU,1,Cherskiy Airport,AS,airport,68.75,medium
 IKS,128.9,RU,1,Tiksi Airport,AS,airport,71.7,medium
 ENK,-7.633333,RU,1,Zyryanka Airport,AS,airport,54.35,medium
 OYG,31.716667,UG,1,Moyo Airport,AF,airport,3.65,small
-UGB,-157.74422,US,1,Ugashik Bay Airport,NA,airport,57.42529,small
+YUM,-114.599266,US,1,Yuma MCAS/Yuma International Airport,NA,airport,32.668606,medium
 KUT,42.7,GE,1,Kopitnari Airport,AS,airport,42.25,medium
 BUS,41.600555,GE,1,Batumi International Airport,AS,airport,41.610832,medium
 SUI,41.11667,GE,1,Sukhumi Dranda Airport,AS,airport,42.86667,medium
@@ -5726,7 +5726,7 @@ FVM,73.43278,MV,1,Fuvahmulah Airport,AS,airport,-0.309444,small
 GAN,73.15654,MV,1,Gan International Airport,AS,airport,-0.690003,medium
 HAQ,73.16838,MV,1,Hanimaadhoo Airport,AS,airport,6.748433,medium
 KDO,73.51667,MV,1,Kadhdhoo Airport,AS,airport,1.883333,medium
-MLE,73.524445,MV,1,,AS,airport,4.201389,large
+YRQ,-72.683334,CA,1,,NA,airport,46.35,medium
 KDM,72.99593,MV,1,Kaadedhdhoo Airport,AS,airport,0.491527,medium
 VAM,9.458333,MV,1,Villa Airport,AS,airport,55.46389,medium
 DMK,100.60667,TH,1,Don Mueang International Airport,AS,airport,13.9125,large
@@ -5779,7 +5779,7 @@ VCL,108.70389,VN,1,Chu Lai International Airport,AS,airport,15.422222,small
 HPH,106.727325,VN,1,Cat Bi International Airport,AS,airport,20.823315,medium
 CXR,109.225,VN,1,Cam Ranh Airport,AS,airport,11.993611,medium
 VCS,106.63333,VN,1,Co Ong Airport,AS,airport,10.371389,medium
-VCA,105.76639,VN,1,,AS,airport,10.047222,medium
+YWJ,-123.5,CA,1,,NA,airport,65.166664,medium
 DIN,103,VN,1,Dien Bien Phu Airport,AS,airport,21.383333,medium
 DLI,108.37603,VN,1,Lien Khuong Airport,AS,airport,11.749689,small
 DAD,108.20298,VN,1,Da Nang International Airport,AS,airport,16.055399,large
@@ -6076,7 +6076,7 @@ WWT,,US,1,Newtok Seaplane Base,NA,seaplanes,,
 BCD,,PH,,Bacolod City Domestic Airport,AS,closed,,
 MNI,,MS,,W. H. Bramble Airport,NA,closed,,
 SKL,-6.25,GB,1,Skye Bridge Ashaig Airport,EU,airport,57.333332,small
-GUT,8.383333,DE,1,,EU,airport,51.9,medium
+YZV,-66.26404,CA,1,,NA,airport,50.21751,medium
 ALH,117.804,AU,1,Albany Airport,OC,airport,-34.944996,medium
 ABG,143.2,AU,1,Abingdon Downs Airport,OC,airport,-17.666668,small
 AWN,138.66667,AU,1,Alton Downs Airport,OC,airport,-26.25,small
@@ -6629,7 +6629,7 @@ UUN,113.28333,MN,1,Baruun Urt Airport,AS,airport,46.683334,medium
 COQ,114.9,MN,1,Choibalsan Airport,AS,airport,48.13333,medium
 DLZ,104.683334,MN,1,Dalanzadgad Airport,AS,airport,43.966667,medium
 HVD,91.65,MN,1,Khovd Airport,AS,airport,48.016666,medium
-MXV,100.166664,MN,1,,AS,airport,49.63333,medium
+ZOS,-73.05556,CL,1,,SA,airport,-40.607777,medium
 ULN,106.76327,MN,1,Chinggis Khaan International Airport,AS,airport,47.85275,medium
 ULG,89.96667,MN,1,Ulgii Mongolei Airport,AS,airport,48.966667,small
 DLU,100.32316,CN,1,Dali Airport,AS,airport,25.65135,medium
@@ -6707,7 +6707,7 @@ KHG,76.01107,CN,1,Kashgar Airport,AS,airport,39.534973,medium
 SXJ,90.23333,CN,1,Shanshan Airport,AS,airport,42.816666,medium
 TCG,83.333336,CN,1,Tacheng Airport,AS,airport,46.666668,small
 HTN,79.87245,CN,1,Hotan Airport,AS,airport,37.040436,medium
-URC,87.47515,CN,1,,AS,airport,43.90126,large
+ZRH,8.561746,CH,1,Zurich Airport,EU,airport,47.450603,large
 YIN,81.33144,CN,1,Yining Airport,AS,airport,43.952,small
 AOG,123.857834,CN,1,Anshan Air Base,AS,airport,41.103523,medium
 CGQ,125.217545,CN,1,Longjia Airport,AS,airport,43.902836,medium
