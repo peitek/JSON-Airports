@@ -1239,12 +1239,12 @@ EVX,1.15,FR,1,,EU,airport,49.016666,medium
 FDF,-60.999947,MQ,1,,NA,airport,14.596061,medium
 VHM,16.65,SE,1,Vilhelmina Airport,EU,airport,64.61667,medium
 AJR,19.285557,SE,1,Arvidsjaur Airport,EU,airport,65.59139,medium
-FEL,11.266667,DE,1,,EU,airport,48.2,medium
+FEL,11.266667,DE,1,Fürstenfeldbruck Air Base,EU,airport,48.2,medium
 FEZ,-4.982138,MA,1,,AF,airport,33.93079,medium
 FLN,-48.5452,BR,1,,SA,airport,-27.664446,large
 HFS,13.569167,SE,1,Hagfors Airport,EU,airport,60.0175,medium
 KSD,13.472059,SE,1,Karlstad Airport,EU,airport,59.360283,medium
-FMO,7.694928,DE,1,,EU,airport,52.130054,large
+FMO,7.694928,DE,1,Münster Osnabrück International Airport,EU,airport,52.130054,large
 DUS,6.76558,DE,1,Düsseldorf Airport,EU,airport,51.278328,large
 ARN,17.930365,SE,1,Stockholm-Arlanda Airport,EU,airport,59.64982,large
 BMA,17.94608,SE,1,Stockholm-Bromma Airport,EU,airport,59.35566,medium
@@ -4590,7 +4590,7 @@ PMW,-48.35278,BR,1,Brigadeiro Lysias Rodrigues Airport,SA,airport,-10.241667,med
 PET,-52.324444,BR,1,Pelotas Airport,SA,airport,-31.718056,medium
 PNZ,-40.490555,BR,1,Senador Nilo Coelho Airport,SA,airport,-9.393333,medium
 PNB,-48.416668,BR,1,Porto Nacional Airport,SA,airport,-10.7,medium
-SXF,13.521388,DE,1,,EU,airport,52.370277,large
+SXF,13.521388,DE,1,Berlin Schönefeld Airport,EU,airport,52.370277,large
 BPS,-39.081097,BR,1,Porto Seguro Airport,SA,airport,-16.441158,medium
 PVH,-63.898308,BR,1,Governador Jorge Teixeira de Oliveira Airport,SA,airport,-8.714311,medium
 SZF,36.555058,TR,1,,AS,airport,41.25738,medium
